@@ -1,0 +1,1 @@
+<span><img class="img-responsive" alt="Ad1" src="http://placehold.it/1200x100"></span>

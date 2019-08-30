@@ -1,0 +1,725 @@
+---
+sign_in: Sign
+sign_up: साइन अप करें
+agent_panel: एजेंट पैनल
+admin_panel: व्यवस्थापक पैनल
+DBC_ADVANCED_SEARCH: उन्नत खोज
+DBC_HOME: घर
+DBC_ABOUT: के बारे में
+DBC_CONTACT: संपर्क
+country: देश
+state_province: राज्य / प्रांत
+city: शहर
+register: रजिस्टर
+details: विवरण
+view_all: सभी देखें
+order_by: आदेश के द्वारा
+none: कोई नहीं
+terms_and_conditions: नियम और स्थिति
+reg_success_message: आपका खाता पंजीकरण सफल है। एक ईमेल आपके ईमेल के लिए भेजा गया था। अपने account.Thanks सक्रिय करने के लिए कि ईमेल का पालन करें
+limit: सीमा
+usage: उपयोग
+recover: स्वस्थ
+oops: ओह, पृष्ठ नहीं मिला
+share_this: इसे साझा करें
+location_map: स्थान का नक्शा
+image_gallery: छवि गैलरी
+gallery: गैलरी
+summary: सारांश
+overview: अवलोकन
+address: पता
+message: संदेश
+email_subject: ईमेल विषय
+all: सभी
+DBC_DELETED: हटाए गए
+contact_us: हमसे संपर्क करें
+DBC_ACTIVE: सक्रिय
+featured_video: विशेष रुप से प्रदर्शित वीडियो
+estates: Estates
+embed_video_url: embeded वीडियो यूआरएल
+DBC_PENDING: लंबित
+email_tracker: ईमेल ट्रैकर
+bulk_email: थोक ईमेल
+advanced_filters: उन्नत फिल्टर
+result: परिणाम
+payment_notification: आप एक भुगतान करने के लिए जा रहे हैं। एक ईमेल के अपने ईमेल के लिए भेजा है। आप उस ईमेल पर कड़ी से कभी भी इस कदम को वापस कर सकते हैं।
+confirmation: पुष्टिकरण
+tags: टैग
+zip_code: पिन कोड
+embed_preview: एम्बेड पूर्वावलोकन
+login: लॉगिन
+post_not_found: पोस्ट नहीं मिले
+view_more: और देखें
+choose_a_package: एक पैकेज चुनें
+choose_feature_package: एक सुविधा पैकेज चुनें
+no_package_found: कोई पैकेज नहीं मिला
+days: दिन
+posts: पोस्ट
+change: बदलें
+subscribe: सदस्यता लें
+image: छवि
+view_on_map: मानचित्र पर देखें
+create: बनाएं
+basic_info: बुनियादी जानकारी
+send: भेजें
+all_email_to_users: उपयोगकर्ताओं के लिए सभी ईमेल
+email_detail: ईमेल विस्तार
+change_package: पैकेज बदलें
+bank_transfer: बैंक स्थानांतरण
+contact_subject: संपर्क ईमेल
+payment_finish_title: भुगतान पूरा
+payment_renew_title: भुगतान पूरा
+payment_finish_text: आपका भुगतान पूरा हो गया है। जैसे ही हम पेपैल से पुष्टि प्राप्त आपका खाता सक्रिय हो जाएगा
+payment_renew_text: आपका भुगतान पूरा हो गया है। जैसे ही हम पेपैल से पुष्टि प्राप्त आपके अकाउंट नए सिरे से किया जाएगा
+payment_cancel_title: भुगतान रद्द
+payment_cancel_text: आपका भुगतान रद्द कर दिया है
+feature_payment_finish: आपका भुगतान पूरा हो गया है। जैसे ही हम पेपैल से पुष्टि प्राप्त के रूप में, अपनी संपत्ति चित्रित किया जाएगा।
+feature_payment_cancel: आपका भुगतान रद्द कर दिया है।
+private_owner: निजी मालिक
+selected_package: चयनित पैकेज
+signup_with_social_account: सामाजिक खाते के साथ साइनअप
+password: पासवर्ड
+confirm_password: पासवर्ड की पुष्टि
+all_posts: सभी पदों
+no_posts: नहीं पोस्ट
+title: शीर्षक
+description: विवरण
+status: स्थिति
+actions: प्रक्रिया
+action: लड़ाई
+type:
+type_something: कुछ लिखें
+content: सामग्री
+featured_image: प्रदर्शित छवि
+category: श्रेणी
+all_categories: सभी श्रेणियाँ
+edit_category: श्रेणी संपादित करें
+new_category: नई श्रेणी
+parent: जनक
+edit: संपादित करें
+delete: हटाएँ
+name: नाम
+save: सहेजें
+no_parent: नहीं माता-पिता
+edit_email_template: ईमेल टेम्पलेट संपादित करें
+select_template_file: टेम्पलेट फ़ाइल का चयन
+subject: विषय
+body: शरीर
+available_variables: उपलब्ध चर
+select_language: भाषा चुने
+select_language_file: भाषा का चयन करें फ़ाइल
+edit_as_new: नए रूप में संपादित करें
+language: भाषा
+add_another: एक और जोड़े
+export_to_file: निर्यात दायर करने के लिए
+import_from_file: फ़ाइल से आयात
+auto_translator: ऑटो अनुवादक
+from_lang: लैंग से
+target_lang_full_name: लक्ष्य लैंग पूरा नाम
+target_lang_short_name: लक्ष्य लैंग छोटा नाम
+create_new_package: नया पैकेज बनाएँ
+price: मूल्य
+maximum_post_by_user: उपयोगकर्ता द्वारा अधिकतम पदों
+expirtion_time: Expirtion समय (दिन)
+create_package: पैकेज बनाएँ
+edit_package: पैकेज को संपादित
+update_package: अद्यतन पैकेज
+add_packages: संकुल जोड़ें
+all_packages: सभी संकुल
+no_packages: नहीं संकुल
+options: विकल्प
+all_pages: सभी पृष्ठों
+no_pages: नहीं पृष्ठों
+manage_menu: मेनू का प्रबंधन करें
+menu_title: मेनू शीर्षक
+menu_alias: मेनू उर्फ
+show_in_menu: मेनू में दिखाएँ
+page_layout: पेज लेआउट
+content_from: से सामग्री
+url: यूआरएल
+seo_options: एसईओ विकल्प
+meta_description: मेटा विवरण
+key_words: कुंजी शब्द
+crawl_after: के बाद क्रॉल (दिन)
+all_plugins: सभी plugins
+no_plugins: कोई प्लगइन्स
+name_and_version: नाम और संस्करण
+change_password: पासवर्ड बदलें
+current_password: वर्तमान पासवर्ड
+new_password: नया पासवर्ड
+retype_password: पासवर्ड फिर से लिखें
+password_reset_info_msg: कृपया पहले अपना नया पासवर्ड सेट करें
+profile_picture: प्रोफ़ाइल चित्र
+username: यूजर का नाम
+email: ईमेल
+first_name: पहला नाम
+last_name: नाम
+gender: लिंग
+phone: फोन
+company_name: कंपनी का नाम
+about_me: मेरे बारे में
+facebook_account: फेसबुक अकाउंट
+twitter_account: ट्विटर अकाउंट
+linkedin_account: लिंक्डइन अकाउंट
+gp_account: गूगल अकाउंट
+account_msg: Please enter the link, without http: //
+web_email_settings: वेब ईमेल सेटिंग
+contact_email: संपर्क ईमेल
+webadmin_name: Webadmin नाम
+webadmin_email: Webadmin ईमेल
+update: अद्यतन
+upload: अपलोड
+site_settings: साइट सेटिंग्स
+site_title: साइट शीर्षक
+footer_text: पाद पाठ
+site_logo: साइट लोगो
+site_language: साइट भाषा
+site_text_direction: साइट पाठ दिशा
+per_page: अंक लगाना प्रति पेज
+default_page_layout: चूक पेज लेआउट
+tracking_code: ट्रैकिंग कोड
+smtp_email_settings: एसएमटीपी ईमेल सेटिंग
+smtp_email: एसएमटीपी ईमेल
+smtp_host: एसएमटीपी होस्ट
+smtp_port: SMTP पोर्ट
+smtp_timeout: एसएमटीपी मध्यांतर
+smtp_user: एसएमटीपी उपयोगकर्ता
+smtp_password: एसएमटीपी पासवर्ड
+generate_site_map: साइट मानचित्र उत्पन्न
+sitemap_info_msg: नायब करें जो आप साइटमैप एक्सएमएल पर शामिल होने के लिए चाहते हैं। बाद सफल पीढ़ी sitemap.xml जड़ निर्देशिका के अंतर्गत सहेजा जाता है। तुम भी अपने यूआरएल सहित के लिए उस फ़ाइल को संपादित कर सकते हैं।
+pages: पृष्ठ
+blog_posts: ब्लॉग पोस्ट
+articles: लेख
+blog_post: ब्लॉग पोस्ट
+blog: ब्लॉग पोस्ट
+article: अनुच्छेद
+news: समाचार
+view_xml: देखें एक्सएमएल
+create_xml: एक्सएमएल बनाएं
+manage_backups: प्रबंधित बैकअप
+create_sql_backup: एसक्यूएल बैकअप बनाएं
+create_image_backup: छवि बैकअप बनाएं
+restore: पुनर्स्थापित
+download: डाउनलोड
+dashboard: डैशबोर्ड
+overview_stats_more: अवलोकन, आँकड़े और अधिक
+visit_site: भेंट साइट
+logout: लॉगआउट
+themes: विषय-वस्तु
+locations: स्थान
+paypal_settings: पेपैल सेटिंग
+payment_history: भुगतान इतिहास
+profile: प्रोफ़ाइल
+packages: संकुल
+widgets: विजेट
+all_widgets: सभी विजेट
+widget_positions: विजेट पदों
+blog_news_article: ब्लॉग / समाचार / लेख
+new_post: नई पोस्ट
+pages_and_menu: पन्ने और मेनू
+new_page: नया पृष्ठ
+menu: मेनू
+system: सिस्टम
+manage_languages: प्रबंधित बोली
+auto_translate: ऑटो अनुवाद
+edit_email_text: ईमेल पाठ संपादित करें
+admin_settings: वेब व्यवस्थापक सेटिंग्स
+sitemap: साइट मानचित्र
+activate: सक्रिय
+active_theme: चर्चित विषय
+available_themes: उपलब्ध विषयों
+all_users: सभी उपयोगकर्ता
+create_user: उपयोगकर्ता बनाएं
+export_user_email: निर्यात उपयोगकर्ता ईमेल (.csv)
+profile_info: प्रोफाइल इन्फो
+ban_forever: हमेशा के लिए प्रतिबंध
+edit_page: पेज संपादित
+create_widget: विजेट बनाएं
+widget_name: विजेट नाम
+activate_deactivate: सक्रिय / डी-एक्टिवेट
+show: दिखाओ
+available_widgets: उपलब्ध विजेट
+active_widgets: सक्रिय विजेट
+delete_warning: क्या आप वाकई को नष्ट करना चाहते हैं।
+yes: "हाँ"
+no: "नहीं"
+product_name: व्यापार निर्देशिका
+fa_icon: एफए आइकन वर्ग
+post_ad: सूची व्यापार
+post_ad_subtitle: अपने व्यवसाय के विस्तार रखो
+signin: प्रवेश
+signup: साइन अप करें
+signup_title: अपने खाते बनाएं
+not_found: नहीं मिला
+purpose: उद्देश्य
+purpose_buy: खरीदें
+purpose_sell: बेचें
+select_category: श्रेणी का चयन करें
+contact_for_price: मूल्य के लिए संपर्क
+address_info: पता जानकारी
+general_info: सामान्य जानकारी
+upload_later_msg: आप पोस्ट निर्माण के बाद गैलरी तस्वीरें और वीडियो URL अपलोड करने में सक्षम हो जाएगा
+user_panel: उपयोगकर्ता पैनल
+put_as_comma_seperated: के रूप में (,) अल्पविराम sperated डाल
+added: जोड़ा गया
+location: स्थान
+views: दृश्य
+package_type: प्रकार
+post_package: पोस्ट पैकेज
+featured_package: प्रदर्शित पैकेज
+both_package: पोस्ट और विशेष रुप से
+select_package: पैकेज का चयन
+package_created: पैकेज बनाया
+package_updated: पैकेज अद्यतन
+slider: स्लाइडर
+add_new: नए जोड़े
+new_slide: नई स्लाइड
+update_slide: अद्यतन स्लाइड
+save_order: आदेश में सहेजें
+slider_sort_instruction: आप तालिका पंक्तियों से हल करने के लिए ड्रॉप खींच सकते हैं। क्रम में बचाने छंटाई के बाद
+search: खोज
+results: परिणाम
+property_location_on_map: संपत्ति स्थान का नक्शा पर
+location_on_map: मानचित्र पर स्थान
+contact_mode: संपर्क मोड
+reset: रीसेट
+contact: संपर्क
+default_site_view: चूक साइट देखें
+type_your_message: यहाँ अपना संदेश लिखें ..
+mail_sent: मेल भेजा
+search_classifieds: खोज BusinessDirectorys
+advanced_search: उन्नत खोज
+narrow_down_your_businesses: अपने कारोबार नीचे संकीर्ण
+home: घर
+print:
+remember_me: मुझे याद है
+forgot_password: पासवर्ड भूल
+login_failed: लॉगिन विफल
+login_to_your_account: अपने खाते में प्रवेश
+register_your_account: अपने खाते रजिस्टर
+male:पुरूष
+female: महिला
+no_location_found: नहीं स्थान पाया
+state: राज्य
+ad_creation_error: विज्ञापन निर्माण में त्रुटि! कृपया जांचें।
+users: उपयोगकर्ता
+show_admin_user: दिखाएँ व्यवस्थापक उपयोगकर्ता
+send_email_to_business: व्यापार ईमेल भेजें
+DBC_PAYMENT_PENDING: भुगतान लंबित
+DBC_EXPIRED: समय सीमा समाप्त
+categories: श्रेणियाँ
+top_posts: शीर्ष पोस्ट
+show_state_province: दिखाएँ राज्य प्रांत
+package_settings: पैकेज सेटिंग
+default_site_settings: चूक साइट सेटिंग्स
+webadmin_settings: Webadmin सेटिंग
+banner_settings: बैनर सेटिंग
+max_price_for_search: अधिकतम मूल्य खोज के लिए
+search_filters: खोज फिल्टर
+posts_per_page: प्रति पृष्ठ के पोस्ट
+recent_posts: हाल के पोस्ट
+featured_posts: रुप से प्रदर्शित पोस्ट
+top_locations: शीर्ष स्थान
+top_users: शीर्ष उपयोगकर्ता
+approve: स्वीकृत
+make_featured: विशेष रुप से प्रदर्शित
+remove_featured: विशेष रुप से हटाये
+renew_featured: विशेष रुप से नवीनीकृत
+renew_package: पैकेज को नवीनीकृत
+no_renew_post_id: अमान्य पोस्ट आईडी को नवीनीकृत
+approve_payment: भुगतान स्वीकृत
+transaction: लेन-देन
+transaction_id: लेन-देन आईडी
+post_id: पोस्ट आईडी
+amount: राशि
+request_date: अनुरोध तारीख
+expiration_date: समाप्ति की तारीख
+transaction_deleted: लेन-देन को हटाया
+payment_approved: भुगतान को मंजूरी दे दी
+logged_in_as: रूप में लॉग इन
+posted_on: प्रकाशित किया गया था
+confirm_email_send: पुष्टिकरण ईमेल ईमेल से निर्देशों का पालन send.Please।
+email_confirmed: ईमेल confirmed.You अब अपना ईमेल और पासवर्ड के साथ प्रवेश कर सकते हैं
+email_confirmed_failed: पुष्टिकरण failed.Confirmation ईमेल और कोड से मेल नहीं खाती।
+password_change_success: पासवर्ड सफलतापूर्वक परिवर्तित
+email_sent_inbox: एक ईमेल आपके inbox.Check है कि ईमेल करने के लिए भेज रहा है।
+password_recovery_link_invalid: पासवर्ड रिकवरी लिंक मान्य नहीं है
+user_updated: उपयोगकर्ता Updated
+user_deleted: उपयोगकर्ता हटाए गए
+user_banned: उपयोगकर्ता प्रतिबंधित
+user_unbanned: उपयोगकर्ता unbanned
+user_confirmed: उपयोगकर्ता की पुष्टि की
+post_deleted: पोस्ट हटाए गए
+post_updated: पोस्ट Updated
+post_created: पोस्ट बनाया
+post_featured: पोस्ट चित्रित किया
+data_inserted: डाटा डाला
+data_updated: डेटा अपडेट
+feature_renewed: फ़ीचर नए सिरे से
+post_feature_removed: पोस्ट सुविधा हटा
+post_approved: पोस्ट स्वीकृत
+invalid_post: अमान्य पोस्ट
+email_sent: भेजा गया ईमेल
+settings_updated: सेटिंग्स Updated
+package_removed: पैकेज निकाले गए
+page_updated: पेज Updated
+page_created: पेज बनाया
+page_deleted: पृष्ठ हटा
+menu_updated: मेनू Updated
+site_map_generation_success: साइट मानचित्र सफलतापूर्वक उत्पन्न।
+select_option: पर चयन या एक से अधिक विकल्प का चयन करें।
+image_backup_created: छवि बैकअप बनाया
+language_translated: भाषा का अनुवाद
+unable_to_write_file: फ़ाइल लिखने में असमर्थ
+backup_deleted: बैकअप हटाए गए
+database_restored: डेटाबेस लौटी
+theme_activated: थीम सक्रिय
+user_created: उपयोगकर्ता बनाया
+widget_position_updated: विजेट स्थिति अद्यतन
+widget_created: विजेट बनाया
+widget_data_updated: विजेट डेटा अपडेट
+unable_to_write_widget: विजेट लिखने में असमर्थ
+post_created_and_published: पोस्ट बनाया है और प्रकाशित
+post_created_approval: पोस्ट बनाया है और व्यवस्थापक अनुमोदन के लिए इंतजार
+post_package_renewed: पोस्ट पैकेज नए सिरे से
+payment_finish: भुगतान खत्म
+payment_cancelled: भुगतान रद्द
+admin_change_pass_help: खाली छोड़ देते हैं कोई परिवर्तन की जरूरत
+go_to_paypal: पेपैल के लिए जाओ
+login_with_google: गूगल के साथ लॉगिन
+login_with_facebook: फेसबुक के साथ लॉगिन
+load_more_recent_posts: लोड अधिक हाल के पोस्ट
+load_more_featured_posts: लोड अधिक प्रदर्शित पोस्ट
+register_for_new_account: नई खाते के लिए रजिस्टर
+site_map: साइट मानचित्र
+show_site_map: दिखाएँ साइट मानचित्र
+service: सेवा
+features: विशेषताएं
+about: के बारे में
+view_posts: पोस्ट देखें
+see_full_documentation: पूर्ण दस्तावेज़ देखें
+select_city: शहर चुनें
+parallax_slider: लंबन स्लाइडर
+all_slides: सभी स्लाइड्स
+no_slide: नहीं स्लाइड
+slide_order: स्लाइड आदेश
+edit_profile: प्रोफ़ाइल संपादित करें
+post_price_settings: पोस्ट कीमत सेटिंग्स
+enable_post_pricing: पोस्ट मूल्य निर्धारण सक्षम करें
+enable_paypal_transfer: सक्षम पेपैल
+enable_bank_transfer: बैंक हस्तांतरण सक्षम करें
+bank_transfer_instruction_for_posts: बैंक स्थानांतरण निर्देश
+featured_price_settings: प्रदर्शित कीमत सेटिंग्स
+enable_featured_pricing: विशेष रुप से मूल्य निर्धारण सक्षम करें
+enable_featured_paypal: पेपैल सक्षम करें
+enable_featured_bank_transfer: बैंक हस्तांतरण सक्षम करें
+bank_transfer_instruction_for_featured_posts: बैंक स्थानांतरण अनुदेश
+bank_currency_settings: बैंक मुद्रा सेटिंग्स
+bank_currency: बैंक मुद्रा
+use_same_as_paypal_currency: पेपैल मुद्रा के रूप में ही प्रयोग करें
+admin: व्यवस्थापक
+re_password: पासवर्ड फिर से लिखें
+explain_widget_position: विजेट पदों समझाओ
+post: पोस्ट
+post_renew: पोस्ट को नवीनीकृत
+feature: फ़ीचर
+feature_renew: सुविधा को नवीनीकृत
+payment_for: के लिए भुगतान
+select_country: देश चुनना
+select_one: एक का चयन करें
+video_url: vidoe यूआरएल
+confirm_payment: भुगतान की पुष्टि
+package_title: पैकेज शीर्षक
+number_of_featured_days: दिनों की संख्या चित्रित किया
+no_of_days: दिनों की संख्या
+expiration_time: समय सीमा समाप्ति समय
+any_city: किसी भी शहर
+any_category: किसी भी श्रेणी
+product_admin_panel: विशेषज्ञ व्यवस्थापक
+username_or_email: उपयोगकर्ता नाम या ईमेल
+business_detail: व्यापार विस्तार
+post_detail_subtitle:
+posts_by: पोस्ट द्वारा
+featured: विशेष रुप से प्रदर्शित
+edit_user: उपयोगकर्ता संपादित करें
+the_field_is_required:% s क्षेत्र की आवश्यकता है।
+valid_email:% s क्षेत्र एक मान्य ईमेल पता होना चाहिए।
+min_length:% s क्षेत्र लंबाई में कम से कम% s अक्षरों का होना चाहिए।
+numeric:% s क्षेत्र केवल अंक ही होना चाहिए।
+matches:% s क्षेत्र% s क्षेत्र से मेल नहीं खाती।
+greater_than:% s% s क्षेत्र से अधिक से अधिक संख्या में होते हैं चाहिए।
+agree_terms: मैं% s नियमों और शर्तों% s पढ़ा है
+must_accept_terms: आप नियम और शर्त को स्वीकार करना चाहिए
+dont_have_permission: आप इस पेज को उपयोग करने के लिए अनुमति नहीं है
+email_allready_in_use: ईमेल पहले से ही उपयोग में
+username_allready_in_use: प्रयोक्ता नाम allready उपयोग में
+current_password_not_matched: वर्तमान पासवर्ड didn \ 't मैच
+email_or_password_not_mathed: ईमेल या पासवर्ड Doen \ 't मैच
+email_not_matched: मिलान नहीं किया ईमेल
+account_not_confirmed: इस बात की पुष्टि नहीं खाता
+all_locations: सभी स्थानों
+add_country: देश जोड़े
+add_state: राज्य के लिए जोड़े
+add_city: शहर जोड़ें
+no_locations: कोई स्थान नहीं
+banner_type: बैनर प्रकार
+bg_image: पृष्ठभूमि छवि
+unique_alias:% s क्षेत्र अद्वितीय की जरूरत है
+error_occured: त्रुटि हुई। नीचे दिए गए फ़ील्ड की जाँच करें
+user_profile: उपयोगकर्ता प्रोफ़ाइल '
+user_email: उपयोगकर्ता ई-मेल
+target_lang_name: लक्ष्य भाषा
+no_emails: कोई ईमेल
+to: करने के लिए
+classified_settings: सेटिंग्स वर्गीकृत
+publish_posts_directly: पदों सीधे प्रकाशित करें
+system_currency: सिस्टम मुद्रा
+enable_signup: साइन अप सक्षम करें
+if_package_expired: यदि पैकेज की समय सीमा समाप्त
+do_not_hide: छिपा नहीं है
+hide: छुपाएं
+show_price_like: मूल्य प्रारूप
+facebook_app_settings: फेसबुक अनुप्रयोग सेटिंग्स
+enable_facebook_login: फेसबुक लॉगइन सक्षम करें
+fb_app_id: फेसबुक अनुप्रयोग आईडी
+fb_secret_key: फेसबुक गुप्त कुंजी
+comment_settings: टिप्पणी सेटिंग्स
+enable_comment: टिप्पणी सक्षम करें
+disqus_shortname: Disqus Shortname
+sandbox_mode: Sandbox मोड
+item_name: आइटम नाम
+paypal_email: पेपैल ईमेल
+currency: मुद्रा
+finish_url: समाप्त यूआरएल
+cancel_url: रद्द यूआरएल
+menu_background: मेनू पृष्ठभूमि
+menu_text_color: मेनू पाठ रंग
+activated_menu_color: सक्रिय मेनू रंग
+top_bar_bg: शीर्ष बार बीजी
+activated_menu_text_color: सक्रिय मेनू पाठ रंग
+latitude: अक्षांश
+longitude: देशांतर
+map_zoom: मानचित्र जूम
+search_panel_settings: खोज पैनल सेटिंग्स
+search_panel_bg_color: खोज पैनल बीजी रंग
+show_background_image: दिखाएँ पृष्ठभूमि छवि
+active_widget_position: सक्रिय विजेट स्थिति
+upload_and_install: अपलोड करें और स्थापित करें
+install_updates: उन्हे स्थापित करें / विषयों / plugins / विजेट
+confirmation_email: पुष्टिकरण ईमेल
+recovery_email: पुनर्प्राप्ति ईमेल
+signup_notification_email: रजिस्टर अधिसूचना ईमेल
+payment_confirmation_email: भुगतान की पुष्टि ईमेल
+click_and_edit: एक टेम्पलेट फ़ाइल का चयन करें और संपादित करें क्लिक करें]
+google_analytics_settings: गूगल AnalyticsSettings
+default_seo_settings: चूक एसईओ सेटिंग्स
+individual: अलग-अलग
+find_us_on_facebook: हमें फेसबुक पर खोजें
+category_featured_posts: विशेष रुप से पदों
+load_more_posts: अधिक भार
+home_page_title: खोज और पोस्ट श्रेणी टॉप
+no_posts_found: कोई पोस्ट नहीं
+type_anything: कुछ भी टाइप
+chosen_not_found: ओह, कुछ भी नहीं पाया!
+rating_asc: रेटिंग आरोही
+rating_desc: रेटिंग अवरोही
+id_desc: आईडी अवरोही
+id_asc: आईडी आरोही
+show_daily_menu: दिखाएँ दैनिक मेनू
+website: वेबसाइट
+founded: स्थापित
+year: वर्ष
+price_range: प्राइस रेंज
+additional_features: अतिरिक्त सुविधाएँ
+add_more_fields: अधिक क्षेत्रों को जोड़ने
+remove: निकालें
+distance_around_my_position: मेरी स्थिति के आसपास दूरी
+show_distance_in: में शो दूरी
+business_listed: व्यापार लिस्टेड
+show_street_view: दिखाएँ सड़क दृश्य
+list_business: सूची व्यापार
+search_businesses: खोज व्यवसायों
+top_businesses: शीर्ष व्यवसायों
+featured_businesses: विशेष रुप से व्यापार
+business_directory_settings: व्यापार निर्देशिका सेटिंग्स
+hide_email: मिटायें ईमेल
+hide_phone: मिटायें फोन
+review: समीक्षा
+comment: टिप्पणी
+submit_review: समीक्षा जमा करें
+rating: रेटिंग
+review_alert: आप समीक्षा प्रस्तुत करने के लिए लॉग इन होना चाहिए।
+new_business: नई व्यापार
+identify_my_location: मेरे स्थान की पहचान
+data_deleted: डाटा नष्ट कर दिया
+recent_reviews: हाल समीक्षा
+view_all_reviews: सभी समीक्षाएं देखें
+review_deleted: समीक्षा हटाए गए
+review_detail: विस्तार
+all_reviews: सभी समीक्षा
+monday: सोमवार
+tuesday: मंगलवार
+wednesday: बुधवार
+thursday: गुरुवार
+friday: शुक्रवार
+saturday: शनिवार
+sunday: रविवार
+opening_hour: उद्घाटन घंटे
+closed: बंद रहता है
+airport: हवाई अड्डे
+cafe: कैफे
+cinemas: सिनेमाज
+hotels_and_resorts: होटल और रिसॉर्ट्स
+libraries: पुस्तकालय
+night_clubs: नाइट क्लब
+offices: कार्यालयों
+restaurants: रेस्टोरेंट
+shops: दुकानें
+review_submitted: समीक्षा प्रस्तुत
+social_links: सामाजिक लिंक
+upgrade_browser: ब्राउज़र को अपग्रेड
+please_upgrade_your_browser: अपने ब्राउज़र को अपग्रेड करें
+business: व्यवसाय
+introduction: परिचय
+terms: नियम और शर्त
+email_not_found: ईमेल नहीं मिला
+city_dropdown: शहर लटकती
+published: प्रकाशित
+publish: प्रकाशित
+drafted: मसौदा तैयार
+draft: ड्राफ्ट
+from: से
+send_bulk_email: थोक ईमेल भेजें
+ive_read_the: मैंने पढ़ा है
+title_city_category: शीर्षक, शहर या श्रेणी
+dt_first: प्रथम
+dt_last: अंतिम
+dt_next: अगली
+dt_prev: पिछला
+dt_no_data: कोई डेटा तालिका में उपलब्ध
+dt_show_empty: 0 0 की प्रविष्टियों को 0 दिखा
+dt_no_match: कोई मिलान रिकॉर्ड पाया
+dt_search: खोज
+dt_processing: प्रसंस्करण ...
+dt_loading: लोड हो रहा है ...
+dt_info: _TOTAL_ प्रविष्टियों की _END_ को दिखा _START_
+dt_filter_info: (_MAX_ कुल प्रविष्टियों से फ़िल्टर)
+dt_show_entries: _MENU_ दिखाएँ प्रविष्टियों
+get_directions: दिशा मिल
+review_not_submitted : आप पहले से ही एक समीक्षा दे दिया है
+debug_email : डीबग ईमेल
+email_to : ईमेल करने के लिए
+report_the_business : इस बिजनेस रिपोर्ट
+reported : सूचना दी
+already_reported : पहले से ही सूचना दी
+reported_post : सूचना दी पदों
+all_reported_posts : सभी पदों सूचना दी
+report: रिपोर्ट
+assigned_to: करने के लिए निरुपित
+select_assigned_to: उपयोगकर्ता का चयन
+css_compression: सीएसएस संपीड़न
+gallery_notes: व्यवस्थित करने के लिए ड्रॉप खींच सकते हैं। फ़ोटो का आकार बदल नहीं कर रहे हैं।
+video_notes: यूट्यूब या Vimeo यूआरएल
+post_expiration_notification: पोस्ट समाप्ति की अधिसूचना
+claim_the_business: व्यापार के लिए दावा
+claim_business_instructions: नीचे के फार्म भरें और संदेश बटन क्लिक करें। साइट व्यवस्थापक ईमेल या फोन के जरिए संपर्क करेंगे।
+claimed_business: दावा किया व्यवसाय
+days_left: दिन बचे
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: छवि आयाम बहुत कम है
+view_on_front: मोर्चे पर देखें
+clear_unused_img: साफ अप्रयुक्त छवियों
+unused_files_found: पाया अप्रयुक्त फ़ाइलों
+clear_unused_img: साफ अप्रयुक्त छवियों
+unused_images_cleared: अप्रयुक्त छवियों को मंजूरी दे दी
+unused_info_msg: इस समारोह में केवल छवियों जो व्यापार, उपयोगकर्ताओं, श्रेणियों, पृष्ठों, ब्लॉग्स द्वारा नहीं किया जाता है cleares। यह images.So ढूँढने अगर आप मैन्युअल रूप से किसी भी चित्र मैन्युअल अपलोड की गई और उन्हें कोड इसे नष्ट कर दिया जा सकता है के भीतर इस्तेमाल के लिए डेटाबेस के माध्यम से खोज करता है।
+no_unused_img: नहीं अप्रयुक्त छवि पाया
+search_panel_filter_type: फ़िल्टर प्रकार
+basic_options: बेसिक विकल्प
+advanced_options: अग्रिम विकल्प
+key_words: कुंजी शब्द
+sorting_order: छंटनी आदेश
+business_listed_on: व्यापार पर सूचीबद्ध
+business_listed_under: व्यापार के तहत सूचीबद्ध
+all_sub_categories: सभी उप श्रेणियों
+no_sub_categories: नहीं उप श्रेणियों
+open_24_by_7: हमेशा खुले
+hide_my_email : मेरे ईमेल छुपाएं
+disable_email_contact: ईमेल से संपर्क अक्षम
+enable_review: समीक्षा सक्षम करें
+disable_google_street_view: अक्षम गूगल स्ट्रीट व्यू
+location_chorome_msg: गूगल द्वारा स्थान सेवा गैर एसएसएल साइटों (केवल क्रोम ब्राउज़र में) के लिए उपलब्ध नहीं है। आप अपने स्थान प्राप्त करने के लिए अपने आईपी पते का उपयोग करना चाहते हैं? एनबी - परिणाम गूगल के रूप में बिल्कुल ही नहीं हो सकता है
+send_email_to_users: उपयोगकर्ताओं को ईमेल भेजें
+show_banner: दिखाएँ बैनर
+hide_my_phone: मेरा फोन छुपाएं
+kms: किलोमीटर
+miles: मीलों
+logo_text: लोगो पाठ
+logo_type: लोगो प्रकार
+logo_text_color: लोगो पाठ रंग
+Jan: जनवरी
+Feb: फ़रवरी
+Mar: मार्च
+Apr: Apr
+May: हो सकता है
+Jun: जून
+Jul: Jul
+Aug: अगस्त
+Sep: Sep
+Oct: अक्टूबर
+Nov: नवंबर
+Dec: दिसम्बर
+show_search_panel: दिखाएँ खोज पैनल
+delete_selected: अपलोड करें
+camera_spin: कैमरा स्पिन
+degree: डिग्री
+map_api_key: Gmap एपीआई कुंजी
+pricing: मूल्य निर्धारण
+post_package_instruction: हम हमारी वेबसाइट पर एक व्यापार पोस्ट करने के लिए निम्नलिखित संकुल है
+feature_package_instruction: हम एक व्यवसाय बनाने के लिए निम्नलिखित संकुल रुप से प्रदर्शित किया है
+MENU: मेनू
+gplus_app_settings: गूगल + अनुप्रयोग सेटिंग्स
+auth_redirect_url: अधिकृत पुनर्निर्देशित URL
+enable_gplus_login: गूगल लॉगिन सक्षम करें
+gplus_client_id: गूगल ग्राहक आईडी
+gplus_client_secret: गूगल ग्राहक रहस्य
+how_to_get_gplus_api: कैसे Google+ क्लाइंट आईडी और गुप्त पाने के लिए
+gallery_upload_limit: गैलरी अपलोड सीमा
+you_can_upload_max: आप अधिकतम अपलोड कर सकते हैं
+gallery_photos: गैलरी फोटो
+email_confirmed: ईमेल की पुष्टि की। अब आप प्रवेश कर सकते हैं
+email_confirmed_failed: ईमेल पुष्टि विफल रहा है
+advanced_options_with_country_state: देश और राज्य के साथ अग्रिम विकल्प
+select_state: राज्य का चयन करें
+recent_posts_order: हाल के पोस्ट आदेश
+featured_posts_order: प्रदर्शित पदों के आदेश
+default_posts_order: चूक पदों के आदेश
+ASC: आरोही
+DESC: अवरोही
+RANDOM: रैंडम
+useremail: उपयोगकर्ता ई-मेल
+enable_adblocker_alert: adblock चेतावनी सक्षम करें
+adblock_detected: Adblock का पता चला
+adblock_msg: कृपया adblock disbale और पृष्ठ को फिर से ताज़ा
+enable_cookie_policy_popup: कुकी नीति पॉपअप
+cookie_policy_page_url: कुकी नीति पृष्ठ URL
+cookie_policy: कुकी नीति
+cookie_policy_alert: इस साइट कुकीज़ का उपयोग करता है। इस साइट से आप कुकीज़ के हमारे इस्तेमाल के लिए सहमत का उपयोग करने के जारी रखकर।
+read_more: और अधिक पढ़ें
+i_agree: मैं इस बात से सहमत
+instagram: इंस्टाग्राम
+newsletter_subscription: न्यूजलेटर जाओ
+your_email: आपका ईमेल
+email_saved: ईमेल न्यूज़लेटर के लिए बचाया
+send_newsletter: समाचार पत्र भेजें
+unsubscribe: सदस्यता समाप्त
+to_unsubscribe: इस लिंक यदि आप इस सेवा से सदस्यता समाप्त करने के लिए क्लिक करें
+successfully_unsubscribed: अब आप न्यूज़लेटर सेवा से हट रहे हैं
+export_user_phone: निर्यात उपयोगकर्ता फोन
+enable_blog_comment: ब्लॉग टिप्पणी सक्षम करें
+fb_blog_app_id: ब्लॉग के लिए अमेरिकन प्लान एप्लिकेशन आईडी
+disqus_blog_shortname: ब्लॉग के लिए Disqus छोटा नाम
+sample_page: नमूना पेज
+senders_phone: भेजने वाले का फोन
+alias: उर्फ

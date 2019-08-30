@@ -1,0 +1,725 @@
+---
+sign_in: Sign In
+sign_up: Zapisz się
+agent_panel: agent panel
+admin_panel: Panel administracyjny
+DBC_ADVANCED_SEARCH: Wyszukiwanie zaawansowane
+DBC_HOME: Strona główna
+DBC_ABOUT: O
+DBC_CONTACT: Kontakt
+country: Kraj
+state_province: Stan / Prowincja
+city: Miasto
+register: Rejestracja
+details: Szczegóły
+view_all: Zobacz wszystkie
+order_by: Postanowienie o
+none: Brak
+terms_and_conditions: Zalecane warunki
+reg_success_message: Twoja rejestracja konta jest udana. E-mail został wysłany na Twój adres e-mail. Należy przestrzegać tego e-maila, aby aktywować account.Thanks
+limit: Limit
+usage: Wykorzystanie
+recover: Odzyskać
+oops: Ups, strona nie znaleziona
+share_this: Share This
+location_map: Mapa lokalizacji
+image_gallery: Galeria zdjęć
+gallery: Galeria
+summary: Podsumowanie
+overview: Przegląd
+address: Adres
+message: Komunikat
+email_subject: Email Temat
+all: All
+DBC_DELETED: Usunięto
+contact_us: Kontakt z nami
+DBC_ACTIVE: Aktywny
+featured_video: Ciekawa wideo
+estates: nieruchomości
+embed_video_url: osadzone wideo WWW
+DBC_PENDING: Oczekujące
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Zaawansowane filtry
+result: Wynik
+payment_notification: Idziesz do dokonania płatności. E-mail zostanie wysłany na Twój adres e-mail. Można wrócić do tego kroku w każdej chwili z linku w tej wiadomości e-mail.
+confirmation: Potwierdzenie
+tags: Tagi
+zip_code: Kod pocztowy
+embed_preview: Wstaw Podgląd
+login: Zaloguj się
+post_not_found: Temat nie znaleziono
+view_more: Zobacz więcej
+choose_a_package: Wybierz pakiet
+choose_feature_package: Wybierz pakiet funkcji
+no_package_found: Nie znaleziono pakietu
+days: Dni
+posts: Wiadomości
+change: Zmiana
+subscribe: Subskrybuj
+image:
+view_on_map: Zobacz na mapie
+create: Tworzenie
+basic_info: Podstawowe informacje
+send: Wyślij
+all_email_to_users: wszystkie e-maile do użytkowników
+email_detail: Email Szczegóły
+change_package: Zmiana pakietu
+bank_transfer: Przelew
+contact_subject: Kontakt e-mail
+payment_finish_title: Płatność pełna
+payment_renew_title: Płatność pełna
+payment_finish_text: Twoja płatność została zakończona. Tak szybko, jak otrzymaliśmy potwierdzenie od paypal konto zostanie aktywowane
+payment_renew_text: Twoja płatność została zakończona. Tak szybko, jak otrzymaliśmy potwierdzenie od paypal konta zostanie odnowiony
+payment_cancel_title: Płatność Anuluj
+payment_cancel_text: Twoja płatność zostanie anulowana
+feature_payment_finish: Twoja płatność została zakończona. Jak tylko otrzymasz potwierdzenie z systemu PayPal, to osiedle będzie wyróżniona.
+feature_payment_cancel: Twoja płatność zostanie anulowane.
+private_owner: osoba prywatna
+selected_package: wybranego pakietu
+signup_with_social_account: Rejestracja z kontem społecznej
+password:
+confirm_password: Potwierdź hasło
+all_posts: Wszystkie posty
+no_posts: Nie ma postów
+title: Tytuł
+description: Opis
+status: status
+actions: Działania
+action: Działanie
+type:
+type_something: Wpisz coś
+content: Zawartość
+featured_image: Wybrane zdjęcia
+category: Kategoria
+all_categories: Wszystkie kategorie
+edit_category: Edycja kategorii
+new_category: Nowa kategoria
+parent: Rodzic
+edit:
+delete: usuwanie
+name: Nazwa
+save: Zapisz
+no_parent: Żaden rodzic
+edit_email_template: Edycja szablonu e-mail
+select_template_file: Wybierz plik szablonu
+subject: Temat
+body: Ciało
+available_variables: Dostępne zmienne
+select_language: Wybierz język
+select_language_file: Wybierz plik językowy
+edit_as_new: Edit jak nowa
+language:
+add_another: Kolejny Dodaj
+export_to_file: Eksport do pliku
+import_from_file: Import z pliku
+auto_translator: Automatyczny tłumacz
+from_lang: Od lang
+target_lang_full_name: pełna nazwa docelowa lang
+target_lang_short_name: Cel lang Nazwa skrócona
+create_new_package: Utwórz nowy pakiet
+price: Cena
+maximum_post_by_user: Maksymalnie posty użytkownika
+expirtion_time: czas Expirtion (dni)
+create_package: Tworzenie pakietu
+edit_package: Pakiet Edycja
+update_package: pakiet aktualizacji
+add_packages: Dodaj pakiety
+all_packages: Wszystkie Pakiety
+no_packages: Brak pakietów
+options: Opcje
+all_pages: Wszystkie strony
+no_pages: Żadna strona
+manage_menu: menu Manage
+menu_title: Menu Title
+menu_alias: alias Menu
+show_in_menu: Pokaż w menu
+page_layout: Układ strony
+content_from: Treści z
+url: URL
+seo_options: opcje SEO
+meta_description: Meta opis
+key_words: słowa kluczowe
+crawl_after: Crawl po (dni)
+all_plugins: wszystkie wtyczki
+no_plugins: Brak wtyczek
+name_and_version: Nazwa i wersja
+change_password: Zmiana hasła
+current_password: Aktualne hasło
+new_password: Nowe hasło
+retype_password: Powtórz hasło
+password_reset_info_msg: Najpierw Ustaw nowe hasło
+profile_picture: Zdjęcie Profilu
+username: Hasło
+email: E-mail
+first_name: Imie
+last_name: Nazwisko
+gender: Mężczyzna
+phone: Telefon
+company_name: Nazwa firmy
+about_me: O mnie
+facebook_account: konta Facebook
+twitter_account: konto Twitter
+linkedin_account: Linkedin konto
+gp_account: konta Google+
+account_msg: Please enter the link, without http: //
+web_email_settings: Ustawienia internetowej poczty e-mail
+contact_email: Kontakt e-mail
+webadmin_name: Webadmin Nazwa
+webadmin_email: Webadmin email
+update: Aktualizacja
+upload: Upload
+site_settings: Ustawienia witryny
+site_title: Tytuł strony
+footer_text: Tekst stopki
+site_logo: Logo strony
+site_language: Język strony
+site_text_direction: Site Kierunek tekstu
+per_page: Paginacja na stronę
+default_page_layout: Domyślny Układ strony
+tracking_code: kod śledzenia
+smtp_email_settings: Ustawienia SMTP poczty e-mail
+smtp_email: SMTP Email
+smtp_host: SMTP Host
+smtp_port: Port SMTP
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP użytkownika
+smtp_password: Hasło SMTP
+generate_site_map: Generowanie mapy serwisu
+sitemap_info_msg: NB Proszę wybrać, które chcesz zostać wprowadzone sitemap xml. Po udanych generacji mapawitryny.xml zostanie zapisany w katalogu root. Można również edytować ten plik w tym własne adresy URL.
+pages: Strony
+blog_posts: Blogu
+articles: Artykuły
+blog_post: Blog post
+blog: Wpis na blogu
+article: Artykuł
+news:
+view_xml: Zobacz XML
+create_xml: Tworzenie XML
+manage_backups: zarządzać kopiami zapasowymi
+create_sql_backup: Tworzenie kopii zapasowej SQL
+create_image_backup: Tworzenie kopii zapasowej obrazu
+restore: Przywracanie
+download: Pobierz
+dashboard: Dashboard
+overview_stats_more: Przegląd, statystyki i inne
+visit_site: wejdź na stronę
+logout: Wyloguj
+themes: Tematy
+locations: Lokalizacje
+paypal_settings: Paypal Ustawienia
+payment_history: Historia płatności
+profile:
+packages: Opakowania
+widgets: Widżety
+all_widgets: Wszystkie Widgets
+widget_positions: Widget Pozycje
+blog_news_article: Blog / Aktualności / Artykuł
+new_post: Nowy post
+pages_and_menu: Strony i Menu
+new_page: Nowa strona
+menu: Menu
+system: System
+manage_languages: Zarządzanie Języki
+auto_translate: Auto Translate
+edit_email_text: Edit email Tekst
+admin_settings: Ustawienia Web Admin
+sitemap: Mapa strony
+activate: Aktywacja
+active_theme: Aktywny Theme
+available_themes: Wolne tematy
+all_users: Wszyscy użytkownicy
+create_user: Tworzenie użytkownika
+export_user_email: E-maile Export użytkowników (.csv)
+profile_info: Informacje o profilu
+ban_forever: Ban na zawsze
+edit_page: Edycja strony
+create_widget: Tworzenie widget
+widget_name: Widget Nazwa
+activate_deactivate: Aktywacja / dezaktywować
+show: pokaż
+available_widgets: Dostępne Widgets
+active_widgets: Aktywny Widgety
+delete_warning: Czy na pewno chcesz należy usuwać.
+yes: "tak"
+no: "nie"
+product_name: Katalog Firm
+fa_icon: FA klasy ikona
+post_ad: biznes Lista
+post_ad_subtitle: Połóż szczegół biznesu
+signin: signin
+signup: Rejestracja
+signup_title: Utwórz konto
+not_found: Nie znaleziono
+purpose: Cel
+purpose_buy: Sprzedam
+purpose_sell: Kupię
+select_category: Wybierz kategorię
+contact_for_price: Kontakt o cenę
+address_info: Adres Info
+general_info: Informacje ogólne
+upload_later_msg: Będziesz w stanie przesłać zdjęcia galeria i wideo URL po utworzeniu wątku
+user_panel: Panel Użytkownika
+put_as_comma_seperated: umieścić w (,) przecinek sperated
+added: Dodano
+location: Lokalizacja
+views: Widoki
+package_type: Typ
+post_package: Pakiet post
+featured_package: Ciekawa Pakiet
+both_package: Post i funkcjonalny
+select_package: Wybierz pakiet
+package_created: Pakiet stworzony
+package_updated: Pakiet aktualizowany
+slider: Suwak
+add_new: Dodaj nowe
+new_slide: Nowy slajd
+update_slide: Aktualizacja slajdów
+save_order: Zapisz zamówienie
+slider_sort_instruction: Można przeciągnij upuść, aby posortować wiersze tabeli. Po sortowaniu Zapisz rzędu
+search: Szukaj
+results: Wyniki
+property_location_on_map: Property mapa
+location_on_map: mapa
+contact_mode: Kontakt Tryb
+reset: Reset
+contact:kontakt
+default_site_view: Default view site
+type_your_message: Wpisz swoją wiadomość tutaj ..
+mail_sent: mail wysłany
+search_classifieds: Szukaj BusinessDirectorys
+advanced_search: Wyszukiwanie zaawansowane
+narrow_down_your_businesses: Sprecyzuj swoje firmy
+home: Strona główna
+print:
+remember_me: Zapamiętaj mnie
+forgot_password: Nie pamiętam hasła
+login_failed: Logowanie nie powiodło się
+login_to_your_account: Zaloguj się na swoje konto
+register_your_account: rejestracja konta
+male: Mężczyzna
+female: Kobieta
+no_location_found: Nie Lokalizacja Found
+state: stan
+ad_creation_error: Błąd w tworzeniu reklam! Proszę sprawdzić.
+users: Użytkownicy
+show_admin_user: Pokaż Admin User
+send_email_to_business: Wyślij e-mail do biznesu
+DBC_PAYMENT_PENDING: Płatność oczekująca
+DBC_EXPIRED: Wygasł
+categories: Kategorie
+top_posts: Top Posty
+show_state_province: Pokaż State Province
+package_settings: Ustawienia opakowania
+default_site_settings: Domyślne ustawienia stron
+webadmin_settings: Ustawienia Webadmin
+banner_settings: Ustawienia Banner
+max_price_for_search: Cena maksymalna dla wyszukiwania
+search_filters: Filtry wyszukiwania
+posts_per_page:
+recent_posts: Meta
+featured_posts: Wyróżnione Posty
+top_locations: Top Lokalizacje
+top_users: Najaktywniejsi
+approve: Zatwierdź
+make_featured: Marka funkcjonalnym
+remove_featured: Usuń wybrane
+renew_featured: Renew funkcjonalnym
+renew_package: Renew pakiet
+no_renew_post_id: Nieprawidłowy identyfikator odnowić pocztowy
+approve_payment: Zatwierdzanie płatności
+transaction: Transakcja
+transaction_id: identyfikator transakcji
+post_id: id postu
+amount: Kwota
+request_date: Data Zapytanie
+expiration_date: Data ważności
+transaction_deleted: Transakcja usunięte
+payment_approved: Płatność zatwierdzone
+logged_in_as: Zalogowany jako
+posted_on: Wysłany
+confirm_email_send: email Potwierdzenie send.Please postępuj zgodnie z instrukcjami z tej wiadomości.
+email_confirmed: Email confirmed.You mogą teraz zalogować się ze swoim e-mail i hasło
+email_confirmed_failed: Potwierdzenie email failed.Confirmation i kod nie pasuje.
+password_change_success: Hasło zostało zmienione pomyślnie
+email_sent_inbox: E-mail wysyłany jest do inbox.Check tej wiadomości.
+password_recovery_link_invalid: Password Recovery link jest nieprawidłowy
+user_updated: Użytkownik Zaktualizowany
+user_deleted: Użytkownik usunięty
+user_banned: Użytkownik Zbanowany
+user_unbanned: Użytkownik odblokowany
+user_confirmed: Użytkownik Potwierdzony
+post_deleted: post został skasowany
+post_updated: Aktualizacja postu
+post_created: post Utworzono
+post_featured: post wyróżniona
+data_inserted: data_inserted
+data_updated: Aktualizacja danych
+feature_renewed: Feature Odnowiona
+post_feature_removed: Feature Usunięto post
+post_approved: Approved post
+invalid_post: Nieprawidłowy post
+email_sent: e-mail wysłany
+settings_updated: Ustawienia Aktualizacja
+package_removed: usuniętego pakietu
+page_updated: Strona zaktualizowana
+page_created: Strona wygenerowana
+page_deleted: Strona usuniętych
+menu_updated: Menu Aktualizacja
+site_map_generation_success: Mapa strony generowane pomyślnie.
+select_option: Wybierz lub więcej wybierz Opcje.
+image_backup_created: zapasowa obrazu Utworzono
+language_translated: Język Tłumaczone
+unable_to_write_file: Nie można zapisać pliku
+backup_deleted: Tworzenie kopii zapasowych usuniętych
+database_restored: Baza Przywrócono
+theme_activated: Temat Activated
+user_created: Użytkownik Utworzono
+widget_position_updated: Widżet świetnym miejscu Zaktualizowany
+widget_created: Widżet Utworzono
+widget_data_updated: Widget Aktualizacja danych
+unable_to_write_widget: Nie można zapisać widget
+post_created_and_published: post tworzone i publikowane
+post_created_approval: post stworzył i czeka na zatwierdzenie administratora
+post_package_renewed: Pakiet post odnawiane
+payment_finish: Płatność wykończenie
+payment_cancelled: Płatność anulowana
+admin_change_pass_help: Pozostawić puste w przypadku braku zmiany potrzebne
+go_to_paypal: Przejdź do Paypal
+login_with_google: Zaloguj się z Google
+login_with_facebook: Logowanie z Facebook
+load_more_recent_posts: Załaduj Więcej Ostatnie posty
+load_more_featured_posts: Załaduj więcej Wyróżnione posty
+register_for_new_account: Zarejestruj się Nowe konto
+site_map: Mapa strony
+show_site_map: Pokaż mapa serwisu
+service: Usługi
+features:
+about: O
+view_posts: Wątki
+see_full_documentation: Zobacz pełną dokumentację
+select_city: Wybierz miasto
+parallax_slider: Parallax Suwak
+all_slides: Wszystkie slajdy
+no_slide: Nie slajdów
+slide_order: zamów slajdów
+edit_profile: Zmień ustawienia
+post_price_settings: wybór Cena post
+enable_post_pricing: Włącz cennik pocztowy
+enable_paypal_transfer: Włącz paypal
+enable_bank_transfer: Włącz przelew bankowy
+bank_transfer_instruction_for_posts: Przelew bankowy Instruction
+featured_price_settings: Wybrane ustawienia cen
+enable_featured_pricing: Włącz funkcjonalny cennik
+enable_featured_paypal: Włącz paypal
+enable_featured_bank_transfer: Włącz przelew bankowy
+bank_transfer_instruction_for_featured_posts: instrukcja Przelew
+bank_currency_settings: Ustawienia walutowe Banku
+bank_currency: bank waluty
+use_same_as_paypal_currency: Użyj same jak paypal walucie
+admin: admin
+re_password: Powtórz hasło
+explain_widget_position: Wyjaśnić pozycje widgetów
+post: Post
+post_renew: post Renew
+feature: Funkcja
+feature_renew: Feature Renew
+payment_for: Płatność za
+select_country: Wybierz kraj
+select_one: wybrać jedno
+video_url: vidoe URL
+confirm_payment: Potwierdź płatności
+package_title: Pakiet Tytuł
+number_of_featured_days: Ilość dni do umieszczenia
+no_of_days: No dni
+expiration_time: Czas ważności
+any_city: Dowolny Miasto
+any_category: Każda kategoria
+product_admin_panel: Ekspert Admin
+username_or_email: Nazwa użytkownika lub e-mail
+business_detail: Biznes duperela
+post_detail_subtitle:
+posts_by: wiadomości
+featured: Polecane
+edit_user: Edycja użytkownika
+the_field_is_required:% s jest wymagane.
+valid_email:% s pole musi zawierać poprawny adres e-mail.
+min_length:% s pole musi mieć co najmniej% s znaków długości.
+numeric:% s pole musi zawierać tylko liczby.
+matches:% s pola nie pasuje do% s pole.
+greater_than:% s pole musi zawierać numer większy niż% s.
+agree_terms: Czytałem% s warunków% s
+must_accept_terms: Musisz zaakceptować zasady i warunki
+dont_have_permission: Nie masz uprawnień dostępu do tej strony
+email_allready_in_use: już w użyciu e-mail
+username_allready_in_use: Nazwa allready w użyciu
+current_password_not_matched: Aktualne hasło didn \ 't meczu
+email_or_password_not_mathed: e-mail lub hasło DOEN \ 't meczu
+email_not_matched: nie dopasowane Email
+account_not_confirmed: Konto nie potwierdzone
+all_locations: Wszystkie lokalizacje
+add_country: Dodać kraj
+add_state: Dodaj stan
+add_city: Dodaj miasto
+no_locations: Brak lokalizacji
+banner_type: Typ Banner
+bg_image: Tło obrazu
+unique_alias:% s pola musi być unikalna
+error_occured: błąd. Proszę sprawdzić poniższe pola
+user_profile: profil użytkownika
+user_email: e-mail użytkownika
+target_lang_name: Język docelowy
+no_emails: Brak e-maile
+to:
+classified_settings: drobne Ustawienia
+publish_posts_directly: bezpośrednio Publikuj posty
+system_currency: walucie systemowej
+enable_signup: Włącz zarejestruj
+if_package_expired: Jeśli pakiet wygasł
+do_not_hide: nie ukrywają
+hide: Hide
+show_price_like: Format Cena
+facebook_app_settings: Facebook ustawienia aplikacji
+enable_facebook_login: Włącz Facebook login
+fb_app_id: Facebook app id
+fb_secret_key: Facebook tajny klucz
+comment_settings: Ustawienia Komentarz
+enable_comment: Włącz komentarz
+disqus_shortname: Disqus shortname
+sandbox_mode: tryb Sandbox
+item_name: Nazwa elementu
+paypal_email: Paypal email
+currency: Waluta
+finish_url: Wykończenie url
+cancel_url: Anuluj url
+menu_background: Menu tle
+menu_text_color: Menu kolor tekstu
+activated_menu_color: Activated menu Kolor
+top_bar_bg: Górny pasek BG
+activated_menu_text_color: Activated kolor tekstu menu
+latitude: Latitude
+longitude: Długość
+map_zoom: Mapa zoom
+search_panel_settings: ustawienia panelu wyszukiwania
+search_panel_bg_color: Wyszukiwanie panel bg kolor
+show_background_image: Pokaż obraz w tle
+active_widget_position: Aktywna pozycja widget
+upload_and_install: Ściągnij i zainstaluj
+install_updates: instalowanie aktualizacji / themes / plugins / Widgety
+confirmation_email: Potwierdzenie e-mail
+recovery_email: Odzyskiwanie email
+signup_notification_email: zarejestruj powiadomienia e-mail
+payment_confirmation_email: Płatność Potwierdzenie e-mail
+click_and_edit: Wybierz plik szablonu i kliknij przycisk Edytuj]
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Domyślne ustawienia SEO
+individual: Indywidualna
+find_us_on_facebook: Znajdź nas na Facebooku
+category_featured_posts: Wyróżnione posty
+load_more_posts: ładować więcej
+home_page_title: Poszukiwanie oraz kategoria słupie ogłoszeń
+no_posts_found: Brak postów
+type_anything: Wpisz cokolwiek
+chosen_not_found: Ups, nic nie znaleziono!
+rating_asc: Ocena rosnąco
+rating_desc: Ocena malejąco
+id_desc: Id Malejąco
+id_asc: Id malejący
+show_daily_menu: Pokaż codziennego menu
+website: Strona WWW
+founded: Założona
+year: Rok
+price_range: Przedział cenowy
+additional_features: Dodatkowe funkcje
+add_more_fields: Dodaj więcej pól
+remove: Usuń
+distance_around_my_position: Odległość wokół mojego stanowiska
+show_distance_in: Pokaż Odległości w
+business_listed: Biznes Wystawione
+show_street_view: Pokaż Street View
+list_business: Lista firm
+search_businesses: Szukaj Biznesu
+top_businesses: Top Firmy
+featured_businesses: Polecane Firmy
+business_directory_settings: Ustawienia katalog firm
+hide_email: Ukryj email
+hide_phone: Ukryj telefon
+review: Przegląd
+comment: Komentarz
+submit_review: Dodaj recenzję
+rating:
+review_alert: Musisz być zalogowany, aby przedstawić opinię.
+new_business: New Business
+identify_my_location: Określ moją lokalizację
+data_deleted: dane usunięte
+recent_reviews: Ostatnie recenzje
+view_all_reviews: Zobacz wszystkie opinie
+review_deleted: Przegląd Usunięte
+review_detail: Szczegóły
+all_reviews: Wszystkie recenzje
+monday: poniedziałek
+tuesday: wtorek
+wednesday: środa
+thursday: czwartek
+friday: piątek
+saturday: sobota
+sunday: niedziela
+opening_hour: Godzina otwarcia
+closed: Zamknięty
+airport: Lotnisko
+cafe: Cafe
+cinemas: Kina
+hotels_and_resorts: Hotels & Resorts
+libraries: Biblioteki
+night_clubs: nocne kluby
+offices: Urzędy
+restaurants: restauracje
+shops: biżuteria
+review_submitted: Przegląd składane
+social_links: więzi społecznych
+upgrade_browser: Uaktualnij przeglądarkę
+please_upgrade_your_browser: Proszę uaktualnić przeglądarkę
+business: Biznes
+introduction: Wstęp
+terms: Zalecane warunki
+email_not_found: nie znaleziono Email
+city_dropdown: Miasto rozwijana
+published: Publikacja
+publish: Publikowanie
+drafted: draftu
+draft: Projekt
+from: Od
+send_bulk_email: Wyślij poczcie
+ive_read_the: Czytałem
+title_city_category: Tytuł, miasto lub kategoria
+dt_first: Pierwszy
+dt_last: Ostatni
+dt_next: Następna
+dt_prev: Poprzedni
+dt_no_data: brak dostępnych danych w tabeli
+dt_show_empty: Pokazuje od 0 do 0 z 0 wpisów
+dt_no_match: Rejestry znaleziono pasujących
+dt_search: Szukaj
+dt_processing: Przetwarzanie ...
+dt_loading: Ładowanie ...
+dt_info: Pokazuje _START_ do _END_ wpisów _TOTAL_
+dt_filter_info: (filtrowane z _MAX_ łącznych zapisów)
+dt_show_entries: wpisy Pokaż _MENU_
+get_directions: dostać się w kierunku
+review_not_submitted : Już podane recenzję
+debug_email : Debug email
+email_to : Wyślij
+report_the_business : Zgłoś tę Biznes
+reported : Zgłaszane
+already_reported : Już zgłoszone
+reported_post : Zgłoszone posty
+all_reported_posts : wszystkie zgłoszone posty
+report: Raport
+assigned_to: Przypisany do
+select_assigned_to: Wybierz użytkownika
+css_compression: kompresji Css
+gallery_notes: Można przeciągnij upuść, aby zmienić kolejność galerię. Zdjęcia nie są zmniejszane.
+video_notes: Youtube i Vimeo URL
+post_expiration_notification: post Zgłoszenie wygaśnięcia
+claim_the_business: Zgłoś biznesu
+claim_business_instructions: Wypełnij poniższy formularz i naciśnij przycisk wysyłania. Administrator serwisu skontaktuje się z Tobą za pośrednictwem poczty elektronicznej lub telefonicznie.
+claimed_business: Twierdził biznesu
+days_left: Dni w lewo
+AM: PM
+PM: PM
+upload_invalid_min_dimensions: Wymiar obraz jest zbyt niska
+view_on_front: Widok z przodu
+clear_unused_img: Usuwanie nieużywanych zdjęć
+unused_files_found: nieużywane pliki znalezione
+clear_unused_img: Usuwanie nieużywanych zdjęć
+unused_images_cleared: Niewykorzystane zdjęcia wyczyszczone
+unused_info_msg: Ta funkcja cleares tylko obrazy, które nie są wykorzystywane przez użytkowników biznesowych, kategorii, stron, blogów. Najpierw sprawdza w bazie danych dla znalezienia images.So jeśli ręcznie żadnych obrazów ręcznie i wykorzystywali je w kodzie mogą być usunięte.
+no_unused_img: Nie znaleziono obrazu nieużywany
+search_panel_filter_type: Typ filtra
+basic_options: Podstawowe opcje
+advanced_options: opcje Advance
+key_words: słowa kluczowe
+sorting_order: Kolejność sortowania
+business_listed_on: firm notowanych na
+business_listed_under: firm wymienione w
+all_sub_categories: Wszystkie podkategorie
+no_sub_categories: Nie podkategorie
+open_24_by_7: Zawsze Otwarty
+hide_my_email : Ukryj mój adres e-mail
+disable_email_contact: Wyłącz kontakt e-mail
+enable_review: Włącz recenzję
+disable_google_street_view: Wyłącz Google Street View
+location_chorome_msg: Usługa lokalizacyjna Google nie są dostępne dla stron innych niż SSL (tylko w przeglądarce Chrome). Chcesz korzystać z adresu IP dla uzyskania takiej lokalizacji? NB - Wynik może nie być dokładnie takie same jak google
+send_email_to_users: Wyślij e-mail do użytkowników
+show_banner: Pokaż banner
+hide_my_phone: Ukryj mój telefon
+kms: kms
+miles: Miles
+logo_text: Logo Tekst
+logo_type: Logo Typ
+logo_text_color: Logo kolor tekstu
+Jan: Jan
+Feb: luty
+Mar: Mar
+Apr: kwiecień
+May: Niech
+Jun: czerwiec
+Jul: lipiec
+Aug: sierpień
+Sep: wrzesień
+Oct: październik
+Nov: listopad
+Dec: grudzień
+show_search_panel: Pokaż panel wyszukiwania
+delete_selected: Usuń zaznaczone
+camera_spin: Camera wirowania
+degree: Stopień
+map_api_key: GMap klucz API
+pricing: Cennik
+post_package_instruction: Mamy następujące pakiety do wysyłania firmy na naszej stronie internetowej
+feature_package_instruction: Mamy następujące pakiety dla podejmowania działalności gospodarczej wyróżniona
+MENU: MENU
+gplus_app_settings: Ustawienia aplikacji Google+
+auth_redirect_url: Autoryzowany URL przekierowania
+enable_gplus_login: Włącz Google+ logowanie
+gplus_client_id: identyfikator klienta Google+
+gplus_client_secret: Google+ klienta tajne
+how_to_get_gplus_api: Jak uzyskać Google+ identyfikator klienta i tajne
+gallery_upload_limit: Galeria limit wysyłania
+you_can_upload_max: Można przesłać maksymalnie
+gallery_photos: Galeria zdjęć
+email_confirmed: Email potwierdzone. Możesz zalogować się teraz
+email_confirmed_failed: potwierdzenie e-mail nie powiodło się
+advanced_options_with_country_state: Opcja Advance z kraju i stanu
+select_state: Wybierz stan
+recent_posts_order: Meta zamówić
+featured_posts_order: Wybrane posty zamówić
+default_posts_order: Domyślne posty zamówić
+ASC: rosnąco
+DESC: malejąco
+RANDOM: Losowo
+useremail: e-mail użytkownika
+enable_adblocker_alert: Włącz alert adblock
+adblock_detected: Adblock Wykryto
+adblock_msg: Proszę Czy wyłączyć wtyczki adblock i ponownie odśwież stronę
+enable_cookie_policy_popup: Cookie Policy kontekstowe
+cookie_policy_page_url: Cookie policy url
+cookie_policy: Polityka Cookie
+cookie_policy_alert: Ta strona wykorzystuje cookies. Dalsze korzystanie z tej strony zgadzasz się na użycie plików cookie.
+read_more: Czytaj więcej
+i_agree: Zgadzam się
+instagram: Instagram
+newsletter_subscription: Pobierz biuletyn
+your_email: Twój e-mail
+email_saved: Email zapisany do newslettera
+send_newsletter: Wyślij Newsletter
+unsubscribe: Wypisz
+to_unsubscribe: Kliknij ten link, jeśli chcesz zrezygnować z tej usługi
+successfully_unsubscribed: Jesteś teraz wypisać z newslettera
+export_user_phone: telefon użytkownika Export
+enable_blog_comment: Włącz blogu komentarz
+fb_blog_app_id: Fb identyfikator aplikacji na blogu
+disqus_blog_shortname: Disqus krótka nazwa bloga
+sample_page: Przykładowa strona
+senders_phone: telefonu nadawcy
+alias: alias

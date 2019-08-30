@@ -1,0 +1,725 @@
+---
+sign_in: Log ind
+sign_up: Tilmeld
+agent_panel: Agent Panel
+admin_panel: Admin Panel
+DBC_ADVANCED_SEARCH: Avanceret søgning
+DBC_HOME: Forside
+DBC_ABOUT: Om
+DBC_CONTACT: Kontakt
+country: Land
+state_province: Stat / Provins
+city: City
+register: Registrer
+details: Detaljer
+view_all: Vis alle
+order_by: Order By
+none: Ingen
+terms_and_conditions: Betingelser
+reg_success_message: registrering Din konto er lykkedes. En e-mail blev sendt til din email. Følg denne e-mail for at aktivere din account.Thanks
+limit: Grænse
+usage: Anvendelse
+recover: Recover
+oops: Ups, siden blev ikke fundet
+share_this: Del denne
+location_map: Placering Kort
+image_gallery: Billedgalleri
+gallery: Galleri
+summary: Oversigt
+overview: Oversigt
+address: Adresse
+message: Besked
+email_subject: E-mail Emne
+all: Alle
+DBC_DELETED: Slettet
+contact_us: Kontakt os
+DBC_ACTIVE: Aktiv
+featured_video: Udvalgte Video
+estates: Estates
+embed_video_url: Embeded Video Url
+DBC_PENDING: Afventer
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Avancerede filtre
+result: Resultat
+payment_notification: Du kommer til at lave en betaling. En e-mail bliver sendt til din email. Du kan sikkerhedskopiere til dette trin når som helst fra linket på denne e-mail.
+confirmation: Bekræftelse
+tags: Tags
+zip_code: Zip Code
+embed_preview: Integrer Eksempel
+login: Login
+post_not_found: Send ikke fundet
+view_more: Se mere
+choose_a_package: Vælg en pakke
+choose_feature_package: Vælg en funktion pakke
+no_package_found: Ingen pakke fundet
+days: Days
+posts: Indlæg
+change: Change
+subscribe: Tilmeld
+image: Billede
+view_on_map: Vis på kort
+create: Opret
+basic_info: Basic Info
+send: Send
+all_email_to_users: Alle e-mails til brugere
+email_detail: E-mail Detail
+change_package: Skift Package
+bank_transfer: Bankoverførsel
+contact_subject: Kontakt Email
+payment_finish_title: Betaling Complete
+payment_renew_title: Betaling Complete
+payment_finish_text: Din betaling er gennemført. Så snart vi modtaget bekræftelse fra PayPal din konto vil blive aktiveret
+payment_renew_text: Din betaling er gennemført. Så snart vi modtaget bekræftelse fra PayPal din konto vil blive fornyet
+payment_cancel_title: Betaling Annuller
+payment_cancel_text: Din betaling er aflyst
+feature_payment_finish: Din betaling er gennemført. Så snart vi modtager bekræftelse fra PayPal, vil din ejendom blive præsenteret.
+feature_payment_cancel: Din betaling er annulleret.
+private_owner: Privat Ejer
+selected_package: Udvalgte Package
+signup_with_social_account: Tilmeld med social konto
+password: Kodeord
+confirm_password: Bekræft adgangskode
+all_posts: Alle indlæg
+no_posts: Ingen Indlæg
+title: Titel
+description: Beskrivelse
+status: status
+actions: Handlinger
+action: Handling
+type:
+type_something: Indtast noget
+content: Indhold
+featured_image: Udvalgte billede
+category: Kategori
+all_categories: Alle kategorier
+edit_category: Rediger kategori
+new_category: Ny kategori
+parent: Forældre
+edit: Edit
+delete: Slet
+name: Navn
+save: Gem
+no_parent: Ingen forældre
+edit_email_template: Rediger e-mail-skabelon
+select_template_file: Vælg skabelon fil
+subject: Emne
+body: Krop
+available_variables: Fås variabler
+select_language: Vælg sprog
+select_language_file: Vælg sprog fil
+edit_as_new: Edit som ny
+language: Sprog
+add_another: Tilføj en
+export_to_file: Eksporter til fil
+import_from_file: Import fra fil
+auto_translator: Auto oversætter
+from_lang: Fra lang
+target_lang_full_name: Target lang fulde navn
+target_lang_short_name: Target lang korte navn
+create_new_package: Opret ny pakke
+price: Pris
+maximum_post_by_user: Maximum indlæg skrevet af brugeren
+expirtion_time: Expirtion tid (dage)
+create_package: Opret Package
+edit_package: Edit pakke
+update_package: Opdatering pakke
+add_packages: Tilføj pakker
+all_packages: Alle pakker
+no_packages: Ingen pakker
+options: Options
+all_pages: Alle sider
+no_pages: Ingen sider
+manage_menu: Administrer menuen
+menu_title: Menu Titel
+menu_alias: Menu alias
+show_in_menu: Show i menuen
+page_layout: Side layout
+content_from: Indhold fra
+url: Url
+seo_options: SEO muligheder
+meta_description: Meta beskrivelse
+key_words: Nøgleordene
+crawl_after: Crawl efter (dage)
+all_plugins: Alle plugins
+no_plugins: Ingen plugins
+name_and_version: Navn og version
+change_password: Skift adgangskode
+current_password: Aktuel adgangskode
+new_password: Ny adgangskode
+retype_password: Gentag adgangskode
+password_reset_info_msg: Venligst først Indstil din nye adgangskode
+profile_picture: profilbillede
+username: Brugernavn
+email: E-mail
+first_name: Fornavn
+last_name: Efternavn
+gender: Køn
+phone: Telefon
+company_name: Firma Navn
+about_me: Om mig
+facebook_account: Facebook-konto
+twitter_account: Twitter-konto
+linkedin_account: Linkedin konto
+gp_account: Google+ konto
+account_msg: Please enter the link, without http: //
+web_email_settings: Web E-mail-indstillinger
+contact_email: Kontakt Email
+webadmin_name: Webadmin Navn
+webadmin_email: Webadmin Email
+update: Opdatering
+upload: Upload
+site_settings: Indstillinger for websted
+site_title: site Titel
+footer_text: Footer tekst
+site_logo: Site Logo
+site_language: site Sprog
+site_text_direction: site Text Direction
+per_page: Pagination sidevis
+default_page_layout: Standard Sidelayout
+tracking_code: Sporing Code
+smtp_email_settings: SMTP e-mail-indstillinger
+smtp_email: SMTP Email
+smtp_host: SMTP Host
+smtp_port: SMTP Port
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP Bruger
+smtp_password: SMTP Password
+generate_site_map: Generer site map
+sitemap_info_msg: NB Vælg hvor du ønsker at blive optaget på sitemap xml. Efter en vellykket generation sitemap.xml gemmes under rodmappe. Du kan også redigere filen for at medtage dine egne webadresser.
+pages: Sider
+blog_posts: blogindlæg
+articles: Artikler
+blog_post: Blog indlæg
+blog: Blog indlæg
+article: Artikel
+news: Nyheder
+view_xml: View XML
+create_xml: Opret XML
+manage_backups: Administrer sikkerhedskopier
+create_sql_backup: Opret SQL Backup
+create_image_backup: Opret Billede Backup
+restore: Gendan
+download: Download
+dashboard: Dashboard
+overview_stats_more: Oversigt, Stats og mere
+visit_site: Besøg websted
+logout: Log
+themes: Temaer
+locations: Steder
+paypal_settings: Paypal Indstillinger
+payment_history: Betalingsoversigt
+profile: Profil
+packages: Pakker
+widgets: Widgets
+all_widgets: Alle Widgets
+widget_positions: Widget positioner
+blog_news_article: Blog / Nyheder / Artikel
+new_post: Nyt indlæg
+pages_and_menu: Sider & Menu
+new_page: Ny side
+menu: Menu
+system: System
+manage_languages: Administrer Sprog
+auto_translate: Auto Translate
+edit_email_text: Edit Email Tekst
+admin_settings: Web Admin Settings
+sitemap: Site Map
+activate: Aktiver
+active_theme: Aktiv Theme
+available_themes: Fås Temaer
+all_users: Alle brugere
+create_user: Opret Bruger
+export_user_email: Export User Emails (.csv)
+profile_info: Profil Info
+ban_forever: Forbud Forever
+edit_page: Rediger side
+create_widget: Opret widget
+widget_name: Widget navn
+activate_deactivate: Aktiver / deaktivere
+show: Vis
+available_widgets: Tilgængelige Widgets
+active_widgets: Aktive Widgets
+delete_warning: Er du sikker på vil gøre slette.
+yes: "Ja"
+no: "nej"
+product_name: Business Directory
+fa_icon: FA ikon klasse
+post_ad: List business
+post_ad_subtitle: Sæt din virksomhed detaljer
+signin: ved login
+signup: Tilmeld
+signup_title: Opret din konto
+not_found: Ikke fundet
+purpose: Formål
+purpose_buy: Køb
+purpose_sell: Sælg
+select_category: Vælg Kategori
+contact_for_price: Kontakt for pris
+address_info: Adresse Info
+general_info: generel info
+upload_later_msg: Du vil være i stand til at uploade galleri billeder og video url efter post skabelse
+user_panel: Bruger panel
+put_as_comma_seperated: lægge så (,) komma sperated
+added: Lagt
+location: Location
+views: Views
+package_type: Type
+post_package: Send pakke
+featured_package: Udvalgte pakke
+both_package: Post og fremhævede
+select_package: Vælg pakke
+package_created: Pakke skabt
+package_updated: Pakke opdateret
+slider: Slider
+add_new: Tilføj ny
+new_slide: Ny slide
+update_slide: Opdatering slide
+save_order: Gem ordre
+slider_sort_instruction: Du kan trække slip for at sortere tabellen rækker. Efter sortering save ordren
+search: Søg
+results: Resultater
+property_location_on_map: Ejendom Kort
+location_on_map: Kort
+contact_mode: Kontakt tilstand
+reset: Reset
+contact: Kontakt
+default_site_view: Standard websted view
+type_your_message: Skriv din besked her ..
+mail_sent: Mail Sent
+search_classifieds: Søg BusinessDirectorys
+advanced_search: Avanceret søgning
+narrow_down_your_businesses: Begræns ned dine virksomheder
+home: Forside
+print: Print
+remember_me: Husk mig
+forgot_password: Glemt kodeord
+login_failed: Login mislykkedes
+login_to_your_account: Log ind på din konto
+register_your_account: Registrer din konto
+male: Mand
+female: Kvinde
+no_location_found: Ingen Placering fundet
+state: State
+ad_creation_error: Fejl i annoncen skabelse! Kontroller venligst.
+users: Brugere
+show_admin_user: Vis Admin Bruger
+send_email_to_business: Send Email til erhvervslivet
+DBC_PAYMENT_PENDING: Betaling afventende
+DBC_EXPIRED: Udløbet
+categories: Kategorier
+top_posts: Top Indlæg
+show_state_province: Vis State provinsen
+package_settings: Pakke Indstillinger
+default_site_settings: Standard Indstillinger for websted
+webadmin_settings: WebAdmin Indstillinger
+banner_settings: Banner Indstillinger
+max_price_for_search: Maks pris for Search
+search_filters: Search Filters
+posts_per_page: Indlæg pr side
+recent_posts: Seneste indlæg
+featured_posts: Featured Stillinger
+top_locations: Top Steder
+top_users: Top Brugere
+approve: Godkend
+make_featured: Lav featured
+remove_featured: Fjern featured
+renew_featured: Forny featured
+renew_package: Forny pakke
+no_renew_post_id: Ugyldigt forny indlæg id
+approve_payment: Godkend betaling
+transaction: Transaktion
+transaction_id: Transaktion id
+post_id: Send id
+amount: Beløb
+request_date: Anmodning dato
+expiration_date: Udløbsdato
+transaction_deleted: Transaktion slettet
+payment_approved: Betaling godkendt
+logged_in_as: Logget ind som
+posted_on: Sendt den
+confirm_email_send: Bekræftelse email send.Please følge instruktionerne fra e-mailen.
+email_confirmed: Email confirmed.You kan nu logge ind med din e-mail og adgangskode
+email_confirmed_failed: Bekræftelse failed.Confirmation email og kode ikke passer.
+password_change_success: Kodeord ændret med succes
+email_sent_inbox: En e-mail er sendt til din inbox.Check denne e-mail.
+password_recovery_link_invalid: Password Recovery Link er ikke gyldig
+user_updated: Bruger Opdateret
+user_deleted: Bruger Slettet
+user_banned: Bruger Banned
+user_unbanned: Bruger unbanned
+user_confirmed: Bruger Bekræftet
+post_deleted: Send Slettet
+post_updated: Send opdateret
+post_created: Send Oprettet
+post_featured: Send featured
+data_inserted: Data indsat
+data_updated: Data opdateret
+feature_renewed: Feature Fornyet
+post_feature_removed: Send Feature Fjernet
+post_approved: Send Godkendt
+invalid_post: Ugyldig post
+email_sent: E-mail sendt
+settings_updated: Indstillinger Opdateret
+package_removed: Pakke Fjernet
+page_updated: Side Opdateret
+page_created: Side Oprettet
+page_deleted: Side Slettet
+menu_updated: Menu Opdateret
+site_map_generation_success: Site map genereret med succes.
+select_option: Vælg eller flere udvalgte muligheder.
+image_backup_created: Image Backup Oprettet
+language_translated: Sprog Oversat
+unable_to_write_file: Kan ikke skrive fil
+backup_deleted: Backup Slettet
+database_restored: Database Restaureret
+theme_activated: Tema Aktiveret
+user_created: Bruger Oprettet
+widget_position_updated: Widget Postion Opdateret
+widget_created: Widget Oprettet
+widget_data_updated: Widget data Opdateret
+unable_to_write_widget: Kan ikke skrive widget
+post_created_and_published: Indlæg oprettet og offentliggjort
+post_created_approval: Indlæg oprettet og venter på admin godkendelse
+post_package_renewed: Send pakke fornyet
+payment_finish: Betaling færdig
+payment_cancelled: Betaling annulleret
+admin_change_pass_help: Lad stå tomt hvis ingen ændring er nødvendig
+go_to_paypal: Gå til Paypal
+login_with_google: Log ind med Google
+login_with_facebook: Log ind med Facebook
+load_more_recent_posts: Læg mere Seneste indlæg
+load_more_featured_posts: Læg mere Udvalgte Indlæg
+register_for_new_account: Tilmeld dig ny konto
+site_map: Site Map
+show_site_map: Vis oversigtskort
+service: service
+features: Funktioner
+about: Om
+view_posts: Vis indlæg
+see_full_documentation: Se fuld dokumentation
+select_city: Vælg by
+parallax_slider: Parallax Slider
+all_slides: Alle dias
+no_slide: Ingen dias
+slide_order: Slide ordre
+edit_profile: Rediger profil
+post_price_settings: Indstillinger Indlæg pris
+enable_post_pricing: Aktiver indlæg prissætning
+enable_paypal_transfer: Aktiver paypal
+enable_bank_transfer: Aktiver bankoverførsel
+bank_transfer_instruction_for_posts: Bankoverførsel Instruktion
+featured_price_settings: Udvalgte pris indstillinger
+enable_featured_pricing: Aktiver featured prisfastsættelse
+enable_featured_paypal: Aktiver paypal
+enable_featured_bank_transfer: Aktiver bankoverførsel
+bank_transfer_instruction_for_featured_posts: instruktion Bankoverførsel
+bank_currency_settings: Bank valutaindstillinger
+bank_currency: Bank valuta
+use_same_as_paypal_currency: Brug samme som paypal valuta
+admin: Admin
+re_password: Gentag adgangskode
+explain_widget_position: Forklar widget positioner
+post: Send
+post_renew: Send Renew
+feature: Feature
+feature_renew: Feature Forny
+payment_for: Betaling for
+select_country: Vælg land
+select_one: Vælg Én
+video_url: vidoe URL
+confirm_payment: Bekræft betaling
+package_title: Pakke Titel
+number_of_featured_days: Antal dage at blive præsenteret
+no_of_days: Ingen af ​​dage
+expiration_time: Udløbsklokkeslæt
+any_city: Enhver By
+any_category: Enhver kategori
+product_admin_panel: Whiz Admin
+username_or_email: Brugernavn eller e-mail
+business_detail: Forretning detalje
+post_detail_subtitle:
+posts_by: Indlæg af
+featured: Featured
+edit_user: Rediger bruger
+the_field_is_required:% s felt er påkrævet.
+valid_email:% s feltet skal indeholde en gyldig e-mail adresse.
+min_length:% s feltet skal være mindst% s tegn.
+numeric:% s feltet skal kun indeholde tal.
+matches:% s felt matcher ikke% s feltet.
+greater_than:% s felt skal indeholde et tal større end% s.
+agree_terms: Jeg har læst% s salgs- og forretningsbetingelser% s
+must_accept_terms: Du skal acceptere vilkår og betingelser
+dont_have_permission: Du har ikke tilladelse til at få adgang til denne side
+email_allready_in_use: E-mail allerede i brug
+username_allready_in_use: Brugernavn forvejen i brug
+current_password_not_matched: Aktuel adgangskode didn \ 't match
+email_or_password_not_mathed: E-mail eller adgangskode doen \ 't match
+email_not_matched: Email ikke matchede
+account_not_confirmed: Kontoen ikke bekræftet
+all_locations: Alle steder
+add_country: Tilføj land
+add_state: Tilføj tilstand
+add_city: Tilføj by
+no_locations: Ingen steder
+banner_type: Banner typen
+bg_image: Baggrundsbillede
+unique_alias:% s feltet skal være unik
+error_occured: Der opstod en fejl. Kontroller nedenstående felter
+user_profile: Bruger profil '
+user_email: Bruger email
+target_lang_name: Målsprog
+no_emails: Ingen e-mails
+to: Til
+classified_settings: Klassificeret Indstillinger
+publish_posts_directly: Udgiv indlæg direkte
+system_currency: System valuta
+enable_signup: Aktiver tilmelding
+if_package_expired: Hvis pakken er udløbet
+do_not_hide: Må ikke skjul
+hide: Skjul
+show_price_like: Pris format
+facebook_app_settings: Facebook app indstillinger
+enable_facebook_login: Aktiver facebook login
+fb_app_id: Facebook app id
+fb_secret_key: Facebook hemmelig nøgle
+comment_settings: Kommentar indstillinger
+enable_comment: Aktiver kommentar
+disqus_shortname: Disqus Kortnavn
+sandbox_mode: Sandbox mode
+item_name: Varenavn
+paypal_email: Paypal e-mail
+currency: Valuta
+finish_url: Finish url
+cancel_url: Annuller url
+menu_background: Menu baggrund
+menu_text_color: Menu tekst farve
+activated_menu_color: Aktiveret menu farve
+top_bar_bg: Top bar bg
+activated_menu_text_color: Aktiveret menu tekst farve
+latitude: Latitude
+longitude: Længdegrad
+map_zoom: Kort zoom
+search_panel_settings: Indstillinger Søg panel
+search_panel_bg_color: Søg panel bg farve
+show_background_image: Vis baggrundsbillede
+active_widget_position: Aktiv widget position
+upload_and_install: Upload og installer
+install_updates: Installer Opdateringer / Temaer / Plugins / Widgets
+confirmation_email: Bekræftelse Email
+recovery_email: Recovery Email
+signup_notification_email: Registrer Underretning Email
+payment_confirmation_email: Betaling Bekræftelse Email
+click_and_edit: Vælg en skabelon, og klik edit]
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Standard SEO-indstillinger
+individual: Individuel
+find_us_on_facebook: Find os på Facebook
+category_featured_posts: Udvalgte indlæg
+load_more_posts: Læg mere
+home_page_title: Søg og post kategori top-annoncer
+no_posts_found: Ingen indlæg
+type_anything: Indtast noget
+chosen_not_found: Ups, intet fundet!
+rating_asc: Rating Ascending
+rating_desc: Rating Faldende
+id_desc: Id Faldende
+id_asc: Id Stigende
+show_daily_menu: Vis Daglig Menu
+website: Website
+founded: Grundlagt
+year: År
+price_range: Prisinterval
+additional_features: Yderligere funktioner
+add_more_fields: Tilføj flere felter
+remove: Fjern
+distance_around_my_position: Afstand omkring min position
+show_distance_in: Vis Afstand i
+business_listed: Forretning Listed
+show_street_view: Vis Street View
+list_business: Liste Forretning
+search_businesses: Søg virksomheder
+top_businesses: Top Virksomheder
+featured_businesses: Udvalgte Virksomheder
+business_directory_settings: Business Directory Indstillinger
+hide_email: Skjul email
+hide_phone: Skjul telefon
+review: Anmeldelse
+comment: Kommentar
+submit_review: Indsend bedømmelse
+rating: Rating
+review_alert: Du skal være logget ind for at indsende bedømmelse.
+new_business: New Business
+identify_my_location: Identificer min placering
+data_deleted: Data slettes
+recent_reviews: De seneste anmeldelser
+view_all_reviews: Se alle anmeldelser
+review_deleted: Anmeldelse Slettet
+review_detail: Detail
+all_reviews: Alle Anmeldelser
+monday: Mandag
+tuesday: Tirsdag
+wednesday: Onsdag
+thursday: Torsdag
+friday: Fredag
+saturday: Lørdag
+sunday: Søndag
+opening_hour: Åbning Hour
+closed: Lukket
+airport: Lufthavn
+cafe: Cafe
+cinemas: Biografer
+hotels_and_resorts: Hotels & Resorts
+libraries: Biblioteker
+night_clubs: Natklubber
+offices: Offices
+restaurants: Restauranter
+shops: Butikker
+review_submitted: Anmeldelse indsendt
+social_links: Sociale links
+upgrade_browser: Opgrader browser
+please_upgrade_your_browser: Opgradér din browser
+business: Forretning
+introduction: Introduktion
+terms: Betingelser
+email_not_found: Email ikke fundet
+city_dropdown: By dropdown
+published: Udgivet
+publish: Publicer
+drafted: Udarbejdet
+draft: Udkast
+from: Fra
+send_bulk_email: Send Bulk Email
+ive_read_the: Jeg har læst den
+title_city_category: Titel, by eller kategori
+dt_first: Første
+dt_last: Sidste
+dt_next: Næste
+dt_prev: Forrige
+dt_no_data: Ingen data til rådighed i tabel
+dt_show_empty: Viser 0 til 0 af 0 poster
+dt_no_match: Ingen tilsvarende data
+dt_search: Søg
+dt_processing: Behandler ...
+dt_loading: Loading ...
+dt_info: Viser _START_ til _END_ af _TOTAL_ poster
+dt_filter_info: (filtreret fra _MAX_ indtastninger i alt)
+dt_show_entries: Vis _MENU_ poster
+get_directions: Få Direction
+review_not_submitted : Du har allerede givet en gennemgang
+debug_email : Debug email
+email_to : E-mail til
+report_the_business : Rapporter denne virksomhed
+reported : Rapporteret
+already_reported : Allerede rapporteret
+reported_post : Rapporteret indlæg
+all_reported_posts : Alle indberettede indlæg
+report: Rapport
+assigned_to: Tildelt til
+select_assigned_to: Vælg bruger
+css_compression: Css komprimering
+gallery_notes: Du kan trække slip for at ændre rækkefølgen galleriet fotos. Billeder er ikke skaleres.
+video_notes: Youtube eller Vimeo url
+post_expiration_notification: Send udløb meddelelse
+claim_the_business: krav forretningen
+claim_business_instructions: Udfyld formularen nedenfor og klik på send-knappen. Site admin vil kontakte dig via e-mail eller telefon.
+claimed_business: Hævdede virksomhed
+days_left: dage tilbage
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: Billedet dimension er for lav
+view_on_front: Se på forsiden
+clear_unused_img: Klare ubrugte billeder
+unused_files_found: Ubrugte filer fundet
+clear_unused_img: Klare ubrugte billeder
+unused_images_cleared: Ubrugte billeder ryddet
+unused_info_msg: Denne funktion cleares kun de billeder, som ikke anvendes af erhvervslivet, brugere, kategorier, sider, blogs. Den søger gennem databasen for at finde images.So hvis du manuelt uploadet nogen billeder manuelt og brugte dem i koden, kan blive slettet.
+no_unused_img: Ingen ubrugt billede fundet
+search_panel_filter_type: Filtertype
+basic_options: Grundlæggende indstillinger
+advanced_options: Advance muligheder
+key_words: Nøgleordene
+sorting_order: Sorteringsrækkefølge
+business_listed_on: Forretning noteret på
+business_listed_under: Forretning opført under
+all_sub_categories: Alle underkategorier
+no_sub_categories: Ingen underkategorier
+open_24_by_7: Always Open
+hide_my_email : Skjul min email
+disable_email_contact: Deaktiver email-kontakt
+enable_review: Aktiver gennemgang
+disable_google_street_view: Deaktiver Google Street View
+location_chorome_msg: Location service ved google er ikke tilgængelig for ikke ssl sites (Kun i Chrome-browseren). Vil du ønsker at bruge din ip-adresse for at få din placering? NB - Resultatet kan ikke være nøjagtig samme som google
+send_email_to_users: Send email til brugere
+show_banner: Vis banner
+hide_my_phone: Skjul min telefon
+kms: kms
+miles: Miles
+logo_text: Logo Tekst
+logo_type: Logo Type
+logo_text_color: Logo tekstfarve
+Jan: Jan
+Feb: Feb
+Mar: Mar
+Apr: Apr
+May: Kan
+Jun: Jun
+Jul: Jul
+Aug: Aug
+Sep: Sep
+Oct: Oct
+Nov: Nov
+Dec: Dec
+show_search_panel: Vis søgning panel
+delete_selected: Slet valgte
+camera_spin: Camera centrifugering
+degree: grad
+map_api_key: GMap api key
+pricing: Priser
+post_package_instruction: Vi har følgende pakker for udstationering en virksomhed på vores hjemmeside
+feature_package_instruction: Vi har følgende pakker for at gøre en virksomhed featured
+MENU: MENU
+gplus_app_settings: Google+ app indstillinger
+auth_redirect_url: Autoriseret URL omdirigering
+enable_gplus_login: Aktivér Google+ login
+gplus_client_id: Google+ klient id
+gplus_client_secret: hemmeligt Google+ klient
+how_to_get_gplus_api: Sådan får Google+ Client id og Secret
+gallery_upload_limit: Galleri grænse upload
+you_can_upload_max: Du kan uploade maksimalt
+gallery_photos: Galleri billeder
+email_confirmed: E-mail bekræftet. Du kan logge ind nu
+email_confirmed_failed: E-mail bekræftelse mislykkedes
+advanced_options_with_country_state: Advance option med land og stat
+select_state: Vælg tilstand
+recent_posts_order: Seneste indlæg bestiller
+featured_posts_order: Udvalgte indlæg bestiller
+default_posts_order: Standard indlæg bestiller
+ASC: Stigende
+DESC: Faldende
+RANDOM: Tilfældig
+useremail: Bruger email
+enable_adblocker_alert: Aktiver adblock alarm
+adblock_detected: Adblock Detected
+adblock_msg: Vil du deaktivere venligst adblock og opdatere siden igen
+enable_cookie_policy_popup: Cookie Policy Popup
+cookie_policy_page_url: Cookie politik side url
+cookie_policy: Cookie Policy
+cookie_policy_alert: Dette websted bruger cookies. Ved fortsat at bruge dette websted accepterer du vores brug af cookies.
+read_more: Læs mere
+i_agree: Jeg er enig
+instagram: Instagram
+newsletter_subscription: Få nyhedsbrev
+your_email: Din e-mail
+email_saved: E-mail gemmes til nyhedsbrev
+send_newsletter: Send nyhedsbrev
+unsubscribe: Afmeld
+to_unsubscribe: Klik på dette link, hvis du ønsker at afmelde denne service
+successfully_unsubscribed: Du er nu afmeldt nyhedsbrevet tjeneste
+export_user_phone: Eksport bruger telefon
+enable_blog_comment: Aktiver blog kommentar
+fb_blog_app_id: Fb app id for blog
+disqus_blog_shortname: Disqus korte navn for blog
+sample_page: Prøve side
+senders_phone: Afsender telefon
+alias: Alias

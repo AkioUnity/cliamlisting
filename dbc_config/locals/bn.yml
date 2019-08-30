@@ -1,0 +1,725 @@
+---
+sign_in: সাইন ইন
+sign_up: সাইন আপ
+agent_panel: এজেন্ট প্যানেল
+admin_panel: অ্যাডমিন প্যানেল
+DBC_ADVANCED_SEARCH: উন্নত অনুসন্ধান
+DBC_HOME: বাসা
+DBC_ABOUT: আমাদের সম্পর্কে
+DBC_CONTACT: যোগাযোগ
+country: দেশ
+state_province: রাজ্য / প্রদেশ
+city: শহর
+register: নিবন্ধন
+details: বিবরণ
+view_all: সমস্ত দেখুন
+order_by: আদেশ দ্বারা
+none: কোনটি
+terms_and_conditions: শর্তাদি এবং কন্ডিশন
+reg_success_message: আপনার অ্যাকাউন্ট নিবন্ধন successfull হয়. একটি ই-মেইল আপনার ই-মেইল পাঠানো হয়েছে. আপনার account.Thanks সক্রিয় করতে যে ইমেল অনুসরণ করুন
+limit: সীমা
+usage: ইউসেজ
+recover: উদ্ধার
+oops: ওহো, পৃষ্ঠা খুঁজে পাওয়া যায়নি
+share_this: শেয়ার
+location_map: লোকেশন ম্যাপ
+image_gallery: ইমেজ গ্যালারি
+gallery: গ্যালারি
+summary: সংক্ষিপ্তসার
+overview: সংক্ষিপ্ত বিবরণ
+address: ঠিকানা
+message: পাঠান
+email_subject: এটি ইমেল সাপেক্ষে
+all: সমস্ত
+DBC_DELETED: মোছা
+contact_us: যোগাযোগ
+DBC_ACTIVE: সক্রিয়
+featured_video: বৈশিষ্ট্যযুক্ত ভিডিও
+estates: এস্টেটে
+embed_video_url: Embeded ভিডিও ইউআরএল
+DBC_PENDING: অপেক্ষারত
+email_tracker: এটি ইমেল ট্র্যাকার
+bulk_email: বাল্ক ইমেইল
+advanced_filters: উন্নত ফিল্টারগুলি
+result: ফল
+payment_notification: আপনি একটি পেমেন্ট করতে যাচ্ছি. একটি ই-মেইল আপনার ই-মেইল পাঠানো হয়. আপনি যে ইমেইল লিঙ্ক থেকে যে কোনো সময় এই ধাপে ব্যাক করতে পারেন.
+confirmation: নিশ্চিতকরণ
+tags: ট্যাগ্স
+zip_code: জিপ কোড
+embed_preview: স্থাপিত প্রি
+login: প্রবেশ
+post_not_found: মন্তব্যগুলি পোস্ট পাওয়া যায়নি
+view_more: আরও দেখুন
+choose_a_package: একটি প্যাকেজ বেছে নিন
+choose_feature_package: একটি বৈশিষ্ট্য প্যাকেজ বেছে নিন
+no_package_found: কোন প্যাকেজ পাওয়া
+days: দিন
+posts: মন্তব্যগুলি পোস্ট করুন
+change: পরিবর্তন
+subscribe: সদস্যতা
+image: চিত্র
+view_on_map: ম্যাপে দেখুন
+create: তৈরি করুন
+basic_info: প্রাথমিক তথ্য
+send: পাঠান
+all_email_to_users: ব্যবহারকারীদের সব ইমেইল
+email_detail: এটি ইমেল বিস্তারিত
+change_package: প্যাকেজ পরিবর্তন
+bank_transfer: ব্যাংক ট্রান্সফার
+contact_subject: যোগাযোগ ইমেইল
+payment_finish_title: পেমেন্ট সমাপ্তি
+payment_renew_title: পেমেন্ট সমাপ্তি
+payment_finish_text: আপনার অর্থপ্রদান অসম্পূর্ণ. যত তাড়াতাড়ি আমরা পেপাল থেকে নিশ্চিতকরণ পেয়েছেন তা আপনার অ্যাকাউন্ট সক্রিয় করা হবে
+payment_renew_text: আপনার অর্থপ্রদান অসম্পূর্ণ. যত তাড়াতাড়ি আমরা পেপাল থেকে নিশ্চিতকরণ গ্রহন করেছিলাম আপনার অ্যাকাউন্ট পুনর্নবীকরণ করা হবে
+payment_cancel_title: পেমেন্ট বাতিল
+payment_cancel_text: আপনার পেমেন্ট বাতিল হয়
+feature_payment_finish: আপনার অর্থপ্রদান অসম্পূর্ণ. যত তাড়াতাড়ি আমরা পেপাল থেকে নিশ্চিতকরণ recieve হিসেবে আপনার এস্টেট দেখানো হবে.
+feature_payment_cancel: আপনার পেমেন্ট বাতিল করা হয়েছে.
+private_owner: বেসরকারি মালিক
+selected_package: সিলেক্টেড প্যাকেজ
+signup_with_social_account: সামাজিক অ্যাকাউন্টের সাথে সাইনআপ
+password: পাসওয়ার্ড
+confirm_password: পাসওয়ার্ড নিশ্চিত করুন
+all_posts: সকল পোস্ট
+no_posts: কোন পোষ্ট নাই
+title: শিরোনাম
+description: বর্ণনা
+status: অবস্থা
+actions: পদক্ষেপ
+action: কর্ম
+type: প্রকার
+type_something: কিছু লিখুন
+content: বিষয়বস্তু
+featured_image: আলোচিত চিত্র
+category: শ্রেণী
+all_categories: সমস্ত বিভাগ
+edit_category: বিভাগ সম্পাদনা
+new_category: নতুন বিভাগ
+parent: অভিভাবক
+edit: সম্পাদনা
+delete: মুছুন
+name: নাম
+save: সংরক্ষণ করুন
+no_parent: কোন পিতা বা মাতা
+edit_email_template: ইমেল টেমপ্লেট সম্পাদনা
+select_template_file: টেমপ্লেট ফাইল নির্বাচন
+subject: বিষয়
+body: বডি
+available_variables: উপলভ্য ভেরিয়েবল
+select_language: ভাষা নির্বাচন করুন
+select_language_file: ভাষা নির্বাচন ফাইল
+edit_as_new: নতুন হিসাবে সম্পাদনা
+language: ভাষা
+add_another: আরেকটি যোগ
+export_to_file: রপ্তানি দায়েরের
+import_from_file: ফাইল থেকে আমদানি
+auto_translator: অটো অনুবাদক
+from_lang: lang থেকে
+target_lang_full_name: উদ্দিষ্ট? lang পূর্ণ নাম
+target_lang_short_name: উদ্দিষ্ট? lang সংক্ষিপ্ত নাম
+create_new_package: নতুন প্যাকেজ তৈরি করুন
+price: মূল্য
+maximum_post_by_user: ব্যবহারকারী দ্বারা সর্বোচ্চ পোস্ট
+expirtion_time: Expirtion সময় (দিন)
+create_package: প্যাকেজ তৈরি করুন
+edit_package: প্যাকেজ সম্পাদনা
+update_package: আপডেট প্যাকেজ
+add_packages: প্যাকেজ যোগ
+all_packages: সমস্ত প্যাকেজ
+no_packages: কোন প্যাকেজ
+options: বিকল্প
+all_pages: সমস্ত পৃষ্ঠা
+no_pages: কোন পেজ
+manage_menu: মেনু পরিচালনা
+menu_title: মেনু শিরোনাম
+menu_alias: মেনু ওরফে
+show_in_menu: মেনু দেখান
+page_layout: পৃষ্ঠা বিন্যাস
+content_from: থেকে বিষয়বস্তু
+url: ইউআরএল
+seo_options: এসইও অপশন
+meta_description: মেটা বর্ণনা
+key_words: মূল শব্দ
+crawl_after: পর হামাগুড়ি (দিন)
+all_plugins: সব প্লাগ-ইনের
+no_plugins: কোন প্লাগিন
+name_and_version: নাম এবং সংস্করণ
+change_password: পাসওয়ার্ড পরিবর্তন করুন
+current_password: বর্তমান পাসওয়ার্ড
+new_password: নতুন পাসওয়ার্ড
+retype_password: পাসওয়ার্ড আবার টাইপ
+password_reset_info_msg: অনুগ্রহ করে প্রথমে আপনার নতুন পাসওয়ার্ড সেট করুন
+profile_picture: প্রোফাইল পিকচার
+username: ব্যবহারাকারীর নাম
+email: এটি ইমেল
+first_name: প্রথম নাম
+last_name: শেষ নাম
+gender: জেন্ডার
+phone: ফোন
+company_name: কোম্পানি নাম
+about_me: আমার সম্পর্কে
+facebook_account: ফেসবুক অ্যাকাউন্ট
+twitter_account: টুইটার অ্যাকাউন্ট
+linkedin_account: লিঙ্কডইন অ্যাকাউন্ট
+gp_account: Google+ অ্যাকাউন্ট
+account_msg: Please enter the link, without http: //
+web_email_settings: ওয়েব ইমেল সেটিংস
+contact_email: যোগাযোগ ইমেইল
+webadmin_name: Webadmin নাম
+webadmin_email: Webadmin ইমেইল
+update: আপডেট
+upload: আপলোড করুন
+site_settings: সাইট সেটিং
+site_title: সাইট শিরোনাম
+footer_text: পাদলেখ পাঠ্য
+site_logo: সাইট লোগো
+site_language: সাইটের ভাষা
+site_text_direction: সাইট টেক্সট দিকবিন্যাস
+per_page: পত্রাঙ্কন প্রতি পাতা
+default_page_layout: ডিফল্ট পৃষ্ঠা সজ্জা
+tracking_code: ট্র্যাকিং কোড
+smtp_email_settings: SMTP এর ইমেল সেটিংস
+smtp_email: SMTP এর ইমেইল
+smtp_host: SMTP এর হোস্ট
+smtp_port: SMTP এর পোর্ট
+smtp_timeout: SMTP এর টাইম-আউট
+smtp_user: SMTP এর নিচে
+smtp_password: SMTP এর পাসওয়ার্ড
+generate_site_map: সাইট ম্যাপ জেনারেট
+sitemap_info_msg: বিশেষ দ্রষ্টব্য মনে যা আপনি সাইটম্যাপ এক্সএমএল উপর অন্তর্ভুক্ত করতে চান তা নির্বাচন করুন. পরে সফল প্রজন্মের sitemap.xml রুট ডিরেক্টরি অধীনে সংরক্ষিত হয়. এছাড়াও আপনি আপনার নিজের URL গুলি সহ জন্য যে ফাইলটি সম্পাদন করতে পারেন.
+pages: পেজ
+blog_posts: ব্লগ পোস্ট
+articles: প্রবন্ধ
+blog_post: ব্লগ পোস্ট
+blog: ব্লগ পোস্ট
+article: ধারা
+news: সংবাদ
+view_xml: দেখুন এক্সএমএল
+create_xml: এক্সএমএল তৈরি করুন
+manage_backups: পরিচালনা ব্যাকআপ
+create_sql_backup: এসকিউএল ব্যাকআপ তৈরি করুন
+create_image_backup: প্রতিচ্ছবি ব্যাকআপ তৈরি করুন
+restore: পুনরুদ্ধার
+download: ডাউনলোড করুন
+dashboard: ড্যাশবোর্ড
+overview_stats_more: সংক্ষিপ্ত বিবরণ, পরিসংখ্যান এবং আরো
+visit_site: সাইট পরিদর্শন করুন
+logout: লগআউট
+themes: থিম
+locations: লোকেশন
+paypal_settings: পেপ্যাল ​​সেটিংস
+payment_history: পেমেন্ট ইতিহাস
+profile: প্রোফাইল
+packages: প্যাকেজ
+widgets: উইজেট
+all_widgets: সমস্ত উইজেট
+widget_positions: উইজেট পজিশন
+blog_news_article: ব্লগ / খবর / ধারা
+new_post: নতুন পোস্ট
+pages_and_menu: পেজ & মেনু
+new_page: নতুন পাতা
+menu: মেনু
+system: সিস্টেম
+manage_languages: পরিচালনা ভাষাসমূহ
+auto_translate: অটো অনুবাদ
+edit_email_text: এটি ইমেল টেক্সট সম্পাদনা
+admin_settings: ওয়েব অ্যাডমিন সেটিং
+sitemap: সাইট ম্যাপ
+activate: সক্রিয়
+active_theme: সক্রিয় থিম
+available_themes: উপলভ্য থিমস
+all_users: সকল ব্যবহারকারীর
+create_user: ব্যবহারকারী তৈরি করুন
+export_user_email: রপ্তানি ব্যবহারকারীর ই-মেইল (.csv)
+profile_info: প্রোফাইলের তথ্য
+ban_forever: চিরতরে বাতিল
+edit_page: পৃষ্ঠা সম্পাদনা
+create_widget: উইজেট তৈরি করুন
+widget_name: উইজেট নাম
+activate_deactivate: সক্রিয় / ডি-অ্যাক্টিভেট
+show: শো
+available_widgets: উপলভ্য উইজেট
+active_widgets: সক্রিয় উইজেট
+delete_warning: আপনি নিশ্চিত মুছতে চাই.
+yes: "হ্যাঁ"
+no: "না"
+product_name: ব্যবসা-প্রতিষ্ঠান অনুসন্ধান
+fa_icon: এফএ আইকন বর্গ
+post_ad: তালিকা ব্যবসা
+post_ad_subtitle: আপনার ব্যবসা বিস্তারিত রাখুন
+signin: সাইনইন
+signup: সাইনআপ
+signup_title: আপনার অ্যাকাউন্ট তৈরি করুন
+not_found: পাওয়া যায় না
+purpose: উদ্দেশ্য
+purpose_buy: কিনুন
+purpose_sell: বিক্রি
+select_category: বিভাগ নির্বাচন করুন
+contact_for_price: মূল্য জন্য যোগাযোগ
+address_info: ঠিকানা তথ্য
+general_info: সাধারণ তথ্য
+upload_later_msg: আপনি পোস্ট নির্মাণের পরে গ্যালারি ফটো এবং ভিডিও URL আপলোড করতে সক্ষম হবেন
+user_panel: ব্যবহারকারী প্যানেল
+put_as_comma_seperated: যেমন (,) কমা sperated করা
+added: যোগ করা হয়েছে
+location: লোকেশন
+views: ভিজিটের সংখ্যা
+package_type: প্রকার
+post_package: মন্তব্যগুলি পোস্ট প্যাকেজ
+featured_package: আলোচিত প্যাকেজ
+both_package: মন্তব্যগুলি পোস্ট এবং বৈশিষ্ট্যযুক্ত
+select_package: প্যাকেজ নির্বাচন
+package_created: প্যাকেজ তৈরি করা
+package_updated: প্যাকেজ আপডেট
+slider: স্লাইডার
+add_new: নতুন যোগ
+new_slide: নতুন স্লাইড
+update_slide: আপডেট স্লাইড
+save_order: অর্ডার সংরক্ষণ
+slider_sort_instruction: আপনি টেবিলের সারি সাজাতে ড্রপ টেনে আনতে পারেন. অর্ডার সংরক্ষণ বাছাই করার পর
+search: অনুসন্ধান
+results: ফলাফল
+property_location_on_map: সম্পত্তি অবস্থান মানচিত্রে
+location_on_map: মানচিত্রে অবস্থান
+contact_mode: যোগাযোগ মোড
+reset: রিসেট
+contact: যোগাযোগ
+default_site_view: ডিফল্ট সাইটের দৃশ্য
+type_your_message: এখানে আপনার বার্তা লিখুন ..
+mail_sent: মেইল ​​পাঠান
+search_classifieds: অনুসন্ধান BusinessDirectorys
+advanced_search: উন্নত অনুসন্ধান
+narrow_down_your_businesses: আপনার ব্যবসা নিচে সঙ্কীর্ণ
+home: বাসা
+print: মুদ্রণ
+remember_me: আমাকে মনে রাখুন
+forgot_password: পাসওয়ার্ড ভুলে গেছেন
+login_failed: লগইন ব্যর্থ
+login_to_your_account: আপনার অ্যাকাউন্টে লগইন করুন
+register_your_account: আপনার অ্যাকাউন্ট নিবন্ধন করুন
+male: পুরুষ
+female: মহিলা
+no_location_found: কোন অবস্থান পাওয়া
+state: রাজ্য
+ad_creation_error: বিজ্ঞাপন সৃষ্টিতে ত্রুটি! দয়া করে চেক করুন.
+users: ব্যবহারকারীরা
+show_admin_user: দেখান এডমিন ইউজার
+send_email_to_business: ব্যবসা ইমেল পাঠান
+DBC_PAYMENT_PENDING: পেমেন্ট মুলতুবি
+DBC_EXPIRED: মেয়াদউত্তীর্ণ
+categories: ধরন
+top_posts: শীর্ষ পোস্ট
+show_state_province: দেখান রাজ্য প্রদেশ
+package_settings: প্যাকেজ সেটিংস
+default_site_settings: ডিফল্ট সাইট সেটিং
+webadmin_settings: Webadmin সেটিংস
+banner_settings: ব্যানার সেটিংস
+max_price_for_search: সর্বোচ্চ দাম জন্য অনুসন্ধান করুন
+search_filters: অনুসন্ধান ফিল্টার
+posts_per_page: পৃষ্ঠা প্রতি পোস্ট
+recent_posts: সাম্প্রতিক পোস্ট
+featured_posts: আলোচিত পোস্ট
+top_locations: শীর্ষ অবস্থানগুলো
+top_users: শীর্ষ ব্যবহারকারীরা
+approve: অনুমোদন করুন
+make_featured: সুগঠনবিশিষ্ট করুন
+remove_featured: বৈশিষ্ট্যযুক্ত সরান
+renew_featured: বৈশিষ্ট্যযুক্ত নবীকরণ
+renew_package: প্যাকেজ নবীকরণ
+no_renew_post_id: অবৈধ পোস্ট আইডি পুনর্নবীকরণ
+approve_payment: পেমেন্ট অনুমোদন করুন
+transaction: লেনদেন
+transaction_id: লেনদেন আইডি
+post_id: মন্তব্যগুলি পোস্ট আইডি
+amount: পরিমাণ
+request_date: অনুরোধের তারিখ
+expiration_date: মেয়াদপূর্তির তারিখ
+transaction_deleted: লেনদেন মোছা
+payment_approved: পেমেন্ট অনুমোদন
+logged_in_as: লগ ইন
+posted_on: পোস্ট
+confirm_email_send: নিশ্চিতকরণ ইমেল যে ইমেইল থেকে নির্দেশাবলী অনুসরণ করুন send.Please.
+email_confirmed: ইমেল confirmed.You এখন আপনার ই-মেইল এবং পাসওয়ার্ড দিয়ে লগ ইন করতে পারেন
+email_confirmed_failed: নিশ্চিতকরণ failed.Confirmation ইমেইল এবং কোড মিলছে না.
+password_change_success: পাসওয়ার্ড সফলভাবে পরিবর্তন
+email_sent_inbox: একটি ই-মেইল আপনার inbox.Check যে ইমেলে পাঠাতে হয়.
+password_recovery_link_invalid: পাসওয়ার্ড রিকভারি লিঙ্ক বৈধ নয়
+user_updated: ব্যবহারকারী Updated
+user_deleted: ব্যবহারকারী মোছা হয়েছে
+user_banned: ব্যবহারকারী নিষিদ্ধ
+user_unbanned: ব্যবহারকারীর নিষেধাজ্ঞা
+user_confirmed: ব্যবহারকারী নিশ্চিতকৃত
+post_deleted: মন্তব্যগুলি পোস্ট মুছে ফেলা হয়েছে
+post_updated: মন্তব্যগুলি পোস্ট আপডেট করা
+post_created: মন্তব্যগুলি পোস্ট তৈরি করা হয়েছে
+post_featured: মন্তব্যগুলি পোস্ট বৈশিষ্ট্যযুক্ত
+data_inserted: তথ্য সন্নিবেশিত
+data_updated: তথ্য আপডেট করা হয়েছে
+feature_renewed: বৈশিষ্ট্য নবায়ন
+post_feature_removed: মন্তব্যগুলি পোস্ট বৈশিষ্ট্য সরানো হয়েছে
+post_approved: মন্তব্যগুলি পোস্ট অনুমোদন
+invalid_post: অবৈধ পোস্ট
+email_sent: ইমেল পাঠানো হয়েছে
+settings_updated: সেটিংস আপডেট
+package_removed: প্যাকেজ সরানো হয়েছে
+page_updated: পৃষ্ঠা Updated
+page_created: পাতা তৈরী
+page_deleted: পৃষ্ঠা মোছা
+menu_updated: মেনু Updated
+site_map_generation_success: সাইট মানচিত্র সফলভাবে উত্পন্ন.
+select_option: নির্বাচন বা আরো অপশন নির্বাচন করুন.
+image_backup_created: প্রতিচ্ছবি ব্যাকআপ তৈরি করা হয়েছে
+language_translated: ভাষাটি অনুবাদ
+unable_to_write_file: ফাইল লিখতে অক্ষম
+backup_deleted: ব্যাকআপ মুছে ফেলা
+database_restored: ডাটাবেস পুনরুদ্ধার হয়েছে
+theme_activated: থিম সক্রিয়
+user_created: ব্যবহারকারী তৈরি
+widget_position_updated: উইজেট postion Updated
+widget_created: উইজেট তৈরি করা হয়েছে
+widget_data_updated: উইজেট ডেটা আপডেট
+unable_to_write_widget: উইজেট লিখতে অক্ষম
+post_created_and_published: মন্তব্যগুলি পোস্ট সৃষ্টিকে সুন্দর করেছেন এবং প্রকাশিত
+post_created_approval: মন্তব্যগুলি পোস্ট সৃষ্টিকে সুন্দর করেছেন এবং অ্যাডমিন অনুমোদনের অপেক্ষায়
+post_package_renewed: মন্তব্যগুলি পোস্ট প্যাকেজ নবায়ন
+payment_finish: পেমেন্ট ফিনিস
+payment_cancelled: পেমেন্ট বাতিল
+admin_change_pass_help: ফাঁকা রাখেন, তাহলে কোনো পরিবর্তন প্রয়োজন
+go_to_paypal: পেপ্যাল ​​যান
+login_with_google: গুগল দিয়ে লগইন করুন
+login_with_facebook: ফেসবুক দিয়ে লগইন করুন
+load_more_recent_posts: লোড আরো সাম্প্রতিক পোস্ট
+load_more_featured_posts: লোড আরো বৈশিষ্ট্যযুক্ত পোস্ট
+register_for_new_account: নতুন অ্যাকাউন্ট নিবন্ধন
+site_map: সাইট ম্যাপ
+show_site_map: দেখান সাইট ম্যাপ
+service: পরিষেবা
+features: বৈশিষ্ট্য
+about: আমার সম্পর্কে
+view_posts: পোস্ট দেখুন
+see_full_documentation: পুরো ডকুমেন্টেশন দেখুন
+select_city: শহর নির্বাচন করুন
+parallax_slider: লম্বন স্লাইডার
+all_slides: সকল স্লাইডে
+no_slide: কোন স্লাইড
+slide_order: স্লাইড অর্ডার
+edit_profile: প্রোফাইল সম্পাদনা করুন
+post_price_settings: মন্তব্যগুলি পোস্ট মূল্য সেটিংস
+enable_post_pricing: মন্তব্যগুলি পোস্ট মূল্যের সক্রিয়
+enable_paypal_transfer: সক্রিয় পেপাল
+enable_bank_transfer: ব্যাংক ট্রান্সফার সক্রিয়
+bank_transfer_instruction_for_posts: ব্যাংক ট্রান্সফার ইন্সট্রাকশন
+featured_price_settings: আলোচিত মূল্য সেটিংস
+enable_featured_pricing: বৈশিষ্ট্যযুক্ত মূল্য সক্রিয়
+enable_featured_paypal: পেপাল সক্রিয়
+enable_featured_bank_transfer: ব্যাংক ট্রান্সফার সক্রিয়
+bank_transfer_instruction_for_featured_posts: ব্যাংক হস্তান্তরের নির্দেশ
+bank_currency_settings: ব্যাংক মুদ্রা সেটিংস
+bank_currency: ব্যাংক মুদ্রা
+use_same_as_paypal_currency: পেপাল মুদ্রা হিসাবে একই ব্যবহার
+admin: অ্যাডমিন
+re_password: পাসওয়ার্ড আবার টাইপ
+explain_widget_position: উইজেট অবস্থানের ব্যাখ্যা কর
+post: মন্তব্যগুলি পোস্ট
+post_renew: মন্তব্যগুলি পোস্ট নবীকরণ
+feature: বৈশিষ্ট্য
+feature_renew: বৈশিষ্ট্য নবীকরণ
+payment_for: জন্য পেমেন্ট
+select_country: নির্বাচন দেশ
+select_one: এক নির্বাচন
+video_url: Vidoe URL টি
+confirm_payment: পেমেন্ট নিশ্চিত
+package_title: প্যাকেজ শিরোনাম
+number_of_featured_days: দিনের সংখ্যা বৈশিষ্ট্যযুক্ত করা
+no_of_days: দিনের কোন
+expiration_time: মেয়াদ শেষ হওয়ার সময়
+any_city: কোন শহরের
+any_category: কোন শ্রেণী
+product_admin_panel: Whiz এডমিন
+username_or_email: ব্যবহারকারীর নাম অথবা ইমেইল
+business_detail: ব্যবসা-প্রতিষ্ঠানের বিস্তারিত
+post_detail_subtitle:
+posts_by: মন্তব্যগুলি পোস্ট করুন দ্বারা
+featured: Featured
+edit_user: ব্যবহারকারী সম্পাদনা
+the_field_is_required:% s এর ক্ষেত্র প্রয়োজন বোধ করা হয়.
+valid_email:% s এর ক্ষেত্র একটি বৈধ ই-মেইল ঠিকানা থাকতে হবে.
+min_length:% s এর ক্ষেত্র দৈর্ঘ্য কমপক্ষে% s- অক্ষর ব্যবহার করা আবশ্যক.
+numeric:% s এর ক্ষেত্র শুধুমাত্র সংখ্যা থাকতে হবে.
+matches:% s এর ক্ষেত্র% s- ক্ষেত্রের সাথে মিলছে না.
+greater_than:% s এর ক্ষেত্র% s এর চেয়ে বড় একটি সংখ্যা ধারণ করতে হবে.
+agree_terms: আমি% s এর পদ% s এর শর্ত পড়েছি
+must_accept_terms: আপনি পদ এবং শর্ত গ্রহণ করতে হবে
+dont_have_permission: আপনি এই পৃষ্ঠায় যাওয়ার জন্য অনুমতি নেই
+email_allready_in_use: এটি ইমেল ইতিমধ্যে ব্যবহারে
+username_allready_in_use: ব্যবহারাকারীর নাম Allready ব্যবহারে
+current_password_not_matched: বর্তমান পাসওয়ার্ড করিনি \ 'টি ম্যাচ
+email_or_password_not_mathed: এটি ইমেল বা পাসওয়ার্ড doen \ 'টি ম্যাচ
+email_not_matched: মিলেছে না ইমেল
+account_not_confirmed: নিশ্চিত নয় অ্যাকাউন্ট
+all_locations: সকল অবস্থানগুলি
+add_country: দেশ জুড়ুন
+add_state: রাষ্ট্র যোগ
+add_city: শহর যোগ করুন
+no_locations: অবস্থানেই
+banner_type: ব্যানার টাইপ
+bg_image: পৃষ্ঠভূমি ইমেজ
+unique_alias:% s এর ক্ষেত্র অনন্য হতে হবে
+error_occured: ত্রুটি ঘটেছে. নিচের ক্ষেত্র চেক করুন
+user_profile: ব্যবহারকারীর প্রোফাইল '
+user_email: ব্যবহারকারীর ই-মেইল
+target_lang_name: উদ্দিষ্ট ভাষা
+no_emails: কোন ইমেল
+to: করতে
+classified_settings: সেটিংস শ্রেণীবদ্ধ
+publish_posts_directly: পোস্ট সরাসরি Publish
+system_currency: সিস্টেম মুদ্রা
+enable_signup: সাইনআপ সক্রিয়
+if_package_expired: যদি প্যাকেজ মেয়াদ শেষ
+do_not_hide: লুকাতে না
+hide: লুকান
+show_price_like: মূল্য বিন্যাস
+facebook_app_settings: ফেসবুক অ্যাপ সেটিংস
+enable_facebook_login: ফেইসবুক লগইন সক্রিয়
+fb_app_id: ফেসবুক অ্যাপ আইডি
+fb_secret_key: ফেসবুক গোপন চাবি
+comment_settings: মন্তব্য সেটিংস
+enable_comment: মন্তব্য সক্রিয়
+disqus_shortname: সূত্র SHORTNAME
+sandbox_mode: স্যান্ডবক্স মোড
+item_name: আইটেম নাম
+paypal_email: পেপ্যাল ​​ইমেইল
+currency: মুদ্রা
+finish_url: শেষ URL টি
+cancel_url: বাতিল url টি
+menu_background: মেনু পটভূমি
+menu_text_color: মেনু টেক্সট রঙ
+activated_menu_color: সক্রিয় মেনু রঙ
+top_bar_bg: শীর্ষ বার বিজি
+activated_menu_text_color: সক্রিয় মেনু টেক্সট রঙ
+latitude: অক্ষাংশ
+longitude: দ্রাঘিমাংশের
+map_zoom: ম্যাপ জুম
+search_panel_settings: অনুসন্ধান প্যানেল সেটিংস
+search_panel_bg_color: অনুসন্ধান প্যানেল বিজি রঙ
+show_background_image: দেখান ব্যাকগ্রাউন্ড ইমেজ
+active_widget_position: সক্রিয় উইজেট অবস্থানে
+upload_and_install: আপলোড করুন এবং ইনস্টল
+install_updates: ইনস্টল আপডেট / থিম / প্লাগইন / উইজেট
+confirmation_email: নিশ্চিতকরণ ইমেইল
+recovery_email: পুনরুদ্ধার ইমেল
+signup_notification_email: নিবন্ধন সূচনা ইমেল
+payment_confirmation_email: পেমেন্ট নিশ্চিতকরণ ইমেল
+click_and_edit: একটি টেমপ্লেট ফাইল নির্বাচন করুন এবং সম্পাদনা ক্লিক]
+google_analytics_settings: গুগল AnalyticsSettings
+default_seo_settings: ডিফল্ট SEO সেটিংস
+individual: ব্যাক্তিগত
+find_us_on_facebook: আমাদের ফেসবুক পাতা
+category_featured_posts: আলোচিত পোস্ট
+load_more_posts: আরো লোড করুন
+home_page_title: অনুসন্ধান এবং পোস্ট বিভাগ শীর্ষ বিজ্ঞাপন
+no_posts_found: কোনও পোস্ট নেই
+type_anything: কোন কিছু টাইপ করা
+chosen_not_found: ওহো, কিছুই পাওয়া যায় নি!
+rating_asc: রেটিং আরোহী
+rating_desc: রেটিং নিম্নক্রম
+id_desc: আইডি নিম্নক্রম
+id_asc: আইডি আরোহী
+show_daily_menu: দেখান দৈনিক মেনু
+website: ওয়েবসাইট
+founded: প্রতিষ্ঠাকাল
+year: বছর
+price_range: মূল্য বিন্যাস
+additional_features: অতিরিক্ত বৈশিষ্ট্য
+add_more_fields: আরো ক্ষেত্রের যোগ
+remove: সরান
+distance_around_my_position: আমার অবস্থান কাছাকাছি দূরত্ব
+show_distance_in: দেখান দূরত্ব
+business_listed: ব্যবসা-প্রতিষ্ঠানের তালিকাভুক্ত
+show_street_view: দেখান স্ট্রিট ভিউ
+list_business: তালিকা ব্যবসায়িক
+search_businesses: অনুসন্ধান করুন
+top_businesses: শীর্ষ প্রতিষ্ঠান
+featured_businesses: আলোচিত প্রতিষ্ঠান
+business_directory_settings: ব্যবসা-প্রতিষ্ঠান অনুসন্ধান সেটিংস
+hide_email: লুকান ইমেইল
+hide_phone: লুকান ফোন
+review: পর্যালোচনা
+comment: মন্তব্য
+submit_review: পর্যালোচনা জমা দিন
+rating: রেটিং
+review_alert: আপনি পর্যালোচনা জমা দিতে লগ ইন করতে হবে.
+new_business: নতুন ব্যবসা
+identify_my_location: আমার অবস্থান সনাক্ত করুন
+data_deleted: তথ্য মুছে ফেলা
+recent_reviews: সাম্প্রতিক পর্যালোচনা
+view_all_reviews: সমস্ত পর্যালোচনা দেখুন
+review_deleted: পর্যালোচনা মোছা
+review_detail: বিস্তারিত
+all_reviews: সমস্ত পর্যালোচনা
+monday: সোমবার
+tuesday: মঙ্গলবার
+wednesday: বুধবার
+thursday: বৃহস্পতিবার
+friday: শুক্রবার
+saturday: শনিবার
+sunday: রবিবার
+opening_hour: খোলা আওয়ার
+closed: বন্ধ
+airport: বিমানবন্দর
+cafe: ক্যাফে
+cinemas: সিনেমাস
+hotels_and_resorts: হোটেল ও রিসর্ট
+libraries: লাইব্রেরি
+night_clubs: নাইট ক্লাব
+offices: অফিস
+restaurants: রেষ্টুরেন্ট
+shops: দোকান
+review_submitted: পর্যালোচনা পেশ
+social_links: সামাজিক লিংক
+upgrade_browser: ব্রাউজারের আপগ্রেড
+please_upgrade_your_browser: আপনার ব্রাউজার আপগ্রেড করুন
+business: ব্যবসা
+introduction: ভূমিকা
+terms: শর্তাদি এবং শর্ত
+email_not_found: পাওয়া ইমেল
+city_dropdown: সিটি ড্রপডাউন
+published: প্রকাশিত
+publish: প্রকাশ
+drafted: খসড়া
+draft: খসড়া
+from: থেকে
+send_bulk_email: পাঠান বাল্ক ইমেইল
+ive_read_the: আমি পড়েছি
+title_city_category: শিরোনাম, শহর বা বিভাগ
+dt_first: প্রথম
+dt_last: সর্বশেষ
+dt_next: পরবর্তী
+dt_prev: পূর্ববর্তী
+dt_no_data: কোন তথ্য সারণী পাওয়া
+dt_show_empty: 0 0 এন্ট্রি 0 দেখানো
+dt_no_match: মিলে যাওয়া কোন রেকর্ড পাওয়া
+dt_search: অনুসন্ধান
+dt_processing: প্রক্রিয়াকরণ ...
+dt_loading: লোড হচ্ছে ...
+dt_info: _TOTAL_ এন্ট্রির _END_ থেকে দেখানো _START_
+dt_filter_info: (_MAX_ মোট এন্ট্রি থেকে ফিল্টার)
+dt_show_entries: _MENU_ দেখান এন্ট্রি
+get_directions: দিকনির্দেশনা পান
+review_not_submitted : আপনি ইতিমধ্যে একটি পর্যালোচনা দিয়েছি
+debug_email : ডিবাগ ইমেইল
+email_to : ইমেইল
+report_the_business : এই ব্যবসা প্রতিবেদন
+reported : রিপোর্ট
+already_reported : ইতিমধ্যে রিপোর্ট
+reported_post : রিপোর্ট পোস্ট
+all_reported_posts : সমস্ত রিপোর্ট পোস্ট
+report: প্রতিবেদন
+assigned_to: নিয়োগ
+select_assigned_to: ব্যবহারকারী নির্বাচন
+css_compression: সিএসএস কম্প্রেশন
+gallery_notes: আপনি গ্যালারি ফটো পুনরায় ক্রমবদ্ধ করতে ড্রপ টেনে আনতে পারেন. ফটো মাপ পরিবর্তন করা হয় না.
+video_notes: ইউটিউব বা Vimeo url টি
+post_expiration_notification: মন্তব্যগুলি পোস্ট মেয়াদপূর্তির বিজ্ঞপ্তি
+claim_the_business: ব্যবসা দাবি জানান
+claim_business_instructions: নীচের ফর্মটি পূরণ করুন এবং সেন্ড বাটন ক্লিক করুন. সাইট অ্যাডমিন ই-মেইল বা ফোন মাধ্যমে আপনার সাথে যোগাযোগ করবে.
+claimed_business: দাবি ব্যবসা
+days_left: দিন বাকি
+AM: পূর্বাহ্ণ
+PM: প্রধানমন্ত্রী
+upload_invalid_min_dimensions: ইমেজ মাত্রা অত্যন্ত কম
+view_on_front: সামনে দেখুন
+clear_unused_img: সাফ অব্যবহৃত ইমেজ
+unused_files_found: পাওয়া অব্যবহৃত ফাইল
+clear_unused_img: সাফ অব্যবহৃত ইমেজ
+unused_images_cleared: অব্যবহৃত ইমেজ সাফ
+unused_info_msg: এই ফাংশন শুধুমাত্র ইমেজ যা ব্যবসা, ব্যবহারকারী বিভাগ, পৃষ্ঠা, ব্লগ দ্বারা ব্যবহার করা হয় না cleares. এটা images.So খোঁজার যদি আপনি নিজে কোন ইমেজ নিজে আপলোড এবং তাদের কোড এটি মুছে ফেলা হতে পারে মধ্যে ব্যবহৃত জন্য ডাটাবেসের মধ্যে অনুসন্ধান.
+no_unused_img: কোন অব্যবহৃত ইমেজ পাওয়া
+search_panel_filter_type: ফিল্টার টাইপ
+basic_options: বেসিক অপশন
+advanced_options: অগ্রিম অপশন
+key_words: মূল শব্দ
+sorting_order: বাছাই অর্ডার
+business_listed_on: ব্যবসা-প্রতিষ্ঠানের তালিকাভুক্ত
+business_listed_under: ব্যবসা-প্রতিষ্ঠানের অধীন তালিকাভুক্ত করা
+all_sub_categories: সমস্ত সাব আরও
+no_sub_categories: কোন সাব আরও
+open_24_by_7: সর্বদা খোলা
+hide_my_email : আমার ই-মেইল লুকান
+disable_email_contact: ই-মেল যোগাযোগ নিষ্ক্রিয়
+enable_review: পর্যালোচনা সক্রিয়
+disable_google_street_view: নিষ্ক্রিয় গুগল স্ট্রিট ভিউ
+location_chorome_msg: গুগল দ্বারা অবস্থান সেবা অ SSL সাইট (শুধু ক্রোম ব্রাউজারে) জন্য উপলব্ধ করা হয় না. আপনি আপনার অবস্থান পাওয়ার জন্য আপনার আইপি ঠিকানা ব্যবহার করতে চান না? বিশেষ দ্রষ্টব্য - ফলে গুগল যেমন ঠিক একই হতে পারে না
+send_email_to_users: ব্যবহারকারীদের ই-মেইল পাঠান
+show_banner: দেখান ব্যানার
+hide_my_phone: আমার ফোন লুকান
+kms: কি.মি.
+miles: মাইলস
+logo_text: লোগো টেক্সট
+logo_type: লোগো প্রকার
+logo_text_color: লোগো টেক্সট রঙ
+Jan: জানুয়ারী
+Feb: ফেব্রুয়ারী
+Mar: মার্চ
+Apr: এপ্রিল
+May: মে
+Jun: জুন
+Jul: জুলাই
+Aug: আগস্ট
+Sep: সেপ্টেম্বর
+Oct: অক্টোবর
+Nov: নভেম্বর
+Dec: ডিসেম্বর
+show_search_panel: প্রদর্শনটির প্যানেল
+delete_selected: Delete Selected
+camera_spin: ক্যামেরা ঘূর্ণন
+degree: ডিগ্রী
+map_api_key: Gmap API কী
+pricing: প্রাইসিং
+post_package_instruction: আমরা আমাদের ওয়েবসাইটে একটি ব্যবসা পোস্ট করার জন্য নিম্নলিখিত প্যাকেজগুলি করেছি
+feature_package_instruction: আমরা একটি ব্যবসার তৈরীর জন্য নিম্নলিখিত প্যাকেজগুলি বৈশিষ্ট্যযুক্ত করেছি
+MENU: মেনু
+gplus_app_settings: Google+ অ্যাপ সেটিংস
+auth_redirect_url: অনুমোদিত পুনঃনির্দেশ URL
+enable_gplus_login: Google+ এ লগইন সক্রিয়
+gplus_client_id: Google+ এ ক্লায়েন্ট আইডি
+gplus_client_secret: Google+ এ ক্লায়েন্ট সিক্রেট
+how_to_get_gplus_api: কীভাবে Google+ Client ID এবং সিক্রেট পেতে
+gallery_upload_limit: গ্যালারি আপলোড সীমা
+you_can_upload_max: আপনি সর্বোচ্চ আপলোড করতে পারেন
+gallery_photos: গ্যালারি ফটো
+email_confirmed: এটি ইমেল নিশ্চিত. আপনি এখন লগইন করতে পারেন
+email_confirmed_failed: এটি ইমেল নিশ্চিতকরণ ব্যর্থ
+advanced_options_with_country_state: দেশ ও রাষ্ট্রের সঙ্গে অগ্রিম বিকল্প
+select_state: রাষ্ট্র নির্বাচন
+recent_posts_order: সাম্প্রতিক পোস্ট অর্ডার
+featured_posts_order: আলোচিত পোস্ট অর্ডার
+default_posts_order: ডিফল্ট পোস্ট অর্ডার
+ASC: উর্ধ্বক্রমে
+DESC: নিম্নক্রম
+RANDOM: এলোমেলো
+useremail: ব্যবহারকারীর ই-মেইল
+enable_adblocker_alert: Adblock সতর্কতা সক্রিয়
+adblock_detected: Adblock সনাক্ত হয়েছে
+adblock_msg: অনুগ্রহ Adblock disbale এবং পৃষ্ঠা আবার রিফ্রেশ
+enable_cookie_policy_popup: কুকি নীতি পপআপ
+cookie_policy_page_url: কুকির নীতি পৃষ্ঠার url
+cookie_policy: কুকি নীতি
+cookie_policy_alert: এই সাইটটি কুকি ব্যবহার করে. এই সাইটে আপনি আমাদের কুকি ব্যবহারে সম্মত হন ব্যবহার অব্যাহত দ্বারা.
+read_more: আরও পড়ুন
+i_agree: আমি একমত
+instagram: ইনস্টাগ্রাম
+newsletter_subscription: নিউজলেটার পান
+your_email: আপনার ই-মেইল
+email_saved: ইমেইল নিউজলেটার জন্য সংরক্ষিত
+send_newsletter: নিউজলেটার পাঠান
+unsubscribe: আন-সাবস্ক্রাইব করুন
+to_unsubscribe: এই লিঙ্কে যদি আপনি এই সেবা থেকে সদস্যতা রদ করতে চান তাতে ক্লিক করুন
+successfully_unsubscribed: আপনি এখন নিউজলেটার সেবা থেকে সদস্যতা রদ করেছেন
+export_user_phone: রপ্তানি ব্যবহারকারী ফোন
+enable_blog_comment: ব্লগে মন্তব্য সক্রিয়
+fb_blog_app_id: ব্লগের জন্য ফেসবুক অ্যাপ আইডি
+disqus_blog_shortname: ব্লগের জন্য Disqus সংক্ষিপ্ত নাম
+sample_page: নমুনা পৃষ্ঠা
+senders_phone: প্রেরকের ফোন
+alias: উপনাম

@@ -1,0 +1,725 @@
+---
+sign_in: Autentificare
+sign_up: Înregistrare
+agent_panel: Agent panou
+admin_panel: panoul de administrare
+DBC_ADVANCED_SEARCH: Căutare avansată
+DBC_HOME: Acasă
+DBC_ABOUT: Despre
+DBC_CONTACT: Contact
+country: Țară
+state_province: Stat / Provincie
+city: oraș
+register: Înregistrează-te
+details: Detalii
+view_all: Vezi toate
+order_by: Prin Ordinul
+none: Nici unul
+terms_and_conditions: Termenii si Conditiile
+reg_success_message: Înregistrare Contul dvs. este de succes. Un e-mail a fost trimis la un e-mail. Vă rugăm să urmați că e-mail pentru a activa account.Thanks dvs.
+limit: Limita
+usage: Utilizare
+recover: Recuperare
+oops: Hopa, pagina nu a fost găsit
+share_this: Share This
+location_map: Location Map
+image_gallery: Galeria de imagini
+gallery: Galerie
+summary: Rezumat
+overview: Prezentare generală
+address: Adresă
+message: Mesaj
+email_subject: E-mail Subiect
+all: Toate
+DBC_DELETED: A șters
+contact_us: Contactati-ne
+DBC_ACTIVE: Activ
+featured_video: Featured Video
+estates: Estates
+embed_video_url: embeded video Url
+DBC_PENDING: în așteptare
+email_tracker: E-mail Tracker
+bulk_email: Bulk Email
+advanced_filters: Filtre avansate
+result: Rezultat
+payment_notification: Vei face o plată. Un e-mail este trimis la un e-mail. Vă puteți înapoi la acest pas in orice moment din link-ul de pe acel e-mail.
+confirmation: Confirmare
+tags: Tag-uri
+zip_code: Cod poștal
+embed_preview: Embed Previzualizare
+login: Conectare
+post_not_found: Mesaj nu a fost găsit
+view_more: Vezi mai multe
+choose_a_package: Alege un pachet
+choose_feature_package: Alegeți un pachet caracteristică
+no_package_found: Nu Pachet găsite
+days: Zilele
+posts: Posturi
+change: Schimbare
+subscribe: Abonare
+image: Imagine
+view_on_map: Vezi Harta
+create: Crearea
+basic_info: Informații de bază
+send: Trimite
+all_email_to_users: Toate e-mailurile către utilizatori
+email_detail: E-mail Detalii
+change_package: Schimbare pachet
+bank_transfer: Transfer bancar
+contact_subject: Contact Email
+payment_finish_title: Plată completă
+payment_renew_title: Plată completă
+payment_finish_text: Plata dvs. este completă. De îndată ce am primit confirmarea de la paypal contul dvs. va fi activat
+payment_renew_text: Plata dvs. este completă. De îndată ce am primit confirmarea de la paypal contul dvs. va fi reînnoit
+payment_cancel_title: Plată Anulare
+payment_cancel_text: Plata este anulată
+feature_payment_finish: Plata dvs. este completă. De îndată ce vom primi confirmarea de la PayPal, Estate va fi prezentat.
+feature_payment_cancel: Plata dvs. este anulată.
+private_owner: proprietar privat
+selected_package: Selected Pachetul
+signup_with_social_account: Inregistreaza-te cu contul sociale
+password: Parola
+confirm_password: Confirmați parola
+all_posts: Toate mesajele
+no_posts: Nici un mesaj
+title: Titlu
+description: Descriere
+status: Stare
+actions: Acțiuni
+action: Acțiune
+type: Tip
+type_something: Tip ceva
+content: Conținut
+featured_image: Imagine Recomandate
+category: Categoria
+all_categories: Toate categoriile
+edit_category: Editare categorie
+new_category: Categorie nouă
+parent: mamă
+edit: Editare
+delete: Șterge
+name: Nume
+save: Salvare
+no_parent: Nici un părinte
+edit_email_template: Editare șablon de e-mail
+select_template_file: Selectați fișierul șablon
+subject: Subiect
+body:
+available_variables: variabile disponibile
+select_language: Selectați limba
+select_language_file: Selectați fișierul de limbă
+edit_as_new: Editare ca nou
+language: Limba
+add_another: Adăugați O altă
+export_to_file: Export în fișier
+import_from_file: Import din fișier
+auto_translator: Auto traducător
+from_lang: De la lang
+target_lang_full_name: Target lang nume complet
+target_lang_short_name: Target lang nume scurt
+create_new_package: Creați un pachet nou
+price: Preț
+maximum_post_by_user: posturi maximale de utilizator
+expirtion_time: timp Expirtion (zile)
+create_package: Creați pachet
+edit_package: Editare pachet
+update_package: Pachetul de actualizare
+add_packages: Adăugați pachete
+all_packages: Toate pachetele de
+no_packages: Nici un pachet
+options: Opțiuni
+all_pages: Toate paginile
+no_pages: Nu există pagini
+manage_menu: meniul Administrare
+menu_title: Meniu Titlu
+menu_alias: alias meniu
+show_in_menu: Afișați în meniu
+page_layout: Aspectul paginii
+content_from: Conținut de la
+url: URL
+seo_options: Opțiuni SEO
+meta_description: Meta Descriere
+key_words: Cuvinte cheie
+crawl_after: crawl de după (zile)
+all_plugins: Toate plugin-uri
+no_plugins: Nu există niciun plugin
+name_and_version: Numele și versiunea
+change_password: Schimbare parolă
+current_password: Parola curentă
+new_password: Parola nouă
+retype_password: Repetă parola
+password_reset_info_msg: Vă rugăm să setați mai întâi parola nouă
+profile_picture: Profil Imagine
+username: Nume de utilizator
+email: E-mail
+first_name: Nume
+last_name: Acum Nume
+gender: Sex
+phone: Telefon
+company_name: Nume firma
+about_me: Despre mine
+facebook_account: Facebook cont
+twitter_account: cont Twitter
+linkedin_account: cont Linkedin
+gp_account: cont Google+
+account_msg: Please enter the link, without http: //
+web_email_settings: Setări Web e-mail
+contact_email: Contact Email
+webadmin_name: webadmin Nume
+webadmin_email: webadmin E-mail
+update: Actualizare
+upload: Încărcare
+site_settings: Setări site
+site_title: Titlul site-ului
+footer_text: Subsol text
+site_logo: Site Logo
+site_language: limba site-ului
+site_text_direction: Site-ul Direction Text
+per_page: paginare Per pagină
+default_page_layout: Aspect implicit pagină
+tracking_code: Codul de urmărire
+smtp_email_settings: Setări SMTP prin e-mail
+smtp_email: SMTP e-mail
+smtp_host: Gazdă SMTP
+smtp_port: Port SMTP
+smtp_timeout: SMTP Timeout
+smtp_user: Utilizator SMTP
+smtp_password: Parola SMTP
+generate_site_map: Generare harta site
+sitemap_info_msg: NB Vă rugăm să selectați pe care doriți să fie incluse pe XML sitemap. Dupa ce sitemap.xml generarea de succes este salvat în directorul Rădăcină. De asemenea, aveți posibilitatea să editați acel fișier pentru a include propriile url-uri.
+pages: Pagini
+blog_posts: Blog
+articles: Articole
+blog_post: blog post
+blog: Blog postare
+article: Articolul
+news: Știri
+view_xml: Vizualizare XML
+create_xml: Crearea XML
+manage_backups: Administrare Backupurile
+create_sql_backup: Crearea SQL Backup
+create_image_backup: Create Backup Image
+restore: Restaurare
+download: Descarcă
+dashboard: Tabloul de bord
+overview_stats_more: Prezentare generală, statistici și multe altele
+visit_site: Vizitează site
+logout: Deconectare
+themes: Teme
+locations: Locații
+paypal_settings: Setări Paypal
+payment_history: Istoricul plăților
+profile: Profil
+packages: Pachete
+widgets: Widget-uri
+all_widgets: Toate Widgets
+widget_positions: Pozitii Widget
+blog_news_article: Blog / Stiri / articol
+new_post: Mesaj nou
+pages_and_menu: Pagini & Meniu
+new_page: Pagină nouă
+menu: Meniu
+system: Sistem
+manage_languages: Administrare limbi
+auto_translate: Traducere automată
+edit_email_text: Editare e-mail text
+admin_settings: Setări Web Admin
+sitemap: Harta site-ului
+activate: Activați
+active_theme: Tema activă
+available_themes: Teme disponibile
+all_users: Toti utilizatorii
+create_user: Creați un utilizator
+export_user_email: Mesaje de poștă electronică Export User (.csv)
+profile_info: Informații Profil
+ban_forever: Ban pentru totdeauna
+edit_page: Editare pagină
+create_widget: Creați Widget
+widget_name: Nume Widget
+activate_deactivate: Activare / De-Activare
+show: arata
+available_widgets: Disponibil Widgets
+active_widgets: Widget-uri active
+delete_warning: Sunteți sigur că doriți ștergeți.
+yes: "Da"
+no: "Nu"
+product_name: Business Directory
+fa_icon: FA pictograma clasa
+post_ad: afaceri Lista
+post_ad_subtitle: Puneti detaliile afacerii dvs.
+signin: signin
+signup: Înscriere
+signup_title: Creează un cont
+not_found: Nu a fost gasit
+purpose: Scopul
+purpose_buy: Cumparare
+purpose_sell: Vindem
+select_category: Selectați Categorie
+contact_for_price: Contact pentru preț
+address_info: Adresa Info
+general_info: Informații generale
+upload_later_msg: Vei putea încărca galeria de fotografii și adresă URL video după crearea de postare
+user_panel: Panoul utilizatorului
+put_as_comma_seperated: a pus ca (,) virgula sperated
+added: Adăugat
+location: Localizare
+views: Vizualizari
+package_type: Tip
+post_package: Pachet post
+featured_package: Pachetul Featured
+both_package: post și recomandate
+select_package: Selectați pachetul
+package_created: Pachet creat
+package_updated: Pachet actualizat
+slider: Cursor
+add_new: Add new
+new_slide: Nou diapozitiv
+update_slide: Actualizare de diapozitive
+save_order: Salvare comandă
+slider_sort_instruction: Aveți posibilitatea să glisați picătură pentru a sorta rândurile din tabel. După sortare a salva comanda
+search: Căutare
+results: Rezultate
+property_location_on_map: Proprietate Localizare pe harta
+location_on_map: Harta
+contact_mode: Contact Mod
+reset: Reset
+contact: Contact
+default_site_view: Vizualizare implicită site-
+type_your_message: Introduceți mesajul aici ..
+mail_sent: E-mailuri trimise
+search_classifieds: Căutare BusinessDirectorys
+advanced_search: Căutare avansată
+narrow_down_your_businesses: Rafinați afacerile
+home: Acasă
+print: Print
+remember_me: Reține-mă!
+forgot_password: Ai uitat parola?
+login_failed: Conectare eșuată
+login_to_your_account: Conectați-vă la contul dvs.
+register_your_account: Deschide un cont
+male: Masculin
+female: Femeie
+no_location_found: Nu Locul de amplasare găsit
+state: Stat
+ad_creation_error: Eroare în crearea anunțului! Te rog verifica.
+users: Utilizatori
+show_admin_user: Arată Admin Utilizator
+send_email_to_business: Trimite e-mail pentru afaceri
+DBC_PAYMENT_PENDING: Plată în așteptare
+DBC_EXPIRED: A expirat
+categories: Categorii
+top_posts: Top Posturi
+show_state_province: Afișare Provincia de Stat
+package_settings: Setări Pachet
+default_site_settings: Setări site implicite
+webadmin_settings: Setări WebAdmin
+banner_settings: Setări Banner
+max_price_for_search: Max Pret pentru Căutare
+search_filters: Filtre de căutare
+posts_per_page: Posturi pe pagină
+recent_posts: Posturi recente
+featured_posts: Featured Posts
+top_locations: Locații Top
+top_users: Top utilizatori
+approve: Aprobați
+make_featured: Marcă Featured
+remove_featured: Eliminați caracteristici
+renew_featured: Renew recomandate
+renew_package: Renew pachet
+no_renew_post_id: nevalid reînnoiți posta ID
+approve_payment: Aprobați plata
+transaction: tranzacție
+transaction_id: id tranzacție
+post_id: Mesaj id
+amount: Suma
+request_date: Data solicitării
+expiration_date: Data expirării
+transaction_deleted: Transaction eliminat
+payment_approved: Plată aprobată
+logged_in_as: Conectat ca
+posted_on: Postat pe
+confirm_email_send: e-mail de confirmare send.Please urmați instrucțiunile de la acel e-mail.
+email_confirmed: Email confirmed.You poate loga cu e-mail și parola
+email_confirmed_failed: Confirmarea failed.Confirmation de e-mail și codul nu se potrivește.
+password_change_success: Parola a fost schimbata cu succes
+email_sent_inbox: Un e-mail este trimite la dvs. de e-mail pe care inbox.Check.
+password_recovery_link_invalid: Password Recovery link nu este valid
+user_updated: Utilizator Actualizat
+user_deleted: Utilizator șters
+user_banned: Utilizator interzis
+user_unbanned: Utilizator Unbanned
+user_confirmed: Utilizator confirmat
+post_deleted: Mesaj șters
+post_updated: Mesaj Actualizat
+post_created: Creat post
+post_featured: Mesaj recomandate
+data_inserted: Datele introduse
+data_updated: date actualizate
+feature_renewed: Caracteristică reînnoită
+post_feature_removed: Mesaj Caracteristică eliminată
+post_approved: Mesaj aprobat
+invalid_post: nevalid Mesaj
+email_sent: e-mail trimis
+settings_updated: Setări actualizare
+package_removed: Pachetul fost eliminat
+page_updated: Pagina Actualizat
+page_created: Pagina creată
+page_deleted: Pagina ștearsă
+menu_updated: Meniu Actualizat
+site_map_generation_success: Harta site-ului a fost generat.
+select_option: Vă rugăm să selectați sau mai selectați opțiuni.
+image_backup_created: Backup Image Creat
+language_translated: Limbă Tradus
+unable_to_write_file: Nu se poate scrie fișierul
+backup_deleted: Backup șters
+database_restored: Baze de date Restored
+theme_activated: Activat
+user_created: Utilizator Creat
+widget_position_updated: Widget Postion Actualizat
+widget_created: Widget Creat
+widget_data_updated: Widget date actualizate
+unable_to_write_widget: Nu se poate scrie widget
+post_created_and_published: Mesaj creat și publicat
+post_created_approval: Mesaj creat și așteaptă aprobarea admin
+post_package_renewed: Mesaj pachet reînnoit
+payment_finish: finisaj de plată
+payment_cancelled: Plată anulată
+admin_change_pass_help: Lăsați necompletat dacă este necesar nici o schimbare
+go_to_paypal: Du-te la Paypal
+login_with_google: Autentifică-te cu Google
+login_with_facebook: Autentifică-te cu Facebook
+load_more_recent_posts: Încarcă postări recente
+load_more_featured_posts: Load Mai multe Posturi recomandate
+register_for_new_account: Înregistrați-vă pentru un cont nou
+site_map: Harta site-ului
+show_site_map: Arată harta site
+service: Serviciu
+features: Caracteristici
+about: Despre
+view_posts: Vizualizare mesaje
+see_full_documentation: A se vedea documentația completă
+select_city: Selectați oraș
+parallax_slider: Parallax Slider
+all_slides: Toate diapozitive
+no_slide: nr diapozitiv
+slide_order: comanda Slide
+edit_profile: Editare profil
+post_price_settings: setări de preț post
+enable_post_pricing: Activați tarifarea postare
+enable_paypal_transfer: Activați PayPal
+enable_bank_transfer: Activați prin transfer bancar
+bank_transfer_instruction_for_posts: Transfer bancar Instrucțiuni
+featured_price_settings: setări de preț recomandate
+enable_featured_pricing: Activează de stabilire a prețurilor recomandate
+enable_featured_paypal: Activați PayPal
+enable_featured_bank_transfer: Activați prin transfer bancar
+bank_transfer_instruction_for_featured_posts: instrucțiuni de transfer bancar
+bank_currency_settings: setările valută Banca
+bank_currency: Moneda Banca
+use_same_as_paypal_currency: Utilizați aceeași monedă ca și PayPal
+admin: Admin
+re_password: Repetă parola
+explain_widget_position: Explicați pozițiile de widget
+post: post
+post_renew: Mesaj Renew
+feature: Caracteristică
+feature_renew: Caracteristică Renew
+payment_for: Plata
+select_country: Selectați Țara
+select_one: Select One
+video_url: vidoe URL
+confirm_payment: Confirmați plata
+package_title: Pachet Titlu
+number_of_featured_days: Numărul de zile care urmează să fie prezentate
+no_of_days: Nr de zile
+expiration_time: Ora expirării
+any_city: Orice oras
+any_category: Orice categorie
+product_admin_panel: Whiz Admin
+username_or_email: Nume de utilizator sau e-mail
+business_detail: Business detail
+post_detail_subtitle:
+posts_by: Posts By
+featured: Recomandate
+edit_user: Editare utilizator
+the_field_is_required: Este necesar câmpul% s.
+valid_email: Câmpul% s trebuie să conțină o adresă de e-mail validă.
+min_length: Câmpul% s trebuie să aibă cel puțin caractere% s lungime.
+numeric: Câmpul% s trebuie să conțină numai cifre.
+matches: Câmpul% s nu se potrivește cu câmpul% s.
+greater_than: Câmpul% s trebuie să conțină un număr mai mare decât% s.
+agree_terms: Am citit% s termeni și condiții% s
+must_accept_terms: Trebuie să acceptați termenii și starea
+dont_have_permission: Nu aveți permisiunea de a accesa această pagină
+email_allready_in_use: E-mail deja în uz
+username_allready_in_use: Utilizator allready în uz
+current_password_not_matched: Parola curentă v- \ 't meci
+email_or_password_not_mathed: E-mail sau parola DOEN \ 't meci
+email_not_matched: nu Email potrivire
+account_not_confirmed: contul nu a fost confirmat
+all_locations: toate locațiile de
+add_country: Adăugați țară
+add_state: Adăugați stat
+add_city: Adăugați oraș
+no_locations: Nu există locații
+banner_type: Tip Banner
+bg_image: imagine de fundal
+unique_alias: Câmpul% s trebuie să fie unic
+error_occured: A apărut o eroare. Vă rugăm să verificați câmpurile de mai jos
+user_profile: Profilul utilizatorului
+user_email: e-mail utilizator
+target_lang_name: Limba țintă
+no_emails: Nu e-mailuri
+to: Pentru
+classified_settings: Setări Classified
+publish_posts_directly: Publicare în mod direct mesajele
+system_currency: Moneda de sistem
+enable_signup: Activare înscriere
+if_package_expired: În cazul în care pachetul a expirat
+do_not_hide: Nu te ascunde
+hide: Ascundeți
+show_price_like: Format Preț
+facebook_app_settings: setările aplicației Facebook
+enable_facebook_login: Activare autentificare facebook
+fb_app_id: Facebook app id
+fb_secret_key: Facebook cheie secretă
+comment_settings: setări Comentariu
+enable_comment: Activare comentariu
+disqus_shortname: Disqus SHORTNAME
+sandbox_mode: Modul Sandbox
+item_name: Denumire articol
+paypal_email: e-mail Paypal
+currency: Moneda
+finish_url: Finish URL-ul
+cancel_url: Anulare adresă URL
+menu_background: fundal meniu
+menu_text_color: Meniu Culoare text
+activated_menu_color: activat Culoare meniu
+top_bar_bg: Top-bar bg
+activated_menu_text_color: Activat Culoare text meniu
+latitude: Latitudine
+longitude: Longitudine
+map_zoom: Zoom Harta
+search_panel_settings: Setările panoului de căutare
+search_panel_bg_color: Căutare culoare panou bg
+show_background_image: Afișare imagine de fundal
+active_widget_position: Poziția activă widget
+upload_and_install: Încărcați și instalați
+install_updates: Instalați actualizări / Teme / plugins / Widget-uri
+confirmation_email: E-mail de confirmare
+recovery_email: Recuperarea e-mail
+signup_notification_email: Inregistrare de notificare prin email
+payment_confirmation_email: Plată Confirmare e-mail
+click_and_edit: Selectați un fișier șablon și faceți clic pe edit]
+google_analytics_settings: AnalyticsSettings Google
+default_seo_settings: Setări implicite SEO
+individual: individual
+find_us_on_facebook: Găsiți-ne pe Facebook
+category_featured_posts: posturi recomandate
+load_more_posts: Load Mai mult
+home_page_title: Căutați și anunțuri din categoria de top posta
+no_posts_found: Nu sunt mesaje
+type_anything: Tip orice
+chosen_not_found: Hopa, nimic nu a găsit!
+rating_asc: Rating-ul Crescator
+rating_desc: Rating-ul Descendent
+id_desc: Id-ul Descrescator
+id_asc: Id-ul Crescator
+show_daily_menu: Afișare meniu zilnic
+website: Site-ul
+founded: Data înființării
+year: Anul
+price_range: de preț
+additional_features: Caracteristici suplimentare
+add_more_fields: Adăugați mai multe domenii
+remove: Eliminați
+distance_around_my_position: Distanța în jurul poziției mele
+show_distance_in: Arată Distanța de la
+business_listed: Afaceri listate
+show_street_view: Arată Street View
+list_business: Lista de afaceri
+search_businesses: Căutare afaceri
+top_businesses: Afaceri de top
+featured_businesses: Întreprinderile recomandate
+business_directory_settings: Setări Business Directory
+hide_email: Ascundeți e-mail
+hide_phone: Ascundeți telefonul
+review: opinie
+comment: Comentariu
+submit_review: Trimite recenzie
+rating: Rating-ul
+review_alert: Trebuie sa fii logat pentru a depune recenzie.
+new_business: Noi de afaceri
+identify_my_location: Identificați locația mea
+data_deleted: Datele șterse
+recent_reviews: Comentarii recente
+view_all_reviews: Vezi toate opiniile
+review_deleted: Șters
+review_detail: Detalii
+all_reviews: Toate opiniile
+monday: Luni
+tuesday: Marți
+wednesday: Miercuri
+thursday: Joi
+friday: Vineri
+saturday: Sâmbătă
+sunday: Duminica
+opening_hour: Deschiderea Ora
+closed: Închis
+airport: Airport
+cafe: Cafe
+cinemas: Cinema
+hotels_and_resorts: Hotels & Resorts
+libraries: Biblioteci
+night_clubs: Cluburi de noapte
+offices: Birouri
+restaurants: restaurante
+shops: Magazine
+review_submitted: opinie depuse
+social_links: Link-uri sociale
+upgrade_browser: Upgrade browser-ul
+please_upgrade_your_browser: Vă rugăm să actualizați browser-ul
+business: Business
+introduction: Introducere
+terms: Termeni și condiție
+email_not_found: nu a gasit Email
+city_dropdown: Oraș drop-down
+published: Publicat
+publish: Publicare
+drafted: Elaborat
+draft: Proiect
+from: De la
+send_bulk_email: Trimite e-mail în vrac
+ive_read_the: Am citit
+title_city_category: Titlu, un oraș sau categorie
+dt_first: Primul
+dt_last: Ultimul
+dt_next: Următoarea
+dt_prev: Anterior
+dt_no_data: Nu există date disponibile în tabelul
+dt_show_empty: Rezultate 0 la 0 din 0 intrari
+dt_no_match: Nu exista inregistrari care sa se potriveasca găsite
+dt_search: Căutare
+dt_processing: Prelucrare ...
+dt_loading: Se încarcă ...
+dt_info: Se afișează _START_ la _END_ înregistrărilor _TOTAL_
+dt_filter_info: (filtrate din totalul intrările _MAX_)
+dt_show_entries: intrările Arată _MENU_
+get_directions: obține direcție
+review_not_submitted : Ați dat deja o recenzie
+debug_email : e-mail Debug
+email_to : Email
+report_the_business : Raportați acest afaceri
+reported : Raportat
+already_reported : Deja raportat
+reported_post : Raportat posturi
+all_reported_posts : Toate mesajele raportate
+report: Raport
+assigned_to: Atribuit
+select_assigned_to: Selectați utilizator
+css_compression: compresie Css
+gallery_notes: Aveți posibilitatea să glisați picătură pentru a reordona galeria fotografii. Fotografiile nu sunt redimensionate.
+video_notes: Youtube sau Vimeo URL-ul
+post_expiration_notification: Mesaj de notificare de expirare
+claim_the_business: Revendicați de afaceri
+claim_business_instructions: Completati formularul de mai jos și faceți clic pe butonul de trimitere. admin site-ul vă va contacta prin e-mail sau telefon.
+claimed_business: Revendicat de afaceri
+days_left: Zile la stânga
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: Dimensiunea imaginii este prea mică
+view_on_front: Vedere de pe fata
+clear_unused_img: Ștergeți imaginile neutilizate
+unused_files_found: fișiere neutilizate găsite
+clear_unused_img: Ștergeți imaginile neutilizate
+unused_images_cleared: Imagini neutilizate eliminate
+unused_info_msg: Această funcție cleares numai imaginile care nu sunt utilizate de afaceri, utilizatori, categorii, pagini, bloguri. Acesta caută prin baza de date pentru a găsi images.So dacă ați încărcat manual orice manual imagini și le-a folosit în codul acesta poate fi șters.
+no_unused_img: Nicio imagine neutilizată găsită
+search_panel_filter_type: Tip filtru
+basic_options: Opțiuni de bază
+advanced_options: Opțiuni de Advance
+key_words: Cuvinte cheie
+sorting_order: ordine de sortare
+business_listed_on: Business listate pe
+business_listed_under: Business enumerate în
+all_sub_categories: Toate categoriile sub
+no_sub_categories: Nu există categorii sub
+open_24_by_7: Intotdeauna Deschideți
+hide_my_email : Ascunde adresa de email
+disable_email_contact: contact de e-mail Dezactivați
+enable_review: Activare recenzie
+disable_google_street_view: Dezactivați Google vedere din stradă
+location_chorome_msg: Serviciul de localizare Google nu este disponibil pentru site-uri non ssl (numai în browserul Chrome). Doriți să utilizați adresa IP pentru a obține locația dvs.? NB - Rezultatul nu poate fi exact la fel ca Google
+send_email_to_users: Trimite e-mail pentru utilizatori
+show_banner: Arată banner-ul
+hide_my_phone: Ascundeți telefonul meu
+kms: km
+miles: Miles
+logo_text: Logo Text
+logo_type: Logo Tip
+logo_text_color: Logo-ul text color
+Jan: Jan
+Feb: februarie
+Mar: Mar
+Apr: aprilie
+May: Mai
+Jun: iunie
+Jul: iulie
+Aug: august
+Sep: Sep
+Oct: octombrie
+Nov: Nov
+Dec: dec
+show_search_panel: Arată panoul de căutare
+delete_selected: Ștergeți cele selectate
+camera_spin: Camera de spin
+degree: Studii
+map_api_key: Gmap cheie api
+pricing: Prețuri
+post_package_instruction: Avem urmatoarele pachete pentru a posta o afacere pe site-ul nostru
+feature_package_instruction: Am următoarele pachete pentru a face o afacere recomandate
+MENU: MENIU
+gplus_app_settings: setările aplicației Google+
+auth_redirect_url: Autorizat adresă URL de redirecționare
+enable_gplus_login: Activați conectarea Google+
+gplus_client_id: Google+ client ID
+gplus_client_secret: Google+ secret de client
+how_to_get_gplus_api: Cum să obțineți Google+ și ID-ul de Client Secret
+gallery_upload_limit: Galeria Limita de încărcare
+you_can_upload_max: Puteți încărca maxim
+gallery_photos: fotografii din Galerie
+email_confirmed: E-mail confirmată. Vă puteți conecta acum
+email_confirmed_failed: Confirmarea de e-mail nu a reușit
+advanced_options_with_country_state: opțiunea Advance cu țara și starea
+select_state: Selectați starea
+recent_posts_order: Posturi recente comanda
+featured_posts_order: Featured mesaje Ordine
+default_posts_order: Implicit comanda
+ASC: Crescator
+DESC: Descendent
+RANDOM: aleatoare
+useremail: e-mail utilizator
+enable_adblocker_alert: Activează alerte adblock
+adblock_detected: Adblock Detecție
+adblock_msg: Vă rugăm să retrimiterile Adblock și actualizați din nou pagina
+enable_cookie_policy_popup: Cookie Policy Popup
+cookie_policy_page_url: Cookie pagina de politică adresă URL
+cookie_policy: Cookie Policy
+cookie_policy_alert: Acest site foloseste cookie-uri. Prin continuarea utilizării acestui site sunteti de acord cu utilizarea de cookie-uri.
+read_more: Citește mai mult
+i_agree: Sunt de acord
+instagram: Instagram
+newsletter_subscription: Primiți buletinul informativ
+your_email: Adresa dvs. de email
+email_saved: E-mail salvat pentru buletinul informativ
+send_newsletter: Trimite Newsletter
+unsubscribe: Dezabonare
+to_unsubscribe: Faceți clic pe acest link dacă doriți să vă dezabonați de la acest serviciu
+successfully_unsubscribed: Sunteti acum dezabonat de la serviciul de newsletter
+export_user_phone: Export de telefon al utilizatorului
+enable_blog_comment: Activează un blog în comentariu
+fb_blog_app_id: Fb app id pentru blog-ul
+disqus_blog_shortname: Disqus nume scurt pentru blog-
+sample_page: Exemplu pagina
+senders_phone: telefon al expeditorului
+alias: Alias

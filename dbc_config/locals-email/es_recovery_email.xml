@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content>
+
+	<subject>Recovery email</subject>
+
+	<body>
+		Hi #username,
+		We have received an account recovery request from your email. Please follow the below link for setting new password 
+
+		#recoverylink
+
+		Thanks
+		n#webadmin		
+	</body>
+
+</content>

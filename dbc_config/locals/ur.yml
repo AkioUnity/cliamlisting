@@ -1,0 +1,725 @@
+---
+sign_in: سائن ان کریں
+sign_up: سائن اپ کریں
+agent_panel: ایجنٹ پینل
+admin_panel: ایڈمن پینل
+DBC_ADVANCED_SEARCH: اعلی درجے کی تلاش
+DBC_HOME: ہوم
+DBC_ABOUT: کے بارے میں
+DBC_CONTACT: رابطہ
+country: ملک
+state_province: ریاست / صوبہ
+city: شہر
+register: رجسٹر
+details: تفصیلات دیکھیں
+view_all: سب کچھ دیکھیں
+order_by: کی طرف سے آرڈر
+none: کوئی بھی نہیں
+terms_and_conditions: شرائط اور شرط
+reg_success_message: آپ کا اکاؤنٹ رجسٹریشن کامیاب ہے. ایک ای میل آپ کا ای میل کرنے کے لئے بھیجا گیا تھا. آپ account.Thanks چالو کرنے کے لئے اس ای میل پر عمل کریں
+limit: حد
+usage: ورتن
+recover: دلانا
+oops: افوہ، صفحہ نہیں ملا
+share_this: سیکنڈ اور یہ
+location_map: مقام نقشہ
+image_gallery: تصویر گیلری، نگارخانہ
+gallery: گیلری، نگارخانہ
+summary: خلاصہ
+overview: ایک جائزہ
+address: ایڈریس
+message: پیغام
+email_subject: ای میل کے موضوع
+all: تمام
+DBC_DELETED: خارج کر دیا
+contact_us: ہم سے رابطہ کریں
+DBC_ACTIVE: ایکٹو
+featured_video: نمایاں ویڈیو
+estates: اسٹیٹس
+embed_video_url: Embeded ویڈیو URL
+DBC_PENDING: زیر غور
+email_tracker: ای میل ٹریکر
+bulk_email: بلک ای میل
+advanced_filters: اعلی درجے کی فلٹرز
+result: نتیجہ
+payment_notification: آپ کو ایک ادائیگی کرنے کے لئے جا رہے ہیں. ایک ای میل آپ کا ای میل کرنے کے لئے بھیجا جاتا ہے. آپ اس ای میل پر لنک سے کسی بھی وقت اس مرحلے پر واپس کر سکتے ہیں.
+confirmation: تصدیق
+tags: ٹیگز
+zip_code: زپ کوڈ
+embed_preview: ایمبیڈ مشاہدہ کریں
+login: لاگ ان
+post_not_found: اشاعت نہیں مل
+view_more: مزید دیکھیں
+choose_a_package: ایک پیکج کا انتخاب
+choose_feature_package: ایک خصوصیت پیکج کا انتخاب
+no_package_found: کوئی پیکج
+days: کے دن
+posts: مراسلات
+change: تبدیلی
+subscribe: سبسکرائب کریں
+image: تصویری
+view_on_map: نقشے پر دیکھیں
+create: بنائیں
+basic_info: بنیادی معلومات
+send: حساب
+all_email_to_users: صارفین کے لئے تمام ای میلز
+email_detail: ای میل کا تفصیل
+change_package: تبدیلی پیکیج
+bank_transfer: بینک ٹرانسفر
+contact_subject: رابطہ ای میل
+payment_finish_title: ادائیگی مکمل
+payment_renew_title: ادائیگی مکمل
+payment_finish_text: آپ کی ادائیگی مکمل ہو گیا ہے. ہم پے پال کی تصدیق کے بعد recieved جیسے ہی کے طور پر آپ کے اکاؤنٹ چالو ہو جائے گا
+payment_renew_text: آپ کی ادائیگی مکمل ہو گیا ہے. ہم پے پال کی تصدیق کے بعد recieved جیسے ہی کے طور پر آپ کے اکاؤنٹ کی تجدید کی جائے گی
+payment_cancel_title: ادائیگی منسوخ
+payment_cancel_text: آپ کی ادائیگی منسوخ کر دیا ہے
+feature_payment_finish: آپ کی ادائیگی مکمل ہو گیا ہے. جیسے ہی ہم پے پال کی تصدیق موصول کے طور پر، آپ کی جاگیر شامل کیا جائے گا.
+feature_payment_cancel: آپ کی ادائیگی منسوخ کر دیا ہے.
+private_owner: نجی مالک
+selected_package: منتخب پیکیج
+signup_with_social_account: سوشل اکاؤنٹ کے ساتھ سائن اپ
+password: پاس ورڈ
+confirm_password: ورڈ کی توثیق
+all_posts: تمام خطوط
+no_posts: کوئی تحریر نہیں
+title: عنوان
+description: تفصیل
+status: درجہ
+actions: اعمال
+action: ایکشن
+type: پروپوزل کی گذارش
+type_something: کچھ ٹائپ
+content: مواد
+featured_image: نمایاں تصویری
+category: زمرہ
+all_categories: تمام زمرے
+edit_category: زمرہ میں ترمیم کریں
+new_category: نئے زمرے
+parent: والدین
+edit: میں ترمیم کریں
+delete: حذف
+name: نام
+save: محفوظ کریں
+no_parent: کوئی والدین
+edit_email_template: میں ترمیم کریں ای میل سانچے
+select_template_file: منتخب سانچے کی فائل
+subject: SUBJECT
+body: جسم
+available_variables: دستیاب متغیر
+select_language: زبان منتخب کریں
+select_language_file: زبان منتخب کریں فائل کو
+edit_as_new: نئے کے طور پر ترمیم
+language: زبان
+add_another: ایک اور کا اضافہ کریں
+export_to_file: برآمد دائر کرنے
+import_from_file: فائل سے درآمد
+auto_translator: آٹو مترجم
+from_lang: لینگ سے
+target_lang_full_name: ٹارگٹ لینگ پورا نام
+target_lang_short_name: ٹارگٹ لینگ مختصر نام
+create_new_package: نیا پیکیج تشکیل
+price: قیمت
+maximum_post_by_user: صارف کی طرف سے زیادہ سے زیادہ خطوط
+expirtion_time: Expirtion وقت (دن)
+create_package: پیکیج بنائیں
+edit_package: پیکیج میں ترمیم کریں
+update_package: اپ ڈیٹ پیکج
+add_packages: پیکجوں شامل کریں
+all_packages: تمام پیکجوں
+no_packages: کوئی پیکجوں کے
+options: اختیارات
+all_pages: تمام صفحات
+no_pages: کوئی صفحات
+manage_menu: مینو انتظام کریں
+menu_title: مینو کی سرخی
+menu_alias: مینو عرف
+show_in_menu: مینو میں دکھائیں
+page_layout: صفحہ لے آؤٹ
+content_from: سے مواد
+url: یو آر ایل
+seo_options: SEO کے اختیارات
+meta_description: میٹا وضاحت
+key_words: کلیدی الفاظ
+crawl_after: بعد کرال (دن)
+all_plugins: تمام پلگ ان
+no_plugins: کوئی پلگ ان
+name_and_version: نام اور ورژن
+change_password: پاس ورڈ تبدیل کریں
+current_password: موجودہ پاس ورڈ
+new_password: نیا پاس ورڈ
+retype_password: پاس ورڈ دوبارہ ٹائپ
+password_reset_info_msg: پہلی اپنا نیا پاس ورڈ مقرر کریں
+profile_picture: پروفائل تصویر
+username: صارف کا نام
+email: ای میل
+first_name: پہلا نام
+last_name: آخری نام
+gender: صنفی
+phone: فون
+company_name: کمپنی کا نام
+about_me: میرے بارے میں
+facebook_account: فیس بک اکاؤنٹ
+twitter_account: ٹویٹر اکاؤنٹ
+linkedin_account: لنکڈ اکاؤنٹ
+gp_account: Google+ اکاؤنٹ
+account_msg: بغیر HTTP // لنک، درج کریں
+web_email_settings: ویب ای میل کی ترتیبات
+contact_email: رابطہ ای میل
+webadmin_name: Webadmin نام
+webadmin_email: Webadmin کوارسال کریں
+update: اپ ڈیٹ
+upload: اپ لوڈ کریں
+site_settings: سائٹ کی ترتیبات
+site_title: سائٹ کے عنوان
+footer_text: فوٹر متن
+site_logo: سائٹ علامت
+site_language: سائٹ کی زبان
+site_text_direction: سائٹ متن کی سمت
+per_page: صفحہ بندی فی صفحہ
+default_page_layout: ڈیفالٹ پیج لے آؤٹ
+tracking_code: باخبر رہنے کے کوڈ
+smtp_email_settings: SMTP ای میل کی ترتیبات
+smtp_email: SMTP ای میل
+smtp_host: SMTP میزبان
+smtp_port: SMTP پورٹ
+smtp_timeout: SMTP ختم
+smtp_user: SMTP صارف
+smtp_password: SMTP پاس ورڈ
+generate_site_map: ویب سائٹ کا نقشہ بنائیں
+sitemap_info_msg: NB آپ کی سائٹ کا نقشہ XML پر شامل کرنے کے لئے چاہتے ہیں جس کا انتخاب کریں. بعد کامیاب نسل sitemap.xml روٹ ڈائریکٹری کے تحت محفوظ کر لیا ہے. آپ خود بھی یو آر ایل کو شامل کرنے کے لئے اس فائل میں ترمیم کرسکتے ہیں.
+pages: صفحات
+blog_posts: بلاگ خطوط
+articles: مضامین
+blog_post: بلاگ پوسٹ
+blog: بلاگ پوسٹ
+article: آرٹیکل
+news: خبریں
+view_xml: دیکھیں XML
+create_xml: XML بنائیں
+manage_backups: انتظام کریں بیک اپ
+create_sql_backup: SQL بیک اپ بنائیں
+create_image_backup: تصویری بیک اپ بنائیں
+restore: بحال
+download: ڈاؤن لوڈ، اتارنا
+dashboard: ڈیش بورڈ
+overview_stats_more: ایک جائزہ، اعدادوشمار اور مزید
+visit_site: آمد سائٹ
+logout: لاگ آؤٹ
+themes: موضوعات
+locations: مقامات
+paypal_settings: پے پال ترتیبات
+payment_history: ادائیگی کی تاریخ
+profile:پروفائل
+packages: پیکجز
+widgets: وگیٹس
+all_widgets: تمام ویجٹ
+widget_positions: ویجیٹ پوزیشن
+blog_news_article: بلاگ / خبریں / آرٹیکل
+new_post: نئی پوسٹ
+pages_and_menu: صفحات اور مینو
+new_page: نیا صفحہ
+menu: مینو
+system: نظام
+manage_languages: زبانیں انتظام کریں
+auto_translate: آٹو ترجمہ کریں
+edit_email_text: ترمیم کریں ای میل لکھ کر
+admin_settings: ویب ایڈمن ترتیبات
+sitemap: سائٹ کا نقشہ
+activate: چالو کریں
+active_theme: فعال تھیم
+available_themes: دستیاب موضوعات
+all_users: تمام صارفین
+create_user: صارف بنائیں
+export_user_email: برآمد صارف ای میلز (. CSV)
+profile_info: پروفائل کی معلومات
+ban_forever: ہمیشہ کے لئے پابندی عائد
+edit_page: صفحہ میں ترمیم کریں
+create_widget: ویجیٹ بنائیں
+widget_name: ویجیٹ کا نام
+activate_deactivate: چالو / DE- چالو
+show: دکھائیں
+available_widgets: دستیاب وگیٹس
+active_widgets: فعال وگیٹس
+delete_warning: کیا آپ کو یقین حذف کرنا چاہتے ہیں
+yes: ہاں"
+no: نہیں"
+product_name: بزنس ڈائریکٹری
+fa_icon: FA آئیکن کلاس
+post_ad: لسٹ کاروبار
+post_ad_subtitle: آپ کے کاروبار کی تفصیلات کے رکھو
+signin: سائن ان
+signup: سائن اپ
+signup_title: آپ کے اکاؤنٹ بنائیں
+not_found: نہیں ملا
+purpose: مقصدی
+purpose_buy: خرید
+purpose_sell: بیچیں
+select_category: زمرہ منتخب کریں
+contact_for_price: قیمت کے لئے رابطہ کریں
+address_info: ایڈریس کی معلومات
+general_info: عام معلومات
+upload_later_msg: آپ کے خط تخلیق کے بعد گیلری، نگارخانہ تصاویر اور ویڈیو کا URL اپ لوڈ کر سکیں گے
+user_panel: صارف پینل
+put_as_comma_seperated: (،) کوما sperated طور پر ڈال
+added: شامل کر دیا گیا
+location: LOCATION
+views: ویو
+package_type: پروپوزل کی گذارش
+post_package: پوسٹ پیکج
+featured_package: نمایاں پیکج
+both_package: ڈاک اور نمایاں
+select_package: پیکج کا انتخاب
+package_created: پیکیج پیدا
+package_updated: پیکیج کو اپ ڈیٹ
+slider: سلائیڈر
+add_new: نئے شامل کریں
+new_slide: نئی سلائڈ
+update_slide: اپ ڈیٹ سلائڈ
+save_order: حکم کو محفوظ کریں
+slider_sort_instruction: آپ ٹیبل قطار الگ الگ کرنے بوند ھیںچیں کر سکتے ہیں. حکم کی محفوظ کریں چھںٹائی کے بعد
+search: تلاش
+results: نتائج
+property_location_on_map: نقشے پر پراپرٹی مقام
+location_on_map: نقشے پر محل وقوع
+contact_mode: رابطہ موڈ
+reset: ری سیٹ
+contact: رابطہ
+default_site_view: ڈیفالٹ سائٹ نقطہ نظر
+type_your_message: اپنا پیغام یہاں ٹائپ کریں ..
+mail_sent: میل بھیجا
+search_classifieds: تلاش BusinessDirectorys
+advanced_search: اعلی درجے کی تلاش
+narrow_down_your_businesses: اپنے کاروباروں کو محدود
+home: ہوم
+print: پرنٹ
+remember_me: مجھے یاد رکھیں
+forgot_password: پاس ورڈ بھول گیا
+login_failed: لاگ ان ناکام رہے
+login_to_your_account: اپنے اکاؤنٹ میں لاگ ان
+register_your_account: اپنے اکاؤنٹ رجسٹر
+male: مرد
+female: خواتین
+no_location_found: مقام نہیں ملا
+state: ریاست
+ad_creation_error: اشتھار تخلیق میں خرابی! براہ مہربانی دیکھ لیجے.
+users: صارفین
+show_admin_user: ایڈمن یوزر دکھائیں
+send_email_to_business: کاروبار کے لئے ای میل ارسال کریں
+DBC_PAYMENT_PENDING: ادائیگی التواء
+DBC_EXPIRED: میعاد ختم ہوگئی
+categories: زمرہ جات
+top_posts: اوپر مراسلات
+show_state_province: دکھائیں لی صوبہ
+package_settings: پیکیج ترتیبات
+default_site_settings: ڈیفالٹ سائٹ کی ترتیبات
+webadmin_settings: Webadmin ترتیبات
+banner_settings: بینر ترتیبات
+max_price_for_search: تلاش کے لئے زیادہ سے زیادہ قیمت
+search_filters: تلاش کے فلٹرز
+posts_per_page: فی صفحہ پوسٹس
+recent_posts: حالیہ پوسٹس
+featured_posts: نمایاں مراسلات
+top_locations: سب سے اوپر مقامات
+top_users: اوپر صارفین
+approve: منظور کریں
+make_featured: متصف کیا ہے
+remove_featured: خصوصیات کو ہٹا دیں
+renew_featured: خصوصیات کی تجدید
+renew_package: پیکج کی تجدید
+no_renew_post_id: غلط پیغام کی شناخت کی تجدید
+approve_payment: ادائیگی کی منظوری
+transaction: ٹرانزیکشن
+transaction_id: ٹرانزیکشن آئی ڈی
+post_id: پوسٹ ID
+amount: رقم
+request_date: تاریخ گذارش
+expiration_date: میعاد ختم ہونے کی تاریخ
+transaction_deleted: ٹرانزیکشن خارج کر دیا
+payment_approved: ادائیگی کی منظوری دے دی
+logged_in_as: کے طور پر لاگ ان
+posted_on: مرسلہ
+confirm_email_send: تصدیق کے ای میل اس ای میل سے ہدایات پر عمل send.Please.
+email_confirmed: ای میل اب confirmed.You اپنا ای میل اور پاس ورڈ کے ساتھ لاگ ان کر سکتے
+email_confirmed_failed: تصدیق failed.Confirmation ای میل اور کوڈ سے مماثل نہیں ہے.
+password_change_success: پاس ورڈ کامیابی سے تبدیل
+email_sent_inbox: A ای میل اپنا inbox.Check کہ ای میل میں بھیج رہا ہے.
+password_recovery_link_invalid: پاس ورڈ دوبارہ لنک درست نہیں ہے
+user_updated: صارف تازہ کاری
+user_deleted: صارف کو خارج کر دیا
+user_banned: صارف کالعدم
+user_unbanned: صارف سے پابندی ہٹا
+user_confirmed: صارف کی تصدیق
+post_deleted: اشاعت کو حذف
+post_updated: پوسٹ تازہ کاری
+post_created: پوسٹ ڈیٹ
+post_featured: پوسٹ متصف
+data_inserted: ڈیٹا ڈالا
+data_updated: ڈیٹا کو اپ ڈیٹ.
+feature_renewed: نمایاں تجدید
+post_feature_removed: پوسٹ خصوصیت ہٹا دیا
+post_approved: پوسٹ منظور
+invalid_post: غلط پوسٹ
+email_sent: بھیجے گئے ای میل
+settings_updated: ترتیبات اپ ڈیٹ
+package_removed: پیکیج ہٹا دیا
+page_updated: صفحہ تازہ کاری
+page_created: صفحہ بنایا
+page_deleted: ایک حذف شدہ صفحہ
+menu_updated: مینو تازہ کاری
+site_map_generation_success: ویب سائٹ کا نقشہ کامیابی پیدا.
+select_option: تاریخ کو منتخب یا زیادہ اختیارات کو منتخب کریں، براہ مہربانی.
+image_backup_created: تصویری بیک اپ ڈیٹ
+language_translated: زبان ترجمہ شدہ
+unable_to_write_file: فائل لکھنے کے قابل نہیں
+backup_deleted: بیک اپ کو خارج کر دیا
+database_restored: بیس بحال
+theme_activated: تھیم چالو
+user_created: صارف کو پیدا کیا
+widget_position_updated: ویجیٹ Postion تازہ کاری
+widget_created: ویجیٹ پیدا کیا
+widget_data_updated: ویجیٹ ڈیٹا کو اپ ڈیٹ.
+unable_to_write_widget: ویجیٹ لکھنے کے لئے کے قابل نہیں
+post_created_and_published: پوسٹ کو پیدا کیا اور شائع
+post_created_approval: پوسٹ کو پیدا کیا اور منتظم منظوری کے انتظار میں
+post_package_renewed: پوسٹ پیکج کی تجدید
+payment_finish: ادائیگی کو ختم
+payment_cancelled: ادائیگی کو منسوخ کر دیا
+admin_change_pass_help: کوئی تبدیلی کی ضرورت ہے تو خالی چھوڑ دیں
+go_to_paypal: پے پال پر جائیں
+login_with_google: گوگل کے ساتھ لاگ ان
+login_with_facebook: فیس بک کے ساتھ لاگ ان
+load_more_recent_posts: زیادہ حالیہ پوسٹس لوڈ کریں
+load_more_featured_posts: مزید متصف خطوط لوڈ
+register_for_new_account: نیا اکاؤنٹ کے لئے رجسٹر
+site_map: ویب سائٹ کا نقشہ
+show_site_map: ویب سائٹ کا نقشہ دکھائیں
+service: خدمات
+features: کی خصوصیات
+about: کے بارے میں
+view_posts: دیکھیں خطوط
+see_full_documentation: مکمل دستاویزات دیکھیں
+select_city: شہر کا انتخاب کریں
+parallax_slider: Parallax سلائیڈر
+all_slides: تمام سلائیڈوں
+no_slide: کوئی سلائڈ
+slide_order: سلائڈ حکم
+edit_profile: پروفائل میں ترمیم کریں
+post_price_settings: پوسٹ قیمت ترتیبات
+enable_post_pricing: پوسٹ قیمتوں کا تعین کو فعال کریں
+enable_paypal_transfer: فعال پے پال
+enable_bank_transfer: بینک ٹرانسفر فعال
+bank_transfer_instruction_for_posts: بینک ٹرانسفر انسٹرکشن
+featured_price_settings: نمایاں قیمت ترتیبات
+enable_featured_pricing: خصوصیات کی قیمتوں کا تعین کو فعال کریں
+enable_featured_paypal: پے پال فعال
+enable_featured_bank_transfer: بینک ٹرانسفر فعال
+bank_transfer_instruction_for_featured_posts: بینک ٹرانسفر کی ہدایات
+bank_currency_settings: بینک کرنسی کی ترتیبات
+bank_currency: بینک کرنسی
+use_same_as_paypal_currency: پے پال کرنسی کے طور پر ایک ہی استعمال کریں
+admin: ایڈمن
+re_password: پاس ورڈ دوبارہ ٹائپ
+explain_widget_position: ویجیٹ عہدوں سمجھاو
+post: پوسٹ
+post_renew: پوسٹ تجدید
+feature: نمایاں کریں
+feature_renew: تجدید نمایاں
+payment_for: کے لئے ادائیگی
+select_country: ملک منتخب کریں
+select_one: کوئی ایک منتخب
+video_url: Vidoe URL
+confirm_payment: ادائیگی کی تصدیق
+package_title: پیکیج کی سرخی
+number_of_featured_days: دنوں کی تعداد شامل کیے جانے کے
+no_of_days: دنوں کی تعداد
+expiration_time: میعاد ختم ہونے کا وقت
+any_city: کسی بھی شہر
+any_category: کوئی زمرہ
+product_admin_panel: Whiz کی ایڈمن
+username_or_email: رکنیت یا ای میل
+business_detail: کاروباری تفصیل
+post_detail_subtitle:
+posts_by: کی طرف سے مراسلات
+featured: نمایاں
+edit_user: صارف میں ترمیم کریں
+the_field_is_required:٪ s کے میدان کی ضرورت ہے.
+valid_email:٪ s کے میدان میں ایک درست ای میل ایڈریس پر مشتمل ہونا چاہئے.
+min_length:٪ s کے میدان کی لمبائی میں کم از کم٪ s کے حروف کا ہونا ضروری ہے.
+numeric:٪ s کے میدان صرف اعداد پر مشتمل ہونا چاہئے.
+matches:٪ s کے میدان٪ s کو میدان سے میل نہیں کھاتا.
+greater_than:٪ s کے میدان٪ s کو اس سے بڑھ کر ایک بڑی تعداد پر مشتمل ہونا چاہئے.
+agree_terms: میں٪ s کے شرائط و ضوابط٪ s کو پڑھا ہے
+must_accept_terms: تم شرائط اور شرط کو قبول کرنا ضروری
+dont_have_permission: آپ کو اس صفحہ تک رسائی کی اجازت نہیں ہے
+email_allready_in_use: پہلے سے استعمال میں دوستوں کوارسال کریں
+username_allready_in_use: allready استعمال میں صارف کا نام
+current_password_not_matched: موجودہ پاس ورڈ نہیں تھا \ 'T میچ
+email_or_password_not_mathed: ای میل یا پاس ورڈ doen \ 'T میچ
+email_not_matched: مماثلت نہیں ای میل کریں
+account_not_confirmed: تصدیق نہیں اکاؤنٹ
+all_locations: تمام مقامات
+add_country: ملک میں شامل کریں
+add_state: ریاست کا اضافہ کریں
+add_city: شہر شامل کریں
+no_locations: کوئی مقامات
+banner_type: بینر قسم
+bg_image: پس منظر کی تصویر
+unique_alias:٪ s کے میدان منفرد ہونا کرنے کی ضرورت ہے
+error_occured: خرابی پیدا ہوگئی. ذیل شعبوں براہ مہربانی چیک کریں
+user_profile: صارف پروفائل "
+user_email: صارف کا ای میل
+target_lang_name: ٹارگٹ زبان
+no_emails: کوئی ای میلز
+to: کے لئے
+classified_settings: درجہ ترتیبات
+publish_posts_directly: براہ راست خطوط شائع
+system_currency: سسٹم کرنسی
+enable_signup: سائن اپ کے فعال کریں
+if_package_expired: پیکیج کی میعاد ختم ہوگئی تو
+do_not_hide: مت چھپاو
+hide: چھپائیں
+show_price_like: قیمت کی شکل
+facebook_app_settings: فیس بک اے پی پی کی ترتیبات
+enable_facebook_login: فیس بک لاگ ان فعال
+fb_app_id: فیس بک اپلی کیشن آئی ڈی
+fb_secret_key: فیس بک خفیہ کلید
+comment_settings: تبصرہ ترتیبات
+enable_comment: تبصرہ فعال کریں
+disqus_shortname: Disqus کی SHORTNAME
+sandbox_mode: سینڈباکس موڈ
+item_name: آئٹم کے نام
+paypal_email: پے پال ای میل
+currency: تفصیلی فہر ست
+finish_url: ختم کے یو آر ایل
+cancel_url: URL منسوخ
+menu_background: مینو پس منظر
+menu_text_color: مینو متن کا رنگ
+activated_menu_color: چالو مینو رنگ
+top_bar_bg: سب سے اوپر بار BG
+activated_menu_text_color: چالو مینو متن کا رنگ
+latitude: عرض بلد
+longitude: بلد
+map_zoom: نقشہ زوم
+search_panel_settings: تلاش پینل کی ترتیبات
+search_panel_bg_color: تلاش پینل BG رنگ
+show_background_image: show_background_image
+active_widget_position: فعال ویجیٹ پوزیشن
+upload_and_install: اپ لوڈ کریں اور انسٹال
+install_updates: انسٹال اپ ڈیٹ / موضوعات / پلگ ان / وگیٹس
+confirmation_email: توثیق ای میل
+recovery_email: بازیابی ای میل
+signup_notification_email: رجسٹر اطلاعی ای میل
+payment_confirmation_email: ادائیگی توثیقی ای میل
+click_and_edit: ایک سانچے کی فائل کو منتخب کریں اور ترمیم کریں پر کلک کریں]
+google_analytics_settings: گوگل AnalyticsSettings
+default_seo_settings: ڈیفالٹ SEO ترتیبات
+individual: انفرادی
+find_us_on_facebook: فیس بک پر ملیں
+category_featured_posts: نمایاں خطوط
+load_more_posts: مزید لوڈ کریں
+home_page_title: تلاش اور پوسٹ زمرے اوپر اشتھارات
+no_posts_found: کوئی خطوط
+type_anything: کچھ بھی ٹائپ کریں
+chosen_not_found: افوہ، کچھ بھی نہیں پایا!
+rating_asc: درجہ بندی صعودی
+rating_desc: درجہ بندی نزولی
+id_desc: ئد نزولی
+id_asc: ئد صعودی
+show_daily_menu: دکھائیں روزانہ مینو
+website: ویب سائٹ
+founded: قائم ہونے
+year: سال
+price_range: قیمت کی حد
+additional_features: اضافی خصوصیات
+add_more_fields: زیادہ شعبوں میں شامل کریں
+remove: ہٹائیں
+distance_around_my_position: اپنی پوزیشن کے ارد گرد فاصلہ
+show_distance_in: show_distance_in
+business_listed: کاروباری مندرج فہرست
+show_street_view: دکھائیں اسٹریٹ ویو
+list_business: لسٹ بزنس
+search_businesses: تلاش کاروبار
+top_businesses: سب سے اوپر کاروبار
+featured_businesses: نمایاں کاروبار
+business_directory_settings: بزنس ڈائریکٹری ترتیبات
+hide_email: ای میل چھپائیں
+hide_phone: فون چھپائیں
+review: کا جائزہ لیں
+comment: تبصرہ
+submit_review: جائزہ پیش
+rating: درجہ بندی
+review_alert: آپ کی جائزہ پیش کرنا ضروری ہے میں کا ہونا.
+new_business: نئے بزنس
+identify_my_location: میرے محل وقوع کی شناخت
+data_deleted: ڈیٹا خارج کر دیا
+recent_reviews: حالیہ جائزے
+view_all_reviews: تمام جائزے دیکھیں
+review_deleted: جائزہ ڈیلیٹ کر دیا
+review_detail: تفصیل
+all_reviews: تمام جائزے
+monday: پیر
+tuesday: منگل
+wednesday: بدھ
+thursday: جمعرات
+friday: جمعہ
+saturday: ہفتہ
+sunday: اتوار
+opening_hour: قیامت افتتاحی
+closed: بند کر دیا
+airport: ائر پورٹ
+cafe: کیفے
+cinemas: سینما
+hotels_and_resorts: ہوٹل اور رسارٹس
+libraries: لائبریریاں
+night_clubs: نائٹ کلب
+offices: دفتر
+restaurants: ریستوران
+shops: دکانیں
+review_submitted: تجزیہ جمع
+social_links: سماجی روابط
+upgrade_browser: براؤزر کو اپ گریڈ
+please_upgrade_your_browser: آپ کا براؤزر کو اپ گریڈ مہربانی
+business: بزنس
+introduction: تعارف
+terms: شرائط اور شرط
+email_not_found: نہیں ملا ای میل کریں
+city_dropdown: شہر لٹکتا
+published: اشاعت شدہ
+publish: شائع
+drafted: مسودہ تیار
+draft: مسودہ
+from: سے
+send_bulk_email: بلک ای میل ارسال کریں
+ive_read_the: میں نے پڑھا ہے
+title_city_category: عنوان، شہر یا زمرے
+dt_first: پہلا
+dt_last: آخری
+dt_next: اگلا
+dt_prev: پچھلا
+dt_no_data: TABLE میں دستیاب کوئی ڈیٹا
+dt_show_empty: 0 0 اندراجات 0 نمائش
+dt_no_match: کوئی مماثل ریکارڈز پایا
+dt_search: تلاش
+dt_processing: پروسیسنگ ...
+dt_loading: لوڈ ہورہا ہے ...
+dt_info: _TOTAL_ اندراجات کے _END_ کرنے _START_ نمائش
+dt_filter_info: (_MAX_ کل اندراجات سے فلٹر)
+dt_show_entries: دکھائیں _MENU_ اندراجات
+get_directions: سمت حاصل کریں
+review_not_submitted : کیا آپ پہلے ایک جائزہ دی ہے
+debug_email : ڈیبگ ای میل
+email_to : ای میل کرنے کے لئے
+report_the_business : اس کاروبار کی رپورٹ
+reported : رپورٹ
+already_reported : پہلے ہی رپورٹ کیا
+reported_post : رپورٹ خطوط
+all_reported_posts : تمام رپورٹ خطوط
+report: رپورٹ
+assigned_to: کو تفویض
+select_assigned_to: صارف منتخب
+css_compression: سی ایس ایس سمپیڑن
+gallery_notes: آپ کی گیلری تصاویر کو دوبارہ ترتیب کرنے کے لئے ڈراپ ھیںچیں کر سکتے ہیں. فوٹو تبدیل نہیں کر رہے ہیں.
+video_notes: یو ٹیوب یا Vimeo یو آر ایل
+post_expiration_notification: پوسٹ کا وقت ختم ہونے نوٹیفکیشن
+claim_the_business: کاروبار کا دعوی کریں
+claim_business_instructions: نیچے دیے گئے فارم کو بھرنے اور بھیجیں بٹن پر کلک کریں. سائٹ منتظم ای میل یا فون کے ذریعے آپ سے رابطہ کریں گے.
+claimed_business: دعوی کاروبار
+days_left: دن باقی
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: تصویر کی جسامت بہت کم ہے
+view_on_front: فرنٹ پر دیکھیں
+clear_unused_img: واضح غیر استعمال شدہ تصاویر
+unused_files_found: غیر استعمال شدہ فائلوں کو مل گیا
+clear_unused_img: واضح غیر استعمال شدہ تصاویر
+unused_images_cleared: غیر استعمال شدہ تصاویر کی منظوری دے دی
+unused_info_msg: یہ تقریب صرف کاروبار، صارفین، زمرہ جات، صفحات، بلاگز کی طرف سے استعمال نہیں کر رہے ہیں جس میں تصاویر cleares. اس سے آپ کو دستی دستی کسی بھی تصاویر اپ لوڈ اور کوڈ اسے حذف کیا جا سکتا ہے کے اندر اندر ان کا استعمال کیا ہے تو images.So کو تلاش کرنے کے لئے ڈیٹا بیس کے ذریعے تلاش.
+no_unused_img: کوئی غیر استعمال شدہ تصویر پایا
+search_panel_filter_type: میڈیا کی قسم
+basic_options: بنیادی اختیارات
+advanced_options: ایڈوانس اختیارات
+key_words: کلیدی الفاظ
+sorting_order: چھانٹ کے حکم
+business_listed_on: کاروباری مندرج
+business_listed_under: بزنس کے تحت درج
+all_sub_categories: تمام ذیلی زمرے
+no_sub_categories: کوئی ذیلی زمرے
+open_24_by_7: ہمیشہ کھلا
+hide_my_email : میرا ای میل چھپائیں
+disable_email_contact: ای میل سے رابطہ کی غیر فعال کریں
+enable_review: جائزہ لینے فعال
+disable_google_street_view: گوگل اسٹریٹ ویو کو غیر فعال کریں
+location_chorome_msg: گوگل کی طرف سے مقام سروس غیر SSL سائٹس (صرف Chrome براؤزر میں) کے لئے دستیاب نہیں ہے. آپ اپنے مقام حاصل کرنے کے لئے آپ کا IP پتہ استعمال کرنا چاہتے ہیں؟ NB- نتیجہ گوگل کے طور پر بالکل ایک ہی نہیں ہو سکتا
+send_email_to_users: صارفین کو ای میل ارسال
+show_banner: بینر دکھائیں
+hide_my_phone: میرے فون چھپائیے
+kms: کلومیٹر
+miles: Miles
+logo_text: لوگو ہائے
+logo_type: لوگو کی قسم
+logo_text_color: لوگو متن کا رنگ
+Jan: جنوری
+Feb: فروری
+Mar: مارچ
+Apr: اپریل
+May: فرمائے
+Jun: جون
+Jul: جولائی
+Aug: اگست
+Sep: ستمبر
+Oct: اکتوبر
+Nov: نومبر
+Dec: دسمبر
+show_search_panel: تلاش پینل دکھائیں
+delete_selected: منتخب حذف
+camera_spin: کیمرے سپن
+degree: ڈگری
+map_api_key: Gmap API کلید
+pricing: قیمتوں کا تعین
+post_package_instruction: ہمیں ہماری ویب سائٹ پر ایک کاروبار کی پوسٹنگ کے لئے مندرجہ ذیل پیکجوں ہے
+feature_package_instruction: ہم نے ایک کاروبار بنانے کے لئے مندرجہ ذیل پیکجوں متصف کیا ہے
+MENU: مینو
+gplus_app_settings: Google+ اطلاق ترتیبات
+auth_redirect_url: مجاز ری URL
+enable_gplus_login: Google+ کے لاگ ان فعال
+gplus_client_id: Google+ کے کلائنٹ ID
+gplus_client_secret: Google+ کے کلائنٹ سیکرٹ
+how_to_get_gplus_api: کس طرح کی Google+ کلائنٹ ID اور خفیہ حاصل کرنے کے لئے
+gallery_upload_limit: گیلری، نگارخانہ اپ لوڈ کی حد
+you_can_upload_max: آپ زیادہ سے زیادہ اپ لوڈ کر سکتے
+gallery_photos: گیلری، نگارخانہ فوٹو
+email_confirmed: ای میل کی تصدیق کی. اب آپ لاگ ان کر سکتے
+email_confirmed_failed: ای میل کی تصدیق میں ناکام رہے
+advanced_options_with_country_state: ملک اور ریاست کے ساتھ ایڈوانس آپشن
+select_state: ریاست منتخب کریں
+recent_posts_order: حالیہ پوسٹس آرڈر
+featured_posts_order: نمایاں خطوط حکم
+default_posts_order: طے شدہ خطوط حکم
+ASC: صعودی
+DESC: نزولی
+RANDOM: رینڈم
+useremail: صارف کا ای میل
+enable_adblocker_alert: Adblock کے الرٹ فعال
+adblock_detected: Adblock کے پتہ
+adblock_msg: Adblock کے غیر فعال اور دوبارہ صفحے کو ریفریش کریں
+enable_cookie_policy_popup: کوکی پالیسی پاپ اپ
+cookie_policy_page_url: کوکی پالیسی کے صفحے کے یو آر ایل
+cookie_policy: کوکی پالیسی
+cookie_policy_alert: یہ سائٹ کوکیز استعمال کرتا ہے. یہ سائٹ آپ کوکیز کے استعمال سے اتفاق کرتے ہیں استعمال کرنے کے لئے جاری رکھ کر.
+read_more: مزید پڑھیں
+i_agree: میں مانتا ہوں
+instagram: انسٹاگرام
+newsletter_subscription: نیوز لیٹر حاصل کریں
+your_email: آپ کا ای میل
+email_saved: ای میل نیوز لیٹر کے لئے محفوظ کر لیا
+send_newsletter: نیوز لیٹر بھیجیں
+unsubscribe: رکنیت ختم
+to_unsubscribe: آپ اس سروس سے ان سبسکرائب کرنا چاہتے ہیں تو اس لنک پر کلک کریں
+successfully_unsubscribed: اب نیوز لیٹر سروس سے ان سبسکرائب ہیں
+export_user_phone: برآمد صارف کے فون
+enable_blog_comment: بلاگ تبصرہ فعال کریں
+fb_blog_app_id: بلاگ کے لئے ایف بی اپلی کیشن آئی ڈی
+disqus_blog_shortname: بلاگ کے لئے Disqus کی مختصر نام
+sample_page: نمونہ صفحہ
+senders_phone: مرسل کا فون
+alias: عرفی

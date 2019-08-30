@@ -1,0 +1,725 @@
+---
+sign_in: Oturum
+sign_up: Sign Up
+agent_panel: Ajan Paneli
+admin_panel: Yönetici Paneli
+DBC_ADVANCED_SEARCH: Gelişmiş Arama
+DBC_HOME: Ev
+DBC_ABOUT: Yaklaşık
+DBC_CONTACT: İletişim
+country: Ülke
+state_province: Eyalet / İl
+city: Şehir
+register: Kayıt Ol
+details: Detaylar
+view_all: Tüm
+order_by: Sıralama
+none: Yok
+terms_and_conditions: Terimler ve Durumu
+reg_success_message: Hesabınız kaydı başarılı olduğunu. Bir e-posta e-posta gönderildi. senin account.Thanks etkinleştirmek için bu e-posta takip edin
+limit: Limit
+usage: Kullanımı
+recover: Kurtar
+oops: Üzgünüz, sayfa bulunamadı
+share_this: Paylaş Bu
+location_map: Haritada Yeri
+image_gallery: Resim Galerisi
+gallery: Galeri
+summary: Özet
+overview: Genel Bakış
+address: Adres
+message: Mesaj
+email_subject: E-posta Konusu
+all: Tüm
+DBC_DELETED: Silinen
+contact_us: Bize
+DBC_ACTIVE: Aktif
+featured_video: Öne Çıkan Video
+estates: Estates
+embed_video_url: Gömülü video URL
+DBC_PENDING: Beklemede
+email_tracker: E-posta Tracker
+bulk_email: Toplu E-posta
+advanced_filters: Gelişmiş Filtreler
+result: Sonuç
+payment_notification: Bir ödeme yapmak için gidiyoruz. Bir e-posta e-posta gönderilir. O e-postadaki linke istediğiniz zaman bu adıma yedekleyebilirsiniz.
+confirmation: Onay
+tags: Etiketler
+zip_code: Posta Kodu
+embed_preview: Sitene Ekle Önizleme
+login: Giriş
+post_not_found: Mesaj Bulunamadı
+view_more: Daha Fazla
+choose_a_package: Bir Paket seçiniz
+choose_feature_package: Bir özellik paketi seçin
+no_package_found: Hayır Paket bulundu
+days: Gün
+posts: Mesajlar
+change: Değişim
+subscribe: Abone
+image: Resim
+view_on_map: Haritada Görüntüle
+create: Create
+basic_info: Temel Bilgiler
+send: Gönder
+all_email_to_users: Kullanıcılara tüm e-postalar
+email_detail: E-Posta Detay
+change_package: Değişim Paketi
+bank_transfer: Banka Havalesi
+contact_subject: E-posta adresi
+payment_finish_title: Tam Ödeme
+payment_renew_title: Tam Ödeme
+payment_finish_text: Ödemeniz tamamlandı. Biz paypal onay alınan en kısa sürede hesabınız aktif olacaktır
+payment_renew_text: Ödemeniz tamamlandı. Biz paypal onay alınan en kısa sürede hesabınız yenilenecektir
+payment_cancel_title: Ödeme İptal
+payment_cancel_text: Ödemeniz iptal edilir
+feature_payment_finish: Ödemeniz tamamlandı. En kısa sürede biz paypal onay alma gibi sizin emlak yer alacak.
+feature_payment_cancel: Ödemeniz iptal edilir.
+private_owner: Özel Sahibi
+selected_package: Seçilen Paket
+signup_with_social_account: Sosyal hesapla Kayıt
+password: Şifre
+confirm_password: Şifreyi Onayla
+all_posts: Tüm mesajlar
+no_posts: Yok Mesaj
+title: Başlık
+description: Açıklama
+status: Durum
+actions: Eylemler
+action: Aksiyon
+type: Tür
+type_something: bir şey yazın
+content: İçerik
+featured_image: Seçkin Görüntü
+category: Kategori
+all_categories: Tüm Kategoriler
+edit_category: Düzenleme kategorisi
+new_category: Yeni kategori
+parent: Veli
+edit: Düzenleme
+delete: Sil
+name: Adı
+save: Save
+no_parent: Hayır ebeveyn
+edit_email_template: Edit e-posta şablonu
+select_template_file: Seç şablon dosyası
+subject: Konu
+body: Gövde
+available_variables: Mevcut değişkenler
+select_language: Dil Seç
+select_language_file: Seç dil dosyası
+edit_as_new: yeni ürün olarak düzenleyin
+language: Dil
+add_another: Başka bir ekleme
+export_to_file: İhracat dosyaya
+import_from_file: Dosyadan İthalat
+auto_translator: Otomatik çevirmen
+from_lang: lang Gönderen
+target_lang_full_name: Hedef lang tam adı
+target_lang_short_name: Hedef lang kısa adı
+create_new_package: Yeni paket oluşturma
+price: Fiyat
+maximum_post_by_user: Kullanıcı tarafından Maksimum mesajlar
+expirtion_time: Expirtion süresi (gün)
+create_package: paketi oluşturma
+edit_package: Düzenleme paketi
+update_package: Güncelleştirme paketi
+add_packages: paketleri ekleyin
+all_packages: Tüm paketler
+no_packages: Hayır paketler
+options: Seçenekler
+all_pages: Tüm sayfalar
+no_pages: sayfa yok
+manage_menu: Yönet menüsünü
+menu_title: Menü Başlığı
+menu_alias: Menü takma
+show_in_menu: menüde göster
+page_layout: Sayfa düzeni
+content_from: içeriği
+url: URL
+seo_options: SEO seçenekleri
+meta_description: Meta açıklama
+key_words:
+crawl_after: sonra Taraması (gün)
+all_plugins: Tüm eklentileri
+no_plugins: Hayır eklentileri
+name_and_version: Adı ve sürümü
+change_password: Şifre değiştir
+current_password: Mevcut şifre
+new_password: Yeni şifre
+retype_password: Parolayı yeniden yazın
+password_reset_info_msg: Önce Yeni Şifreyi ayarlayın Lütfen
+profile_picture: Profil Resmi
+username: Adı
+email: E-Posta
+first_name: Ad
+last_name: Soyadı
+gender: Cinsiyet
+phone: Telefon
+company_name: Firma Adı
+about_me: Hakkımda
+facebook_account: Facebook hesabı
+twitter_account: Twitter hesabı
+linkedin_account: Linkedin hesabı
+gp_account: Google+ hesabı
+account_msg: Please enter the link, without http: //
+web_email_settings: Web E-posta Ayarları
+contact_email: E-posta adresi
+webadmin_name: Webadmin Adı
+webadmin_email: Webadmin E-posta
+update: Güncelleme
+upload: yükle
+site_settings: Site Ayarları
+site_title: Site Başlığı
+footer_text: Altbilgi Metin
+site_logo: Site Logo
+site_language: Site Dilini
+site_text_direction: Site Metin Yönü
+per_page: Sayfalandırma Sayfa Başına
+default_page_layout: Varsayılan Sayfa Düzeni
+tracking_code: Kod Takip
+smtp_email_settings: SMTP E-posta Ayarları
+smtp_email: SMTP E-posta
+smtp_host: SMTP Sunucu
+smtp_port: SMTP Bağlantı Noktası
+smtp_timeout: SMTP Zaman Aşımı
+smtp_user: SMTP Kullanıcı
+smtp_password: SMTP Şifresi
+generate_site_map: site haritası oluşturma
+sitemap_info_msg: nb site haritası xml dahil olmak istediğiniz seçiniz. Sonra başarılı nesil sitemap.xml KÖK dizini altına kaydedilir. Siz de kendi URL'lerin dahil olmak üzere bu dosyayı düzenleyebilirsiniz.
+pages: Sayfalar
+blog_posts: Blog Yazıları
+articles: Makaleler
+blog_post: Blog Mesaj
+blog: Blog yayını
+article: Madde
+news: Haberler
+view_xml: Görünüm XML
+create_xml: XML oluşturma
+manage_backups: Yönetme Yedekler
+create_sql_backup: SQL Backup oluşturma
+create_image_backup: Görüntü Create Backup
+restore: Restore
+download: Download
+dashboard: Pano
+overview_stats_more: Genel Bakış, İstatistikler ve daha fazlası
+visit_site: Ziyaret Sitesi
+logout: Oturum Kapat
+themes: Temalar
+locations: Mekanlar
+paypal_settings: Paypal Ayarları
+payment_history: Ödeme Geçmişi
+profile: Profil
+packages: Paketleri
+widgets: Widget'lar
+all_widgets: Tüm Widget'lar
+widget_positions: Widget Pozisyonlar
+blog_news_article: Blog / Haber / Makale
+new_post: Yeni Mesaj
+pages_and_menu: Sayfalar ve Menü
+new_page: Yeni Sayfa
+menu: Menü
+system: Sistem
+manage_languages: Diller Yönet
+auto_translate: Otomatik Çeviri
+edit_email_text: Düzenleme E-posta Metni
+admin_settings: Web Yönetici Ayarları
+sitemap: Site Haritası
+activate: etkinleştirin
+active_theme: Aktif Tema
+available_themes: Mevcut Temalar
+all_users: Tüm Kullanıcılar
+create_user: Kullanıcı Oluştur
+export_user_email: İhracat Kullanıcı e-postalar (.csv)
+profile_info: Bilgi Profil
+ban_forever: Sonsuza Ban
+edit_page: Sayfayı Düzenle
+create_widget: Widget oluştur
+widget_name: Widget adı
+activate_deactivate: etkinleştirin / De-etkinleştirme
+show: Göster
+available_widgets: Mevcut Widget'lar
+active_widgets: Aktif Radyo
+delete_warning: Emin silerim istiyor musunuz.
+yes: "evet"
+no: "hayır"
+product_name: İş Rehberi
+fa_icon: FA simgesi sınıfı
+post_ad: Liste iş
+post_ad_subtitle: iş detay koy
+signin: Oturum açma
+signup: Kayıt
+signup_title: Hesabınızı oluşturun
+not_found: Bulunamadı
+purpose: Amaç
+purpose_buy: Satın
+purpose_sell: Sat
+select_category: Kategori Seçiniz
+contact_for_price: price İletişim
+address_info: Adres Bilgileri
+general_info: Genel Bilgi
+upload_later_msg: Sen sonrası oluşturulduktan sonra galeri fotoğraf ve video url yüklemek mümkün olacak
+user_panel: Kullanıcı paneli
+put_as_comma_seperated: (,) virgül ayrılmalıdır olarak koymak
+added: Eklendi
+location: Yer
+views: Gösterim
+package_type: Tür
+post_package: Mesaj paketi
+featured_package: Seçkin paket
+both_package: Posta ve özellikli
+select_package: Seç paket
+package_created: Paket oluşturuldu
+package_updated: Paket güncellendi
+slider: Sürgü
+add_new: Yeni ekle
+new_slide: Yeni slayt
+update_slide: Güncelleme slayt
+save_order: sipariş kaydet
+slider_sort_instruction: Sen tablo satırları sıralamak için damla sürükleyebilirsiniz. sipariş kaydet sıraladıktan sonra
+search: Arama
+results: Sonuçlar
+property_location_on_map: Lokasyon Haritada
+location_on_map: Haritada Yer
+contact_mode: İletişim Modu
+reset: Reset
+contact: İletişim
+default_site_view: Varsayılan Site görünümü
+type_your_message: Mesajınızı buraya yazın ..
+mail_sent: Posta Gönderildi
+search_classifieds: Arama BusinessDirectorys
+advanced_search: Gelişmiş Arama
+narrow_down_your_businesses: senin işlerini daraltın
+home: Ev
+print: Baskı
+remember_me: Beni Hatırla
+forgot_password: Şifremi Unuttum
+login_failed: Giriş başarısız
+login_to_your_account: Hesabınıza giriş
+register_your_account: Hesabınızı Kayıt Ol
+male: Erkek
+female: Kadın
+no_location_found: Yok Yer Bulundu
+state: Devlet
+ad_creation_error: Reklam yaratılmasında Hata! Lütfen kontrol edin.
+users: Kullanıcılar
+show_admin_user: Show Yönetici Kullanıcı
+send_email_to_business: iş E-posta Gönder
+DBC_PAYMENT_PENDING: Ödeme bekleyen
+DBC_EXPIRED: süresi doldu
+categories: Kategoriler
+top_posts: En Mesajlar
+show_state_province: Show Devlet İl
+package_settings: Paket Ayarları
+default_site_settings: Varsayılan Site Ayarları
+webadmin_settings: Webadmin Ayarları
+banner_settings: Banner Ayarları
+max_price_for_search: Arama Max Fiyat
+search_filters: Arama Filtreleri
+posts_per_page: Sayfa Ortalama Mesajlar
+recent_posts: Son gönderiler
+featured_posts: Özel Mesaj
+top_locations: En Mekanlar
+top_users: Top Users
+approve: Onayla
+make_featured: özellikli olun
+remove_featured: özellikli Kaldır
+renew_featured: özellikli Yenile
+renew_package: package yenileyin
+no_renew_post_id: Geçersiz sonrası kimliği yenilemek
+approve_payment: ödeme onaylama
+transaction: İşlem
+transaction_id: İşlem kimliği
+post_id: Mesaj kimliği
+amount: Tutar
+request_date: İstek tarih
+expiration_date: Son kullanma tarihi
+transaction_deleted: İşlem silindi
+payment_approved: Ödeme onaylanmış
+logged_in_as: Giriş yapılan
+posted_on: Yayınlanan
+confirm_email_send: Onay e-posta bu e-posta gelen talimatları takip send.Please.
+email_confirmed: confirmed.You şimdi e-posta ve şifre ile giriş yapabilirsiniz E-posta
+email_confirmed_failed: Onay failed.Confirmation e-posta ve şifre eşleşmiyor.
+password_change_success: Şifre başarıyla değiştirildi
+email_sent_inbox: Bir e-posta inbox.Check bu e-posta gönderilir.
+password_recovery_link_invalid: Şifre Kurtarma Bağlantı geçerli değil mi
+user_updated: Kullanıcı Güncellendi
+user_deleted: Kullanıcı Silindi
+user_banned: Kullanıcı Yasaklı
+user_unbanned: Kullanıcı unbanned
+user_confirmed: Kullanıcı Onaylandı
+post_deleted: Mesaj Silindi
+post_updated: Mesaj Güncellendi
+post_created: Mesaj düzenlendi
+post_featured: Mesaj özellikli
+data_inserted: Veriler takılı
+data_updated: Veriler Güncellendi
+feature_renewed: Özellik Yenilendi
+post_feature_removed: Mesaj Özelliği kaldırıldı
+post_approved: Mesaj Onaylı
+invalid_post: Geçersiz Mesaj
+email_sent: Gönderilen Email
+settings_updated: Ayarlar Güncellendi
+package_removed: Paket kaldırıldı
+page_updated: Sayfa Güncel
+page_created: Sayfa düzenlendi
+page_deleted: Sayfa silinmiş
+menu_updated: Menü Güncellendi
+site_map_generation_success: Site haritası başarıyla oluşturuldu.
+select_option: açık seçeneğini ya da daha fazla seçenekleri seçin edin.
+image_backup_created: Görüntü Yedekleme düzenlendi
+language_translated: Dil Çeviri
+unable_to_write_file: Dosya yaz için açılamıyor
+backup_deleted: Yedekleme Silinmiş
+database_restored: Veritabanı Restorasyona
+theme_activated: Tema Aktif
+user_created: Kullanıcı düzenlendi
+widget_position_updated: Widget Böl Güncellendi
+widget_created: Widget düzenlendi
+widget_data_updated: Widget Veri Güncelleme
+unable_to_write_widget: Widget yazılamıyor
+post_created_and_published: Mesaj oluşturulan ve yayınlanan
+post_created_approval: Mesaj oluşturulan ve yönetici onayı bekliyor
+post_package_renewed: Mesaj paketi yenilendi
+payment_finish: Ödeme bitirmek
+payment_cancelled: Ödeme iptal edildi
+admin_change_pass_help: değişiklik yok gerekirse boş bırakın
+go_to_paypal: Paypal git
+login_with_google: Google ile giriş
+login_with_facebook: Facebook ile giriş
+load_more_recent_posts: Daha Yeni Mesajlar Yük
+load_more_featured_posts: Daha Sunulan Mesajlar Yük
+register_for_new_account: Yeni Hesap için üye ol
+site_map: Site Haritası
+show_site_map: Show site haritası
+service: Hizmet
+features: Özellikler
+about: Yaklaşık
+view_posts: Görünüm mesajlar
+see_full_documentation: Tam belgelere bakın
+select_city: Seç şehir
+parallax_slider: Paralaks Slider
+all_slides: Tüm slaytlar
+no_slide: Hayır slayt
+slide_order: Slayt düzeni
+edit_profile: Profili düzenle
+post_price_settings: Mesaj fiyat ayarları
+enable_post_pricing: sonrası fiyatlandırma etkinleştirme
+enable_paypal_transfer: Enable paypal
+enable_bank_transfer: banka havalesi etkinleştirme
+bank_transfer_instruction_for_posts: Banka Havalesi Talimatı
+featured_price_settings: Seçkin fiyat ayarları
+enable_featured_pricing: özellikli fiyatlandırma etkinleştirme
+enable_featured_paypal: paypal etkinleştirme
+enable_featured_bank_transfer: banka havalesi etkinleştirme
+bank_transfer_instruction_for_featured_posts: Havale talimatı
+bank_currency_settings: Banka döviz ayarları
+bank_currency: Banka döviz
+use_same_as_paypal_currency: paypal para birimi olarak aynı kullanın
+admin: Yönetici
+re_password: Parolayı yeniden yazın
+explain_widget_position: Widget pozisyonları açıklar
+post: Mesaj
+post_renew: Mesaj yenileyin
+feature: Özellik
+feature_renew: Yenile Özelliği
+payment_for: Ödeme
+select_country: Ülke Seçiniz
+select_one: Birini Seçiniz
+video_url: Vidoe URL
+confirm_payment: Ödemeyi Onayla
+package_title: Paket Adı
+number_of_featured_days: gün sayısı özellikli olması
+no_of_days: gün Resim
+expiration_time: Bitiş Zamanı
+any_city: Herhangi Şehir
+any_category: Herhangi Bir Kategori
+product_admin_panel: Whiz Yönetici
+username_or_email: Kullanıcı adı veya e-posta
+business_detail: İş detay
+post_detail_subtitle:
+posts_by: Mesajlar
+featured: Seçkin
+edit_user: Düzen kullanıcı
+the_field_is_required:% s alanı gerekiyor.
+valid_email:% s alan geçerli bir e-posta adresi içermelidir.
+min_length:% s alan uzunluğu en az% s karakter olmalıdır.
+numeric:% s sadece sayı içermelidir.
+matches:% s alan% s alanı eşleşmiyor.
+greater_than:% s alan% s daha büyük bir sayı içermelidir.
+agree_terms: Ben% s şartlarını ve koşullarını% s okudum
+must_accept_terms: Sen şart ve koşul kabul etmelidir
+dont_have_permission: Bu sayfaya erişmek için yetkiniz yok
+email_allready_in_use: zaten kullanımda e-posta
+username_allready_in_use: adı allready kullanımda
+current_password_not_matched: Mevcut şifre yapmadım \ 't maç
+email_or_password_not_mathed: E-posta veya şifre doen \ 't maçı
+email_not_matched: eşleşmedi Email
+account_not_confirmed: doğrulanmadı Hesap
+all_locations: Tüm konumlar
+add_country: Ülke ekle
+add_state: devlet ekle
+add_city: şehir ekleyin
+no_locations: Hayır yerleri
+banner_type: Banner tipi
+bg_image: Arka plan görüntüsü
+unique_alias:% s alan benzersiz olması gerekir
+error_occured: Hata oluştu. Aşağıdaki alanları kontrol edin
+user_profile: Kullanıcı profili '
+user_email: Kullanıcı e-posta
+target_lang_name: Hedef dil
+no_emails: Hiçbir e-postalar
+to: To
+classified_settings: Gizli Ayarlar
+publish_posts_directly: doğrudan mesajları Yayınla
+system_currency: Sistem birimi
+enable_signup: signup etkinleştirme
+if_package_expired: Paket süresi dolmuşsa
+do_not_hide: gizlemek etmeyin
+hide: Hide
+show_price_like: Fiyat biçimi
+facebook_app_settings: Facebook uygulaması ayarları
+enable_facebook_login: facebook girişini etkinleştirme
+fb_app_id: Facebook uygulaması kimliği
+fb_secret_key: Facebook gizli anahtar
+comment_settings: Yorum ayarları
+enable_comment: Yorum etkinleştirme
+disqus_shortname: Disqus shortname
+sandbox_mode: Sandbox Modu
+item_name: Ürün adı
+paypal_email: Paypal e-posta
+currency: Para
+finish_url: Bitir url
+cancel_url: url İptal
+menu_background: Menü arka planı
+menu_text_color: Menü metin rengi
+activated_menu_color: Aktif menü rengi
+top_bar_bg: Top bar bg
+activated_menu_text_color: Aktif menü metin rengi
+latitude: Enlem
+longitude: Boylam
+map_zoom: Harita yakınlaştırma
+search_panel_settings: Arama paneli ayarları
+search_panel_bg_color: Arama paneli bg renk
+show_background_image: Show arka plan resmi
+active_widget_position: Aktif Widget pozisyonu
+upload_and_install: Yükleme ve yükleyin
+install_updates: Güncellemeler / Temalar Yükle / Eklentiler / Widget'lar
+confirmation_email: Onay E-posta
+recovery_email: Kurtarma E-posta
+signup_notification_email: Bildirim E Kayıt Ol
+payment_confirmation_email: Ödeme Teyit E-posta
+click_and_edit:] Bir şablon dosyasını seçin ve düzenle tıklayın
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Varsayılan SEO ayarları
+individual: Bireysel
+find_us_on_facebook: Facebook bizi bulun
+category_featured_posts: Seçkin mesajlar
+load_more_posts: Daha yükleyin
+home_page_title: Arama ve sonrası kategorisi üst reklamları
+no_posts_found: Hayır mesajlar
+type_anything: bir şey yazın
+chosen_not_found: Üzgünüz, hiçbir şey bulunamadı!
+rating_asc: Değerlendirme Artan
+rating_desc: Rating Azalan
+id_desc: Kimliği Azalan
+id_asc: Kimliği Artan
+show_daily_menu: Show Günlük Menüsü
+website: Web sitesi
+founded: Kuruluş
+year: Yıl
+price_range: Fiyat Aralığı
+additional_features: Ek Özellikler
+add_more_fields: Daha fazla alan ekleme
+remove: Kaldır
+distance_around_my_position: benim konum etrafında Mesafe
+show_distance_in: göster Mesafe
+business_listed: İş Listelenen
+show_street_view: Show Sokak Görünümü
+list_business: Liste İş
+search_businesses: Arama İşletmeler
+top_businesses: En İşletmeler
+featured_businesses: Seçkin İşletmeler
+business_directory_settings: İş Rehberi Ayarları
+hide_email: Hide e-posta
+hide_phone: Telefonu gizle
+review: İnceleme
+comment: Yorum
+submit_review: Yorum Gönder
+rating: Değerlendirme
+review_alert: Sen inceleme göndermek için giriş yapmalısınız.
+new_business: Yeni İş
+identify_my_location: konumumu tanımlayın
+data_deleted: Veriler silindi
+recent_reviews: Son yorumlar
+view_all_reviews: Tüm yorumları görüntüle
+review_deleted: İnceleme Silindi
+review_detail: Detay
+all_reviews: Tüm Yorumlar
+monday: Pazartesi
+tuesday: Salı
+wednesday: Çarşamba
+thursday: Perşembe
+friday: Cuma
+saturday: Cumartesi
+sunday: Pazar
+opening_hour: Açılış Saati
+closed: Kapalı
+airport: Havaalanı
+cafe: Cafe
+cinemas: Sinema
+hotels_and_resorts: Hotels & Resorts
+libraries: Kütüphaneler
+night_clubs: Gece Kulüpleri
+offices: Ofisler
+restaurants: Restoranlar
+shops: Dükkân
+review_submitted: İnceleme teslim
+social_links: Sosyal bağlantılar
+upgrade_browser: tarayıcınızı yükseltin
+please_upgrade_your_browser: tarayıcınızı yükseltin lütfen
+business: İş
+introduction: Giriş
+terms: Şartlar ve durum
+email_not_found: bulunamadı Email
+city_dropdown: Şehir açılır
+published: Yayınlanmış
+publish: Yayınla
+drafted: Draft
+draft: Taslak
+from: Nereden
+send_bulk_email: Toplu E-posta Gönder
+ive_read_the: okudum
+title_city_category: Başlık, şehir veya kategori
+dt_first: Birinci
+dt_last: Son
+dt_next: Sonraki
+dt_prev: Önceki
+dt_no_data: Tablodaki veriler yok
+dt_show_empty: 0 0 girişlere 0 gösteriliyor
+dt_no_match: bulunamadı eşleşen kayıt
+dt_search: Arama
+dt_processing: İşleme ...
+dt_loading: Yükleniyor ...
+dt_info: _TOTAL_ girişlerinin _END_ için _START_ Gösterilen
+dt_filter_info: (_MAX_ toplam girdileri süzülmüş)
+dt_show_entries: Show _MENU_ girdileri
+get_directions: Yol Tarifi
+review_not_submitted : Zaten bir inceleme verdik
+debug_email : Debug e-posta
+email_to : E-Posta ile
+report_the_business : Bu İş bildir
+reported : Dolaylı
+already_reported : Zaten bildirdi
+reported_post : Bildirilen mesajlar
+all_reported_posts : Tüm rapor mesajlar
+report: Rapor
+assigned_to: Atanan
+select_assigned_to: Seç kullanıcı
+css_compression: Css sıkıştırma
+gallery_notes: Sen galeri fotoğrafları yeniden düzenlemek için damla sürükleyebilirsiniz. Fotoğraflar resized değildir.
+video_notes: Youtube veya Vimeo url
+post_expiration_notification: Mesaj erme bildirimi
+claim_the_business: İş talep
+claim_business_instructions: aşağıdaki formu doldurunuz ve gönder butonuna tıklayın. Site yöneticisi e-posta veya telefon yoluyla sizinle irtibata geçilecektir.
+claimed_business: Iddia iş
+days_left: Gün sol
+AM: PM
+PM: PM
+upload_invalid_min_dimensions: görüntü boyutu çok düşük
+view_on_front: cephesinde gör
+clear_unused_img: Berrak kullanılmayan görüntüleri
+unused_files_found: bulundu Kullanılmayan dosyaları
+clear_unused_img: Berrak kullanılmayan görüntüleri
+unused_images_cleared: Kullanılmayan görüntüleri temizlendi
+unused_info_msg: Bu fonksiyon sadece iş, kullanıcılar, kategoriler, sayfalar, bloglar tarafından kullanılmayan görüntüleri cleares. Bu el elle herhangi bir görüntü yükledi ve silinebilir kodu içinde onları kullanılırsa images.So bulmak için veritabanı arar.
+no_unused_img: Hayır kullanılmayan resim bulunamadı
+search_panel_filter_type: Filtre tipi
+basic_options: Temel seçenekler
+advanced_options: Advance seçenekleri
+key_words:
+sorting_order: Sıralama düzeni
+business_listed_on: İş listelenen
+business_listed_under: İş altında listelenen
+all_sub_categories: Tüm alt kategoriler
+no_sub_categories: Hayır alt kategorileri
+open_24_by_7: Sürekli Açık
+hide_my_email : my email gizle
+disable_email_contact: Devre dışı E-ileti
+enable_review: inceleme etkinleştirme
+disable_google_street_view: google sokak görünümü devre dışı bırakma
+location_chorome_msg: google tarafından Konum Servisi (Sadece Chrome tarayıcısında) olmayan ssl siteler için geçerli değildir. konumunuzu almak için ip adresini kullanmak istiyor musunuz? NB - Sonuç google tam olarak aynı olmayabilir
+send_email_to_users: kullanıcılara e-posta gönder
+show_banner: Show afiş
+hide_my_phone: Telefonumu gizle
+kms: kms
+miles: Miles
+logo_text: Logo Metin
+logo_type: Logo Tipi
+logo_text_color: Logo metin rengi
+Jan: Jan
+Feb: Şubat
+Mar: Mar
+Apr: Nisan
+May: Mayıs
+Jun: Haziran
+Jul: Temmuz
+Aug: Ağustos
+Sep: Eylül
+Oct: Ekim
+Nov: Kasım
+Dec: Aralık
+show_search_panel: Show arama paneli
+delete_selected: Seçilen Sil
+camera_spin: Kamera Spin
+degree: derece
+map_api_key: gmap api anahtarı
+pricing: Fiyatlandırma
+post_package_instruction: Web sitemizde iş yazabilmek için aşağıdaki paketleri var
+feature_package_instruction: Bir iş yapmak için aşağıdaki paketler özellikli ettik
+MENU: MENÜ
+gplus_app_settings: Google+ uygulaması ayarları
+auth_redirect_url: Yetkili yönlendirme URL'si
+enable_gplus_login: Google+ girişini etkinleştirme
+gplus_client_id: Google+ istemci kimliği
+gplus_client_secret: Google+ istemci sırrı
+how_to_get_gplus_api: Nasıl Google+ Müşteri kimliği ve Sırrı almak için
+gallery_upload_limit: Galeri yükleme sınırı
+you_can_upload_max: Sen maksimum yükleyebilirsiniz
+gallery_photos: Galeri Fotoğraf
+email_confirmed: E-posta doğruladı. Şimdi giriş yapabilirsiniz
+email_confirmed_failed: E-posta onayı başarısız
+advanced_options_with_country_state: ülke ve devlet ile Peşin seçeneği
+select_state: Seç devlet
+recent_posts_order: Son gönderiler sipariş
+featured_posts_order: Seçkin mesajlar sipariş
+default_posts_order: Varsayılan mesajlar sipariş
+ASC: Artan
+DESC: Azalan
+RANDOM: Rastgele
+useremail: Kullanıcı e-posta
+enable_adblocker_alert: Adblock uyarısı etkinleştirme
+adblock_detected: Adblock Detected
+adblock_msg: Adblock devre dışı bırakılsın ve tekrar sayfayı yenileyin
+enable_cookie_policy_popup: Çerez Politikası Popup
+cookie_policy_page_url: Çerez politikası sayfası url
+cookie_policy: Çerez Politikası
+cookie_policy_alert: Bu site çerezleri kullanmaktadır. Eğer çerez kullanmamızı kabul Bu siteyi kullanmaya devam ederek.
+read_more: Devamını oku
+i_agree: Kabul ediyorum
+instagram: Instagram
+newsletter_subscription: bülteni alın
+your_email: E-posta
+email_saved: E-posta bülteni için kaydedilen
+send_newsletter: Haber Gönder
+unsubscribe: Aboneliği
+to_unsubscribe: Bu servisinden çıkmak istiyorsanız bu bağlantıyı tıklayın
+successfully_unsubscribed: Artık bülten hizmeti aboneliğinden vardır
+export_user_phone: İhracat kullanıcı telefon
+enable_blog_comment: blog yorumu etkinleştirme
+fb_blog_app_id: blog için Fb uygulaması kimliği
+disqus_blog_shortname: blog için Disqus kısa adı
+sample_page: Örnek sayfa
+senders_phone: Gönderenin telefon
+alias: Alias
