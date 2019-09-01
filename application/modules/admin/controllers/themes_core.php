@@ -7,7 +7,7 @@
  * @package		bookit
  * @subpackage	Themes
  * @author		sc mondal
- * @link		http://scmondal.webhelios.com
+ * @link		http://scmondal.justmy.com
  */
 
 class Themes_core extends CI_Controller {

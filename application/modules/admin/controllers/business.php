@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	business
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once'business_core.php';
 class Business extends Business_core {

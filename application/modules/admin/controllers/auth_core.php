@@ -7,7 +7,7 @@
  * @package		Auth
  * @subpackage	Auth
  * @author		sc mondal
- * @link		http://webhelios.com
+ * @link		http://justmy.com
  */
 
 

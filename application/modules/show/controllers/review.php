@@ -6,8 +6,8 @@
  *
  * @package		Show
  * @subpackage	Review
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once 'review_core.php';
 class Review extends Review_core {

@@ -7,7 +7,7 @@
  * @package		Account
  * @subpackage	google_plus
  * @author		sc mondal
- * @link		http://webhelios.com
+ * @link		http://justmy.com
  */
 
 

@@ -6,8 +6,8 @@
  *
  * @package		Install
  * @subpackage	Install
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once'install_core.php';
 class Install extends Install_core {

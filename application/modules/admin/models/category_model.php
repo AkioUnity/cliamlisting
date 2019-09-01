@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	category
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 require_once'category_model_core.php';

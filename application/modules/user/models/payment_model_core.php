@@ -7,8 +7,8 @@
  *
  * @package		User
  * @subpackage	UserModelCore
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 

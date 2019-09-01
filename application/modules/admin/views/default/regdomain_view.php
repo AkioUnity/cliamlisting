@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Webhelios | Admin Panel</title>
+    <title>JustmyDC | Admin Panel</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include 'template/includes_top.php';?>
@@ -16,14 +16,14 @@
   <?php //include 'template/theme_settings.php';?>
     <div class="container" id="main-container">
         <div class="domreg">
-          <h4>Please register your Whizbiz with webhelios</h4>
-          <p>You need to register you copy of Whizbiz first with webhelios.</p>
+          <h4>Please register your Justmy with JustmyDC</h4>
+          <p>You need to register you copy of Justmy first with Justmy.</p>
           <div class="row" style="text-align:center">
               <div class="col-md-4" stye="margin:0 auto;"></div>
               <div class="col-md-4" stye="margin:0 auto;">
                 <?php echo $this->session->flashdata('msg');?>
               <form action="<?php echo site_url('admin/purchase/addkey');?>" method="POST" class="form-horaizontal">
-                <label>Whizbiz setup url : </label>
+                <label>Justmy setup url : </label>
                 <input type="text" name="domain" value="<?php echo base_url();?>" class="form-control input-md-3" readonly="readonly">
                 <label>Item id : </label>
                 <input type="text" name="item_id" value="" plcaholder="" class="form-control input-md-3">   

@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	users
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 class Users_core extends CI_Controller {

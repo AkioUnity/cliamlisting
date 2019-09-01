@@ -7,8 +7,8 @@
  *
  * @package		Show
  * @subpackage	ShowCore
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 
@@ -662,7 +662,7 @@ class Show_core extends CI_controller {
 
 		$value = array();	
 		$value['curr_lang'] = $curr_lang;	
-		$value['feed_name'] = translate(get_settings('site_settings','site_title','Whizbiz'));
+		$value['feed_name'] = translate(get_settings('site_settings','site_title','justmy'));
         $value['encoding'] = 'utf-8';
         $value['feed_url'] = site_url('show/rss');
         $value['page_description'] = lang_key('your_web_description');

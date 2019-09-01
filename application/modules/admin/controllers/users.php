@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	users
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 require_once'users_core.php';

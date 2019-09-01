@@ -6,8 +6,8 @@
  *
  * @package		Memento404
  * @subpackage	Memento404
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once 'show404_core.php';
 class Show404 extends Show404_core {

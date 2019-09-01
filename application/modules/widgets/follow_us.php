@@ -2,8 +2,8 @@
                     <p>Itaque earum rerum hic tenetur a atque atatum dele niti atque tenetur a atque atatum tenetur volup tatum.</p>
                     <div class="brand-bg">
                         <!-- Social Media Icons -->
-                        <a class="facebook" href="https://www.facebook.com/webhelios"><i class="fa fa-facebook circle-3"></i></a>
-                        <a class="twitter" target="_blank" href="https://twitter.com/webheliosteam"><i class="fa fa-twitter circle-3"></i></a>
+                        <a class="facebook" href="https://www.facebook.com/JustMyDC"><i class="fa fa-facebook circle-3"></i></a>
+                        <a class="twitter" target="_blank" href="https://twitter.com/JustMyDC"><i class="fa fa-twitter circle-3"></i></a>
                         <a class="google-plus" href="#"><i class="fa fa-google-plus circle-3"></i></a>
                         <a class="linkedin" href="#"><i class="fa fa-linkedin circle-3"></i></a>
                         <a class="pinterest" href="#"><i class="fa fa-pinterest circle-3"></i></a>

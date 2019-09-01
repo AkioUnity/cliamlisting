@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	Admin
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once'admin_core.php';
 class Admin extends Admin_core {

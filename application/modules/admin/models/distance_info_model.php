@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	distance_info_model
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 require_once'distance_info_model_core.php';

@@ -6,8 +6,8 @@
  *
  * @package		User
  * @subpackage	UserModel
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once'post_model_core.php';
 class Post_model extends Post_model_core {

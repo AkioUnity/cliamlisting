@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	memento
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once'package_core.php';
 class Package extends Package_core {

@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	category_model_core
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 class Category_model_core extends CI_Model 
 {

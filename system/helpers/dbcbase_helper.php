@@ -1042,23 +1042,6 @@ if ( ! function_exists('create_log'))
 		$item_id = (isset($row->values))?$row->values:'2';
 
 		$domain = base_url();
-		if (!strpos('-'.$domain, "http://localhost/"))
-		{
-			//set POST variables
-
-			$fields = array(
-								'purchase_key' => urlencode($purchase_key),
-								'item_id' => urlencode($item_id),
-								'domain' => urlencode($domain),
-								'item'		=> 'whizbiz'
-							);
-
-
-			$fields_string = '';
-			//url-ify the data for the POST
-			foreach($fields as $key=>$value) { $fields_string .= $key.'='.$value.'&'; }
-			rtrim($fields_string, '&');
-		}
 	}
 }
 

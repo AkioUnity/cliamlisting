@@ -381,7 +381,7 @@
                     <div style="border-bottom:1px solid #aaa;font-weight:bold;font-size:14px;padding:0 0 5px 5px;"><?php echo lang_key('gplus_app_settings');?></div>
                     <span class="settings-help">
                         <div class="alert alert-info">
-                        <a href="http://support.webhelios.com/index.php/en/show/faqdetail/26/How-to-get-google+-client-id-and-client-secret" target="_blank" data-toggle="tooltip" data-placement="left" title="Enble google+ api">[<?php echo lang_key('how_to_get_gplus_api');?>]</a><br/>
+                        <a href="http://support.justmy.com/index.php/en/show/faqdetail/26/How-to-get-google+-client-id-and-client-secret" target="_blank" data-toggle="tooltip" data-placement="left" title="Enble google+ api">[<?php echo lang_key('how_to_get_gplus_api');?>]</a><br/>
                             <?php echo lang_key('auth_redirect_url');?>: <?php echo site_url('account/google_plus_auth/auth_callback');?>
                         </div>
                     </span>

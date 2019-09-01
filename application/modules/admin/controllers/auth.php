@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	Auth
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once'auth_core.php';
 class Auth extends Auth_core {

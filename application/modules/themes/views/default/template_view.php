@@ -65,7 +65,7 @@
     <meta name="description" content="<?php echo $meta_desc; ?>">
     <meta name="keywords" content="<?php echo $key_words; ?>"/>
     <meta property="og:title" content="<?php echo $page_title;?>" />
-    <meta property="og:site_name" content="<?php echo get_settings('site_settings','site_title','whizbiz');?>" />
+    <meta property="og:site_name" content="<?php echo get_settings('site_settings','site_title','justmy');?>" />
     <meta property="og:url" content="<?php echo get_the_current_url();?>" />
     <meta property="og:description" content="<?php echo $meta_desc;?>" />
     <meta property="og:type" content="article" />

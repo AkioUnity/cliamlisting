@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	Page
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 class Page_core extends CI_Controller {

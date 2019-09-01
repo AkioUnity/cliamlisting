@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	widgets
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 require_once'widgets_core.php';

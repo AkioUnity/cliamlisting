@@ -6,8 +6,8 @@
  *
  * @package		User
  * @subpackage	UserModel
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once'payment_model_core.php';
 class Payment_model extends Payment_model_core {

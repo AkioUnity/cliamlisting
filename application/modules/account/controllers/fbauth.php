@@ -7,7 +7,7 @@
  * @package		bookit
  * @subpackage	Admin
  * @author		sc mondal
- * @link		http://scmondal.webhelios.com
+ * @link		http://scmondal.justmy.com
  */
 require_once'fbauth_core.php';
 class Fbauth extends Fbauth_core {

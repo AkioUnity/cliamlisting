@@ -1,13 +1,13 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /**
- * Whizbiz admin Controller
+ * Justmy admin Controller
  *
  * This class handles user account related functionality
  *
  * @package		Install
  * @subpackage	Install
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 class Install_core extends CI_Controller {
@@ -47,77 +47,7 @@ class Install_core extends CI_Controller {
 		$this->load->view('template_view',$data);
 	}
 	
-	/*
-	 * Save database settings
-	 * Modify application/config/database.php
-	 */
-	public function savedbsettings()
-	{
-		ini_set('max_execution_time', 3600);
-		$this->form_validation->set_rules('db_host', 	'Db Host', 			'required|xss_clean');
-		$this->form_validation->set_rules('db_user', 	'Db User', 			'required|xss_clean');
-		$this->form_validation->set_rules('db_pass', 	'Db Password', 		'xss_clean');
-		$this->form_validation->set_rules('db_name', 	'Db Name', 			'required|xss_clean');
-		$this->form_validation->set_rules('db_prefix', 	'Db Table Prefix', 	'required|xss_clean');
-			
-		if ($this->form_validation->run() == FALSE)
-		{
-			$this->dbsetup();	
-		}
-		else
-		{
-			if($this->check_db_connection()=="DBCONNFAIL")
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-error">Can not connect using provided settings</div>');
-				redirect(site_url('install/dbsetup'));
-			}
-			else if($this->check_db_connection()=="DBNOTEXIST")
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-error">Can not select Database</div>');
-				redirect(site_url('install/dbsetup'));
-			}
-			else if($this->check_db_connection()=="EXTFAILED")
-			{
-				$this->session->set_flashdata('msg', '<div class="alert alert-error">None of Mysql or Mysqli is enabled</div>');
-				redirect(site_url('install/dbsetup'));
-			}
-			else if($this->check_db_connection()=="SUCCESS")
-			{
-				$this->load->helper('file');
-				$data = read_file('./application/config/database-setup.php');
-				#replace pre installation tag on application/config/database.php file
-				$data = str_replace('db_name',	$this->input->post('db_name'),	$data);
-				$data = str_replace('db_user',	$this->input->post('db_user'),	$data);
-				$data = str_replace('db_pass',	$this->input->post('db_pass'),	$data);						
-				$data = str_replace('db_host',	$this->input->post('db_host'),	$data);
-			    $data = str_replace('db_prefix',$this->input->post('db_prefix'),$data);
-			    $data = str_replace('db_linktype',$this->get_link_type(),$data);
 
-				if ( ! write_file('./application/config/database.php', $data))
-				{
-					$this->session->set_flashdata('msg', '<div class="alert alert-error">Unable to write the file.Please check your directory permission</div>');
-				}
-
-				$this->load->database();
-				#read default db sql file , parse all queries and run them
-				$schema = read_file('./dbc_config/whizbiz.sql');
-				
-				$schema = str_replace('db_tabprefix',$this->input->post('db_prefix'),$schema);
-				$schema = str_replace('BASE_URL',base_url(),$schema);
-
-				$query = rtrim( trim($schema), "\n;");
-				$query_list = explode(";", $query);
-							
-				foreach($query_list as $query)
-				{
-				 	$this->db->query($query);
-				}
-
-				redirect(site_url('install/accountsetup'));
-			}
-		}
-	}
-	
 	/*
 	 * function for checking if provided db
 	 * settings are ok or not

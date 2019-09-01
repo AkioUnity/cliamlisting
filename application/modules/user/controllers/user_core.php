@@ -6,8 +6,8 @@
  *
  * @package		User
  * @subpackage	UserCore
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 class User_core extends CI_Controller {

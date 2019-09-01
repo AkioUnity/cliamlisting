@@ -825,7 +825,7 @@ if ( ! function_exists('social_sharing_meta_tags_for_post'))
 			$CI = get_instance();
 			$post = $post->row();
 			$curr_lang = get_current_lang();
-			$site_title = get_settings('site_settings','site_title','whizbiz');
+			$site_title = get_settings('site_settings','site_title','justmy');
 			$title = get_post_data_by_lang($post,'title');
             $detail_link = post_detail_url($post);
             $description = truncate(strip_tags(get_post_data_by_lang($post,'description')),160,'');
@@ -864,7 +864,7 @@ if(!function_exists('social_sharing_meta_tags_for_blog'))
         {
         	//update on version 1.7
 
-            $site_title = get_settings('site_settings','site_title','whizbiz');
+            $site_title = get_settings('site_settings','site_title','justmy');
             $title = get_post_data_by_lang($blog_meta,'title');
             $detail_link = site_url('post-detail/'.$blog_meta->id.'/'.dbc_url_title($title));
             $image_path=(!empty($blog_meta->featured_img)? base_url().'uploads/thumbs/'.$blog_meta->featured_img : base_url().'assets/admin/img/preview.jpg');

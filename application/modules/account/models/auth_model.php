@@ -7,7 +7,7 @@
  * @package		bookit
  * @subpackage	Admin
  * @author		sc mondal
- * @link		http://scmondal.webhelios.com
+ * @link		http://scmondal.justmy.com
  */
 require_once'auth_model_core.php';
 class Auth_model extends Auth_model_core {

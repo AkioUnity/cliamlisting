@@ -30,7 +30,7 @@ else
 
     <!-- Custom CSS. Type your CSS code in custom.css file -->
     <link href="<?php echo theme_url();?>/assets/css/custom.css" rel="stylesheet">
-
+    <link href="<?php echo theme_url();?>/assets/css/main.css" rel="stylesheet">
     <link href="<?php echo theme_url();?>/assets/css/map-icons.css" rel="stylesheet">
 
     <link href="<?php echo theme_url();?>/assets/css/styles/restaurant.css" rel="stylesheet">

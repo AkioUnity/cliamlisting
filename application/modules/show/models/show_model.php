@@ -6,8 +6,8 @@
  *
  * @package		Show
  * @subpackage	ShowModel
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once'show_model_core.php';
 class Show_model extends Show_model_core {

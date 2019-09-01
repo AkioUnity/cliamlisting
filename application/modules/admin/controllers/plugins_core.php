@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	Plugins
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 class Plugins_core extends CI_Controller {

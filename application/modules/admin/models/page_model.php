@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	page_model
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 require_once'page_model_core.php';

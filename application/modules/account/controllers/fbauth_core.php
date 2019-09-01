@@ -6,8 +6,8 @@
  *
  * @package		Account
  * @subpackage	fbauth
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 

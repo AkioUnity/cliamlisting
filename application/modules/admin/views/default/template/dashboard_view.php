@@ -134,7 +134,7 @@ $api_key_text = ($map_api_key!='')?"&key=$map_api_key":'';
 
         <div>
 
-          <h1><i class="fa fa-file-o"></i> <?php echo lang_key('dashboard');?> <div class="version">Whizbiz business directory - version : <?php echo $config[0]->version;?></div></h1>
+          <h1><i class="fa fa-file-o"></i> <?php echo lang_key('dashboard');?> <div class="version">JustMy business directory - version : <?php echo $config[0]->version;?></div></h1>
 
           <h4><?php echo lang_key('overview_stats_more');?></h4>
 
@@ -176,7 +176,7 @@ $api_key_text = ($map_api_key!='')?"&key=$map_api_key":'';
 
                   <p class="title">
 
-                    Whizbiz Business Directory - Listing your local businesses
+                    Justmy Business Directory - Listing your local businesses
 
                   </p>
 
@@ -218,7 +218,7 @@ $api_key_text = ($map_api_key!='')?"&key=$map_api_key":'';
 
                   <p class="title text-center">
 
-                    Whizbiz Admin
+                    Justmy Admin
 
                   </p>
 
@@ -228,13 +228,13 @@ $api_key_text = ($map_api_key!='')?"&key=$map_api_key":'';
 
                   <p class="title">
 
-                    Whizbiz Business Directory Admin
+                    Justmy Business Directory Admin
 
                   </p>
 
                   <p>
 
-                      Whizbiz Business Directory is the most complete and easy manageable Business Directory script
+                      Justmy Business Directory is the most complete and easy manageable Business Directory script
 
                   </p>
 
@@ -334,11 +334,6 @@ $api_key_text = ($map_api_key!='')?"&key=$map_api_key":'';
         </div>
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-12">
-        <a href="http://webhelios.com/app/whizbiz/doc" target="_blank" class="btn btn-info"><?php echo lang_key('see_full_documentation');?></a>
-      </div>
-    </div> 
 <style type="text/css">
   .version{
     font-size: 14px;

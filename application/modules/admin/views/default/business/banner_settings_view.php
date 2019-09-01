@@ -156,7 +156,7 @@
 
             <div class="form-group">
                 <label class="col-sm-3 col-lg-2 control-label"><?php echo lang_key('map_api_key')?> 
-                <a href="http://support.webhelios.com/index.php/en/show/faqdetail/23/Why-and-how-to-get-google-api-key" target="_blank" data-toggle="tooltip" data-placement="left" title="Get api key from google">[?]</a>:</label>
+                <a href="http://support.justmy.com/index.php/en/show/faqdetail/23/Why-and-how-to-get-google-api-key" target="_blank" data-toggle="tooltip" data-placement="left" title="Get api key from google">[?]</a>:</label>
                 <div class="col-sm-4 col-lg-5 controls">
                     <?php $v = (set_value('map_api_key')!='')?set_value('map_api_key'):get_settings('banner_settings','map_api_key','');?>
                     <input class="form-control" type="text" name="map_api_key" id="map_api_key" value="<?php echo $v;?>">

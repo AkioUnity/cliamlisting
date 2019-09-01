@@ -39,7 +39,7 @@
                             <div class="col-sm-offset-3 col-sm-9">
                                 <div class="checkbox">
                                     <label>
-                                        demo user : user@webhelios.com pass: 12345
+                                        demo user : user@justmy.com pass: 12345
                                     </label>
                                 </div>
                             </div>

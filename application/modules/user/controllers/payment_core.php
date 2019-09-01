@@ -14,9 +14,9 @@
 
  * @subpackage	UserCore
 
- * @author		webhelios
+ * @author		Cai Xian
 
- * @link		http://webhelios.com
+ * @link		http://justmy.com
 
  */
 

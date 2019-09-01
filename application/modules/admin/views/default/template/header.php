@@ -5,7 +5,7 @@
 	<a class="navbar-brand" href="<?php echo site_url('admin');?>">
 	<small>
 	<img src="<?php echo base_url('assets/admin/img/logo_webhelios_64.png')?>"  style="height:30px">
-	<span>Webhelios Admin</span> </small>
+	<span>JustMy Admin</span> </small>
 	</a>
 
 	<div class="pull-left logged-in-user-info">

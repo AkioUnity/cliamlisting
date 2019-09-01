@@ -7,8 +7,8 @@
  *
  * @package		Show
  * @subpackage	ReviewCore
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 

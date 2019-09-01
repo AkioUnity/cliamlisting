@@ -6,8 +6,8 @@
  *
  * @package		User
  * @subpackage	User
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once'payment_core.php';
 class Payment extends Payment_core {

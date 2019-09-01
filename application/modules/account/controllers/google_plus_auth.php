@@ -7,7 +7,7 @@
  * @package		bookit
  * @subpackage	Admin
  * @author		sc mondal
- * @link		http://scmondal.webhelios.com
+ * @link		http://scmondal.justmy.com
  */
 require_once'google_plus_auth_core.php';
 class Google_plus_auth extends Google_plus_auth_core {

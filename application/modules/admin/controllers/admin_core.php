@@ -8,7 +8,7 @@
  * @package		Admin
  * @subpackage	Admin
  * @author		sc mondal
- * @link		http://webhelios.com
+ * @link		http://justmy.com
  *
  */
 

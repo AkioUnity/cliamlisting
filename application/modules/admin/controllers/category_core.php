@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	Category
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 

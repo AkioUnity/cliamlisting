@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	purchase
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 require_once'purchase_core.php';
 class Purchase extends Purchase_core {

@@ -6,8 +6,7 @@
  *
  * @package     Admin
  * @subpackage  users_model_core
- * @author      webhelios
- * @link        http://webhelios.com
+  * @link        http://justmy.com
  */
 
 class Users_model_core extends CI_Model

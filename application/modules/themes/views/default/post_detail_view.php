@@ -112,7 +112,7 @@ if(count($blogpost)<=0){
                     <div class="blog-comments">
                         <?php $comment_settings = get_settings('business_settings', 'enable_blog_comment', 'No'); ?>
                         <?php if($comment_settings == 'Disqus Comment'){ ?>
-                            <?php $disqus_shortname = get_settings('business_settings', 'disqus_blog_shortname', 'webhelios'); ?>
+                            <?php $disqus_shortname = get_settings('business_settings', 'disqus_blog_shortname', 'justmy'); ?>
                             <div id="disqus_thread"></div>
                             <script type="text/javascript">
                                 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */

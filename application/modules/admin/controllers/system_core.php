@@ -6,8 +6,8 @@
  *
  * @package		Admin
  * @subpackage	System
- * @author		webhelios
- * @link		http://webhelios.com
+ * @author		Cai Xian
+ * @link		http://justmy.com
  */
 
 require_once'translate.php';
