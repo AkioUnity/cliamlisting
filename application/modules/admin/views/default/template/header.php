@@ -52,11 +52,11 @@
             $languages  = $CI->config->item('active_languages');
 
             ?>
-            <a data-toggle="dropdown" href="" class="user-menu dropdown-toggle">
-                <i class="fa fa-globe"></i>
-                <span class="hhh user_info"><?php echo (isset($languages[$curr_lang]))?$languages[$curr_lang]:'language';?></span>
-                <i class="fa fa-caret-down"></i>
-            </a>
+<!--            <a data-toggle="dropdown" href="" class="user-menu dropdown-toggle">-->
+<!--                <i class="fa fa-globe"></i>-->
+<!--                <span class="hhh user_info">--><?php //echo (isset($languages[$curr_lang]))?$languages[$curr_lang]:'language';?><!--</span>-->
+<!--                <i class="fa fa-caret-down"></i>-->
+<!--            </a>-->
 
             <?php
 

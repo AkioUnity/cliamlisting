@@ -128,22 +128,6 @@ $api_key_text = ($map_api_key!='')?"&key=$map_api_key":'';
 
 
 </script>
-
-
-      <div class="page-title">
-
-        <div>
-
-          <h1><i class="fa fa-file-o"></i> <?php echo lang_key('dashboard');?> <div class="version">JustMy business directory - version : <?php echo $config[0]->version;?></div></h1>
-
-          <h4><?php echo lang_key('overview_stats_more');?></h4>
-
-        </div>
-
-      </div>
-
-
-
 <div class="row">
     <div class="col-md-12">
         <div class="box">

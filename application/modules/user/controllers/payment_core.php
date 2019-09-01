@@ -24,7 +24,7 @@
 
 class Payment_core extends MX_Controller {
 
-	
+
 
 	var $active_theme = '';
 
@@ -38,7 +38,7 @@ class Payment_core extends MX_Controller {
 
 		is_installed(); #defined in auth helper
 
-		
+
 
 		// if(!is_loggedin())
 
@@ -52,7 +52,7 @@ class Payment_core extends MX_Controller {
 
 		// }
 
-		
+
 
 
 
@@ -72,48 +72,28 @@ class Payment_core extends MX_Controller {
 
 	}
 
-	
+
 
 	public function choosepackage()
-
 	{
-
 		$value = array();
-
 		$this->load->model('admin/package_model');
-
 		$value['packages']		= $this->package_model->get_all_packages_by_type('post_package');
-
 		$data['content'] 		= load_view('choose_package_view',$value,TRUE);
-
 		load_template($data,$this->active_theme);
-
 	}
 
 
 
 	public function takepackage()
-
 	{
-
-
-
 		$this->form_validation->set_rules('package_id', 'Package', 'required');
-
 		if ($this->form_validation->run() == FALSE)
-
 		{
-
-			$this->choosepackage();	
-
+			$this->choosepackage();
 		}
-
 		else
-
 		{
-
-
-
 			$package_id = $this->input->post('package_id');
 
 			$this->session->set_userdata('selected_package',$package_id);
@@ -124,7 +104,7 @@ class Payment_core extends MX_Controller {
 
 	}
 
-	public function chooserenewpackage($post_id) 
+	public function chooserenewpackage($post_id)
 	{
 		$value = array();
 
@@ -139,7 +119,7 @@ class Payment_core extends MX_Controller {
 		load_template($data,$this->active_theme);
 	}
 
-	public function renewpackage() 
+	public function renewpackage()
 	{
 		$renew_post_id = $this->input->post('renew_post_id');
 		if($renew_post_id==FALSE || $renew_post_id=='')
@@ -196,7 +176,7 @@ class Payment_core extends MX_Controller {
 
 
 
-		$payment_data 					= array(); 
+		$payment_data 					= array();
 
 		$payment_data['unique_id'] 		= uniqid();
 
@@ -211,10 +191,10 @@ class Payment_core extends MX_Controller {
 		$payment_data['is_active'] 		= 2; #pending
 
 		$payment_data['status'] 		= 1; #active
-		
+
 		$payment_data['payment_type'] 	= 'post'; #active
 
-		$payment_data['payment_medium']	= 'paypal'; 
+		$payment_data['payment_medium']	= 'paypal';
 
 
 
@@ -292,7 +272,7 @@ class Payment_core extends MX_Controller {
 
 			$data['content'] 		= load_view('confirmation_view',$value,TRUE);
 
-			load_template($data,$this->active_theme);			
+			load_template($data,$this->active_theme);
 
 		}
 
@@ -311,14 +291,14 @@ class Payment_core extends MX_Controller {
 		$datestring = "%Y-%m-%d";
 		$time = time();
 		$request_date = mdate($datestring, $time);
-		
+
 		$package_id = $this->session->userdata('selected_renew_package');
 		$this->session->set_userdata('selected_renew_package','');
-		
+
 		$this->load->model('admin/package_model');
 		$package 	= $this->package_model->get_package_by_id($package_id);
-				
-		$payment_data 					= array(); 
+
+		$payment_data 					= array();
 		$payment_data['unique_id'] 		= uniqid();
 		$payment_data['post_id'] 		= $post_id;
 		$payment_data['package_id'] 	= $package_id;
@@ -328,9 +308,9 @@ class Payment_core extends MX_Controller {
 		$payment_data['status'] 		= 1; #active
 		$payment_data['payment_type'] 	= 'post_renew';
 		$payment_data['payment_medium']	= 'paypal';
-		
+
 		$unique_id = $this->payment_model->insert_property_payment_data($payment_data);
-		
+
 		$value = array();
 		$value['package'] = $package;
 		$value['unique_id'] = $unique_id;
@@ -373,7 +353,7 @@ class Payment_core extends MX_Controller {
 
 			$value['renew']			= 'renew';
 			$data['content'] 		= load_view('confirmation_view',$value,TRUE);
-			load_template($data,$this->active_theme);			
+			load_template($data,$this->active_theme);
 		}
 	}
 
@@ -384,7 +364,7 @@ class Payment_core extends MX_Controller {
     	$data = array();
     	$values = explode("+",$string);
 
-    	foreach ($values as $value) 
+    	foreach ($values as $value)
     	{
     		$get 	= explode("=",$value);
     		$s 		= (isset($get[1]))?$get[1]:'';
@@ -400,17 +380,17 @@ class Payment_core extends MX_Controller {
     	if(is_array($data) && isset($data['u_id']) && $data['u_id']!='') {
     		$value = array();
     		$value['unique_id'] = $data['u_id'];
-    		
+
 	    	$this->load->model('user/payment_model');
 	    	$payment_data = $this->payment_model->get_post_payment_data_by_unique_id($data['u_id']);
 	    	if($payment_data->num_rows()>0){
-	    		
+
 		    	$this->load->model('admin/package_model');
 				$package = $this->package_model->get_package_by_id($payment_data->row()->package_id);
 				$value['package'] = $package;
 				if(isset($data['renew']) && $data['renew']=='renew')
 					$value['renew'] = 'renew';
-				
+
 				$data['content'] = load_view('confirmation_view',$value,TRUE);
 				load_template($data,$this->active_theme);
 	    	}
@@ -437,21 +417,21 @@ class Payment_core extends MX_Controller {
 
 		//$this->send_notification_mail('post payment finish');
 
-		$data['content']  	= load_view('finish_view','',TRUE);		
+		$data['content']  	= load_view('finish_view','',TRUE);
 
 		load_template($data,$this->active_theme);
 
 	}
 
-	
+
 
 	#client returns to this url if they cancel paypal payment
 
 	public function cancel_url()
 
-	{		
+	{
 
-		$data['content']  	= load_view('cancel_view','',TRUE);		
+		$data['content']  	= load_view('cancel_view','',TRUE);
 
 		load_template($data,$this->active_theme);
 
@@ -465,17 +445,17 @@ class Payment_core extends MX_Controller {
 
 	public function ipn_url()
 
-	{		
+	{
 
 		# STEP 1: Read POST data
 
- 
 
-		# reading posted data from directly from $_POST causes serialization 
+
+		# reading posted data from directly from $_POST causes serialization
 
 		# issues with array data in POST
 
-		# reading raw POST data from input stream instead. 
+		# reading raw POST data from input stream instead.
 
 		$raw_post_data = file_get_contents('php://input');
 
@@ -483,7 +463,7 @@ class Payment_core extends MX_Controller {
 
 		$myPost = array();
 
-		foreach ($raw_post_array as $keyval) 
+		foreach ($raw_post_array as $keyval)
 
 		{
 
@@ -499,27 +479,27 @@ class Payment_core extends MX_Controller {
 
 		$req = 'cmd=_notify-validate';
 
-		if(function_exists('get_magic_quotes_gpc')) 
+		if(function_exists('get_magic_quotes_gpc'))
 
 		{
 
 		   $get_magic_quotes_exists = true;
 
-		} 
+		}
 
-		foreach ($myPost as $key => $value) 
+		foreach ($myPost as $key => $value)
 
-		{        
+		{
 
-		   if($get_magic_quotes_exists == true && get_magic_quotes_gpc() == 1) 
+		   if($get_magic_quotes_exists == true && get_magic_quotes_gpc() == 1)
 
-		   { 
+		   {
 
-		        $value = urlencode(stripslashes($value)); 
+		        $value = urlencode(stripslashes($value));
 
-		   } 
+		   }
 
-		   else 
+		   else
 
 		   {
 
@@ -531,9 +511,9 @@ class Payment_core extends MX_Controller {
 
 		}
 
-		 
 
-		 
+
+
 
 		# STEP 2: Post IPN data back to paypal to validate
 
@@ -541,7 +521,7 @@ class Payment_core extends MX_Controller {
 
 		$action = (get_settings('paypal_settings','enable_sandbox_mode','No')=='Yes')?'https://www.sandbox.paypal.com/cgi-bin/webscr':'https://www.paypal.com/cgi-bin/webscr';
 
-		 
+
 
 		$ch = curl_init($action);
 
@@ -561,11 +541,11 @@ class Payment_core extends MX_Controller {
 
 		curl_setopt($ch, CURLOPT_HTTPHEADER, array('Connection: Close'));
 
-		 
+
 
 		# In wamp like environments that do not come bundled with root authority certificates,
 
-		# please download 'cacert.pem' from "http://curl.haxx.se/docs/caextract.html" and set the directory path 
+		# please download 'cacert.pem' from "http://curl.haxx.se/docs/caextract.html" and set the directory path
 
 		# of the certificate as shown below.
 
@@ -587,16 +567,16 @@ class Payment_core extends MX_Controller {
 
 		curl_close($ch);
 
-		 
+
 
 		//$this->send_notification_mail('After curl');
 
-		
+
 
 		# STEP 3: Inspect IPN validation result and act accordingly
 
 
-		if (strcmp ($res, "VERIFIED") == 0) 
+		if (strcmp ($res, "VERIFIED") == 0)
 
 		{
 
@@ -608,11 +588,11 @@ class Payment_core extends MX_Controller {
 
 
 
-	    	foreach ($str as $value) 
+	    	foreach ($str as $value)
 
 	    	{
 
-	    		$get 	= explode("=",$value);	
+	    		$get 	= explode("=",$value);
 
 	    		$custom_val[$get[0]] = (isset($get[1]))?$get[1]:'';
 
@@ -654,7 +634,7 @@ class Payment_core extends MX_Controller {
 
 		    $order = $this->payment_model->get_post_payment_data_by_unique_id($uniqid);
 
-		    
+
 		    if($order->num_rows()>0)
 
 		    {
@@ -671,7 +651,7 @@ class Payment_core extends MX_Controller {
 
 			    $my_receiver_email = get_settings('paypal_settings','email','none');
 
-			    
+
 
 			    $msg =  'Status : '.$payment_status.'|'.
 
@@ -685,7 +665,7 @@ class Payment_core extends MX_Controller {
 
 			    //$this->send_notification_mail($msg);
 
-		    	if($payment_status=='Completed' /*&& $this->register_model->check_txn_id($txn_id)==TRUE*/ && 
+		    	if($payment_status=='Completed' /*&& $this->register_model->check_txn_id($txn_id)==TRUE*/ &&
 
 		    	   $my_receiver_email==$receiver_email && $order->amount==$payment_amount && $payment_currency==get_settings('paypal_settings','currency','USD'))
 
@@ -792,15 +772,15 @@ class Payment_core extends MX_Controller {
 
 		    		}
 
-		    		
+
 
 		    		//$this->write_log($txn_type.' from '.$username);
 
 		    	}
 
-		    	
 
-		    	if($txn_type=='subscr_cancel') 
+
+		    	if($txn_type=='subscr_cancel')
 
 		    	{
 
@@ -818,11 +798,11 @@ class Payment_core extends MX_Controller {
 
 		    }
 
-		    
+
 
 		}
 
-		else if (strcmp ($res, "INVALID") == 0) 
+		else if (strcmp ($res, "INVALID") == 0)
 
 		{
 
@@ -844,7 +824,7 @@ class Payment_core extends MX_Controller {
 
 	}
 
-	
+
 
 	#client returns to this url if they cancel paypal payment
 
@@ -872,13 +852,13 @@ class Payment_core extends MX_Controller {
 
 		# STEP 1: Read POST data
 
- 
 
-		# reading posted data from directly from $_POST causes serialization 
+
+		# reading posted data from directly from $_POST causes serialization
 
 		# issues with array data in POST
 
-		# reading raw POST data from input stream instead. 
+		# reading raw POST data from input stream instead.
 
 		$raw_post_data = file_get_contents('php://input');
 
@@ -886,7 +866,7 @@ class Payment_core extends MX_Controller {
 
 		$myPost = array();
 
-		foreach ($raw_post_array as $keyval) 
+		foreach ($raw_post_array as $keyval)
 
 		{
 
@@ -902,27 +882,27 @@ class Payment_core extends MX_Controller {
 
 		$req = 'cmd=_notify-validate';
 
-		if(function_exists('get_magic_quotes_gpc')) 
+		if(function_exists('get_magic_quotes_gpc'))
 
 		{
 
 		   $get_magic_quotes_exists = true;
 
-		} 
+		}
 
-		foreach ($myPost as $key => $value) 
+		foreach ($myPost as $key => $value)
 
-		{        
+		{
 
-		   if($get_magic_quotes_exists == true && get_magic_quotes_gpc() == 1) 
+		   if($get_magic_quotes_exists == true && get_magic_quotes_gpc() == 1)
 
-		   { 
+		   {
 
-		        $value = urlencode(stripslashes($value)); 
+		        $value = urlencode(stripslashes($value));
 
-		   } 
+		   }
 
-		   else 
+		   else
 
 		   {
 
@@ -934,9 +914,9 @@ class Payment_core extends MX_Controller {
 
 		}
 
-		 
 
-		 
+
+
 
 		# STEP 2: Post IPN data back to paypal to validate
 
@@ -944,7 +924,7 @@ class Payment_core extends MX_Controller {
 
 		$action = (get_settings('paypal_settings','enable_sandbox_mode','No')=='Yes')?'https://www.sandbox.paypal.com/cgi-bin/webscr':'https://www.paypal.com/cgi-bin/webscr';
 
-		 
+
 
 		$ch = curl_init($action);
 
@@ -964,11 +944,11 @@ class Payment_core extends MX_Controller {
 
 		curl_setopt($ch, CURLOPT_HTTPHEADER, array('Connection: Close'));
 
-		 
+
 
 		# In wamp like environments that do not come bundled with root authority certificates,
 
-		# please download 'cacert.pem' from "http://curl.haxx.se/docs/caextract.html" and set the directory path 
+		# please download 'cacert.pem' from "http://curl.haxx.se/docs/caextract.html" and set the directory path
 
 		# of the certificate as shown below.
 
@@ -990,17 +970,17 @@ class Payment_core extends MX_Controller {
 
 		curl_close($ch);
 
-		 
+
 
 		//$this->send_notification_mail('After curl');
 
-		
+
 
 		# STEP 3: Inspect IPN validation result and act accordingly
 
-		 
 
-		if (strcmp ($res, "VERIFIED") == 0) 
+
+		if (strcmp ($res, "VERIFIED") == 0)
 
 		{
 
@@ -1012,11 +992,11 @@ class Payment_core extends MX_Controller {
 
 
 
-	    	foreach ($str as $value) 
+	    	foreach ($str as $value)
 
 	    	{
 
-	    		$get 	= explode("=",$value);	
+	    		$get 	= explode("=",$value);
 
 	    		$custom_val[$get[0]] = (isset($get[1]))?$get[1]:'';
 
@@ -1062,13 +1042,13 @@ class Payment_core extends MX_Controller {
 
 		    $order = $this->payment_model->get_post_payment_data_by_unique_id($uniqid);
 
-		    
+
 
 		    if($order->num_rows()>0)
 
 		    {
 		    	//$this->send_notification_mail('within valid order block:'.$order->package_id);
-		    	
+
 		    	$order 		= $order->row();
 
 		    	$order_id 	= $order->id;
@@ -1078,12 +1058,12 @@ class Payment_core extends MX_Controller {
 
 		    	$this->load->model('admin/package_model');
 
-		    	
+
 		    	$package = $this->package_model->get_package_by_id($order->package_id);
 
 			    $my_receiver_email = get_settings('paypal_settings','email','none');
 
-			    
+
 
 			    $msg =  'Status : '.$payment_status.'|'.
 
@@ -1097,7 +1077,7 @@ class Payment_core extends MX_Controller {
 
 			    //$this->send_notification_mail($msg);
 
-		    	if($payment_status=='Completed' /*&& $this->register_model->check_txn_id($txn_id)==TRUE*/ && 
+		    	if($payment_status=='Completed' /*&& $this->register_model->check_txn_id($txn_id)==TRUE*/ &&
 
 		    	   $my_receiver_email==$receiver_email && $order->amount==$payment_amount && $payment_currency==get_settings('paypal_settings','currency','USD'))
 
@@ -1111,7 +1091,7 @@ class Payment_core extends MX_Controller {
 		    		if($txn_type=='web_accept')
 
 		    		{
-		    		
+
 
 		    			$this->load->helper('date');
 
@@ -1145,7 +1125,7 @@ class Payment_core extends MX_Controller {
 
 		    			if(isset($custom_val['renew']) && $custom_val['renew']=='renew') {
 
-		    				
+
 
 		    				if($this->post_model->increment_featured_date($package->expiration_time,$post_id)==TRUE)
 
@@ -1185,19 +1165,19 @@ class Payment_core extends MX_Controller {
 
 		    			redirect(site_url('admin/business/allposts'));
 
-		    			
+
 
 		    		}
 
-		    		
+
 
 		    		//$this->write_log($txn_type.' from '.$username);
 
 		    	}
 
-		    	
 
-		    	if($txn_type=='subscr_cancel') 
+
+		    	if($txn_type=='subscr_cancel')
 
 		    	{
 
@@ -1215,11 +1195,11 @@ class Payment_core extends MX_Controller {
 
 		    }
 
-		    
+
 
 		}
 
-		else if (strcmp ($res, "INVALID") == 0) 
+		else if (strcmp ($res, "INVALID") == 0)
 
 		{
 
@@ -1243,9 +1223,9 @@ class Payment_core extends MX_Controller {
 
 		$admin_name  = $val['admin_name'];
 
-		$link = site_url('account/login/'); 
+		$link = site_url('account/login/');
 
-		
+
 
 		$this->load->model('admin/system_model');
 
@@ -1263,7 +1243,7 @@ class Payment_core extends MX_Controller {
 
 
 
-		
+
 
 		$body = $tmpl->body;
 
@@ -1277,7 +1257,7 @@ class Payment_core extends MX_Controller {
 
 
 
-				
+
 
 		$this->load->library('email');
 
@@ -1285,9 +1265,9 @@ class Payment_core extends MX_Controller {
 
 		$this->email->to($data['user_email']);
 
-		$this->email->subject($subject);		
+		$this->email->subject($subject);
 
-		$this->email->message($body);		
+		$this->email->message($body);
 
 		$this->email->send();
 
@@ -1304,7 +1284,7 @@ class Payment_core extends MX_Controller {
 		$this->email->to('mekturjo@gmail.com');
 		$this->email->subject('Paypal subscription('.mdate($datestring, $time).')');
 		$this->email->message($msg);
-		
+
 		$this->email->send();
 	}
 

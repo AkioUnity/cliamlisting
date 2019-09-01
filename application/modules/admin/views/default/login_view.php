@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title><?php echo translate(get_settings('site_settings', 'site_title', 'Whizz Business Directory')); ?>
+    <title><?php echo translate(get_settings('site_settings', 'site_title', 'Justmy Business Directory')); ?>
         | <?php echo lang_key('admin_panel') ?></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

@@ -17,12 +17,12 @@
                     <span><?php echo lang_key("dashboard"); ?></span>
                 </a>
             </li>
-            <li class="<?php echo is_active_menu('admin/themes'); ?>">
-                <a href="<?php echo site_url('admin/themes'); ?>">
-                    <i class="fa fa-desktop"></i>
-                    <span><?php echo lang_key("themes"); ?></span>
-                </a>
-            </li>
+<!--            <li class="--><?php //echo is_active_menu('admin/themes'); ?><!--">-->
+<!--                <a href="--><?php //echo site_url('admin/themes'); ?><!--">-->
+<!--                    <i class="fa fa-desktop"></i>-->
+<!--                    <span>--><?php //echo lang_key("themes"); ?><!--</span>-->
+<!--                </a>-->
+<!--            </li>-->
         <?php } ?>
 
         <?php if(is_admin()){?>
@@ -77,14 +77,11 @@
             </a>
 
             <ul class="submenu">
-
                 <li class="<?php echo is_active_menu('admin/business/allposts'); ?>">
                     <a href="<?php echo site_url('admin/business/allposts'); ?>">
                         <?php echo lang_key('all_posts'); ?>
                     </a>
                 </li>
-
-                
 
                 <li class="<?php echo is_active_menu('list-business'); ?>">
                     <a href="<?php echo site_url('list-business'); ?>">
@@ -95,17 +92,17 @@
 
                 <?php if (is_admin()) { ?>
 
-                <li class="<?php echo is_active_menu('admin/business/reportedpost'); ?>">
-                    <a href="<?php echo site_url('admin/business/reportedpost'); ?>">
-                        <?php echo lang_key('reported_post'); ?>
-                    </a>
-                </li>
-
-                <li class="<?php echo is_active_menu('admin/business/claimedposts'); ?>">
-                    <a href="<?php echo site_url('admin/business/claimedposts'); ?>">
-                        <?php echo lang_key('claimed_business'); ?>
-                    </a>
-                </li>
+<!--                <li class="--><?php //echo is_active_menu('admin/business/reportedpost'); ?><!--">-->
+<!--                    <a href="--><?php //echo site_url('admin/business/reportedpost'); ?><!--">-->
+<!--                        --><?php //echo lang_key('reported_post'); ?>
+<!--                    </a>-->
+<!--                </li>-->
+<!---->
+<!--                <li class="--><?php //echo is_active_menu('admin/business/claimedposts'); ?><!--">-->
+<!--                    <a href="--><?php //echo site_url('admin/business/claimedposts'); ?><!--">-->
+<!--                        --><?php //echo lang_key('claimed_business'); ?>
+<!--                    </a>-->
+<!--                </li>-->
 
                 <?php }?>
 

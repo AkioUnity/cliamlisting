@@ -3,145 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="59f51e49-8f14-48da-84f5-f2064f28c873" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/config/googleplus.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/googleplus.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/account/controllers/account.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/account/controllers/account.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/account/controllers/account_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/account/controllers/account_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/account/controllers/fbauth.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/account/controllers/fbauth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/account/controllers/fbauth_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/account/controllers/fbauth_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/account/controllers/google_plus_auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/account/controllers/google_plus_auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/account/controllers/google_plus_auth_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/account/controllers/google_plus_auth_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/account/models/auth_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/account/models/auth_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/account/models/auth_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/account/models/auth_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/admin_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/admin_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/auth_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/auth_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/blog.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/blog.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/blog_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/blog_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/business.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/business.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/business_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/business_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/category_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/category_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/package.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/package.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/package_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/package_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/page_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/page_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/plugins.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/plugins.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/plugins_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/plugins_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/purchase.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/purchase.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/purchase_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/purchase_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/slider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/slider_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/slider_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/system.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/system.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/system_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/system_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/themes.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/themes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/themes_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/themes_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/translate.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/translate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/users.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/users.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/users_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/users_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/widgets.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/widgets.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/controllers/widgets_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/widgets_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/admin_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/admin_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/admin_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/admin_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/auth_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/auth_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/auth_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/auth_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/blog_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/blog_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/blog_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/blog_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/business_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/business_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/business_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/business_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/category_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/category_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/category_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/category_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/distance_info_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/distance_info_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/distance_info_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/distance_info_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/options_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/options_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/options_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/options_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/package_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/package_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/package_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/package_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/page_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/page_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/page_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/page_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/plugins_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/plugins_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/plugins_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/plugins_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/slider_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/slider_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/slider_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/slider_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/system_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/system_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/system_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/system_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/themes_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/themes_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/themes_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/themes_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/users_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/users_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/users_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/users_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/widget_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/widget_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/models/widget_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/models/widget_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/views/default/business/banner_settings_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/views/default/business/banner_settings_view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/views/default/business/settings_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/views/default/business/settings_view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/views/default/regdomain_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/views/default/regdomain_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/admin/views/default/login_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/views/default/login_view.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/modules/admin/views/default/template/dashboard_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/views/default/template/dashboard_view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/admin/views/default/template/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/views/default/template/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/modules/admin/views/default/template/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/views/default/template/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/install/controllers/install.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/install/controllers/install.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/install/controllers/install_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/install/controllers/install_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/install/views/template_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/install/views/template_view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/show/controllers/review.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/show/controllers/review.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/show/controllers/review_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/show/controllers/review_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/show/controllers/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/show/controllers/show.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/show/controllers/show404.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/show/controllers/show404.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/show/controllers/show404_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/show/controllers/show404_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/show/controllers/show_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/show/controllers/show_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/show/models/review_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/show/models/review_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/show/models/review_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/show/models/review_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/show/models/show_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/show/models/show_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/show/models/show_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/show/models/show_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/themes/views/default/assets/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/themes/views/default/assets/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/themes/views/default/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/themes/views/default/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/themes/views/default/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/themes/views/default/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/themes/views/default/includes_bottom.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/themes/views/default/includes_bottom.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/themes/views/default/includes_top.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/themes/views/default/includes_top.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/themes/views/default/login_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/themes/views/default/login_view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/themes/views/default/post_detail_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/themes/views/default/post_detail_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/admin/views/default/template/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/views/default/template/navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/admin/views/default/template/template_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/admin/views/default/template/template_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/themes/views/default/assets/img/favicon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/themes/views/default/assets/img/favicon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/themes/views/default/assets/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/themes/views/default/assets/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/themes/views/default/layer_slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/themes/views/default/layer_slider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/modules/themes/views/default/template_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/themes/views/default/template_view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/user/controllers/payment.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/user/controllers/payment.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/modules/user/controllers/payment_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/user/controllers/payment_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/user/controllers/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/user/controllers/user.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/user/controllers/user_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/user/controllers/user_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/user/models/payment_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/user/models/payment_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/user/models/payment_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/user/models/payment_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/user/models/post_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/user/models/post_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/user/models/post_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/user/models/post_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/user/models/user_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/user/models/user_model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/user/models/user_model_core.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/user/models/user_model_core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/widgets/contact_text.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/widgets/contact_text.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/widgets/fb_likebox.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/widgets/fb_likebox.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/widgets/follow_us.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/widgets/follow_us.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/widgets/top_bar.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/widgets/top_bar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/widgets/top_bar_social.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/widgets/top_bar_social.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/admin/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/admin/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/img/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/admin/img/logo_webhelios.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/img/logo_webhelios.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/admin/img/logo_webhelios_64.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/admin/img/logo_webhelios_64.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo/logo-default.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo/logo-default.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo_webhelios.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo_webhelios.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo_webhelios_64.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo_webhelios_64.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/ar.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/bn.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/da.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/de.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/widgets/adsense_full_width.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/widgets/adsense_full_width.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/widgets/adsense_sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/widgets/adsense_sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbc_config/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dbc_config/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dbc_config/locals/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dbc_config/locals/en.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/es.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/fi.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/fr.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/hi.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/it.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/nl.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/pl.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/pt.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/ro.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/ru.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/th.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/tr.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/ur.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbc_config/locals/zh.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/helpers/dbcbase_helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/helpers/dbcbase_helper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/helpers/dbcbusiness_helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/helpers/dbcbusiness_helper.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -152,41 +27,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="purchase_core.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/purchase_core.php">
+      <file leaf-file-name="navigation.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/modules/admin/views/default/template/navigation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="498">
+              <caret line="104" column="28" lean-forward="true" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="88" column="22" selection-start-line="88" selection-start-column="15" selection-end-line="88" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payment_core.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/user/controllers/payment_core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="98" column="73" lean-forward="true" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/show/controllers/show.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show_core.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/show/controllers/show_core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbcbase_helper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/helpers/dbcbase_helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="335" column="87" selection-start-line="335" selection-start-column="78" selection-end-line="335" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="choose_package_view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/themes/views/default/choose_package_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="en.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbc_config/locals/en.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="18" column="19" selection-start-line="18" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="success_view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/themes/views/default/success_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account_core.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/account/controllers/account_core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="846" column="48" selection-start-line="846" selection-start-column="48" selection-end-line="846" selection-end-column="48" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users_model_core.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/modules/admin/models/users_model_core.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post_detail_view.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/themes/views/default/post_detail_view.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="114" column="120" selection-start-line="114" selection-start-column="120" selection-end-line="114" selection-end-column="120" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/admin/views/default/template/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -195,36 +124,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>curl_exec</find>
-      <find>purchase/regdomain</find>
-      <find>crop</find>
-      <find>crop(</find>
-      <find>webheliosteam@gmail.com</find>
-      <find>tob_bar</find>
-      <find>top_bar</find>
-      <find>tb-language dropdown pull-right</find>
-      <find>&quot;top-bar</find>
-      <find>&lt;footer&gt;</find>
-      <find>custom.css</find>
-      <find>body</find>
-      <find>hizbiz Business</find>
-      <find>Whizbiz B</find>
-      <find>Whizbiz</find>
-      <find>Search and post category top ads</find>
-      <find>Business Classified</find>
-      <find>whiz</find>
-      <find>savedbsettings</find>
-      <find>addkey</find>
-      <find>googleplus</find>
-      <find>Webhelios.com</find>
-      <find>webhelios.com</find>
-      <find>dashboard_v</find>
-      <find>whizbiz</find>
-      <find>Whizbiz</find>
-      <find>,'whizbiz</find>
-      <find>@author		webhelios</find>
-      <find>JustmyDC</find>
-      <find>webhelios</find>
+      <find>LIST YOUR LOCAL SHOPS</find>
+      <find>&lt;img class=&quot;img-responsive&quot; alt=&quot;Ad1&quot; src=&quot;http://placehold.it/300x250</find>
+      <find>sidebar.php</find>
+      <find>instagram</find>
+      <find>liosteam</find>
+      <find>Whizz</find>
+      <find>&lt;title&gt;&lt;</find>
+      <find>sitemap(</find>
+      <find>sitemap()</find>
+      <find>/sitemap</find>
+      <find>hhh user_info</find>
+      <find>config.xml</find>
+      <find>map_data</find>
+      <find>Overview, Stats and More</find>
+      <find>page-title</find>
+      <find>Whiz</find>
+      <find>Your account registration is successfull.</find>
+      <find>reg_success_message</find>
+      <find>success_view</find>
+      <find>success</find>
+      <find>list-business</find>
+      <find>choose-package</find>
+      <find>registerinfo</find>
+      <find>show/</find>
+      <find>take</find>
+      <find>selected_package</find>
+      <find>list-bu</find>
+      <find>nav nav-list</find>
+      <find>user_type</find>
+      <find>'user_type</find>
     </findStrings>
     <replaceStrings>
       <replace>Justmy B</replace>
@@ -232,6 +161,7 @@
       <replace>justmy.com</replace>
       <replace>,'justmy</replace>
       <replace>@author		Cai Xian</replace>
+      <replace>Justmy</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -246,11 +176,9 @@
         <option value="$PROJECT_DIR$/application/modules/themes/views/default/includes_top.php" />
         <option value="$PROJECT_DIR$/application/modules/themes/views/default/footer.php" />
         <option value="$PROJECT_DIR$/application/modules/themes/views/default/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/dbc_config/locals/en.yml" />
         <option value="$PROJECT_DIR$/application/modules/install/controllers/install_core.php" />
         <option value="$PROJECT_DIR$/application/config/googleplus.php" />
         <option value="$PROJECT_DIR$/system/helpers/dbcbase_helper.php" />
-        <option value="$PROJECT_DIR$/application/modules/admin/views/default/template/dashboard_view.php" />
         <option value="$PROJECT_DIR$/application/config/database.php" />
         <option value="$PROJECT_DIR$/assets/admin/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/application/modules/admin/views/default/template/footer.php" />
@@ -258,8 +186,18 @@
         <option value="$PROJECT_DIR$/application/modules/admin/models/users_model_core.php" />
         <option value="$PROJECT_DIR$/application/modules/widgets/fb_likebox.php" />
         <option value="$PROJECT_DIR$/application/modules/install/views/template_view.php" />
-        <option value="$PROJECT_DIR$/application/modules/admin/views/default/template/header.php" />
         <option value="$PROJECT_DIR$/application/modules/themes/views/default/post_detail_view.php" />
+        <option value="$PROJECT_DIR$/application/modules/themes/views/default/layer_slider.php" />
+        <option value="$PROJECT_DIR$/application/modules/widgets/adsense_full_width.php" />
+        <option value="$PROJECT_DIR$/application/modules/widgets/adsense_sidebar.php" />
+        <option value="$PROJECT_DIR$/application/modules/themes/views/default/template_view.php" />
+        <option value="$PROJECT_DIR$/application/modules/admin/views/default/template/header.php" />
+        <option value="$PROJECT_DIR$/dbc_config/config.xml" />
+        <option value="$PROJECT_DIR$/application/modules/admin/views/default/template/dashboard_view.php" />
+        <option value="$PROJECT_DIR$/dbc_config/locals/en.yml" />
+        <option value="$PROJECT_DIR$/application/modules/user/controllers/user_core.php" />
+        <option value="$PROJECT_DIR$/application/modules/user/controllers/payment_core.php" />
+        <option value="$PROJECT_DIR$/application/modules/admin/views/default/template/navigation.php" />
       </list>
     </option>
   </component>
@@ -505,6 +443,21 @@
               <item name="cliamlisting" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cliamlisting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cliamlisting" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cliamlisting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cliamlisting" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="widgets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -550,6 +503,12 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cliamlisting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cliamlisting" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="backups" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cliamlisting" type="b2602c69:ProjectViewProjectNode" />
@@ -662,12 +621,20 @@
       <workItem from="1566868350927" duration="1659000" />
       <workItem from="1566878653773" duration="2148000" />
       <workItem from="1567209654510" duration="3893000" />
-      <workItem from="1567317227355" duration="4609000" />
+      <workItem from="1567317227355" duration="12379000" />
     </task>
+    <task id="LOCAL-00001" summary="changed names">
+      <created>1567322962986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567322962986</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14365000" />
+    <option name="totallyTimeSpent" value="22135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -700,115 +667,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed names" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed names" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/purchase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/core/CodeIgniter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbc_config/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="57" column="35" lean-forward="true" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/core/CodeIgniter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbc_config/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/purchase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/core/CodeIgniter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="68" column="34" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/curl/curl_d.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1342">
-          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/libraries/Image_lib.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="961" lean-forward="true" selection-start-line="961" selection-end-line="961" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbc_config/locals/hi.yml" />
-    <entry file="file://$PROJECT_DIR$/dbc_config/locals/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/account/controllers/fbauth_core.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/core/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/account/controllers/account_core.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/modules/account/controllers/account.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -873,24 +736,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/helpers/dbcbusiness_helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="866" column="34" selection-start-line="866" selection-start-column="34" selection-end-line="866" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/third_party/MX/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbc_config/locals/en.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="523" column="28" lean-forward="true" selection-start-line="523" selection-start-column="28" selection-end-line="523" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -926,34 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
           <caret line="738" column="9" selection-start-line="738" selection-start-column="9" selection-end-line="738" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/admin_core.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="64" column="56" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/default/template/dashboard_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="335" column="10" selection-start-line="335" selection-start-column="10" selection-end-line="335" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/helpers/dbcbase_helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="856" column="13" selection-start-line="856" selection-start-column="13" selection-end-line="856" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/show/controllers/show_core.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="664" column="89" selection-start-line="664" selection-start-column="83" selection-end-line="664" selection-end-column="89" />
         </state>
       </provider>
     </entry>
@@ -1004,16 +825,6 @@
     <entry file="file://$PROJECT_DIR$/assets/images/logo_webhelios_64.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/default/template/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="69" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#small#0;n#a#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/modules/install/views/template_view.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1033,8 +844,182 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/modules/admin/models/users_model_core.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        <state relative-caret-position="418">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/themes/views/default/layer_slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/widgets/adsense_full_width.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/widgets/adsense_sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/themes/views/default/template_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/widgets/follow_us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/default/template/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/admin_core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="64" column="70" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbc_config/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/helpers/dbcbusiness_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="1577" column="32" selection-start-line="1577" selection-start-column="32" selection-end-line="1577" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/default/template/dashboard_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="144" column="6" selection-start-line="144" selection-start-column="6" selection-end-line="144" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/install/views/check_config_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="159" selection-start-line="159" selection-end-line="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbc_config/locals/en.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="18" column="19" selection-start-line="18" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/themes/views/default/success_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/account/controllers/account_core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="846" column="48" selection-start-line="846" selection-start-column="48" selection-end-line="846" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/backups/mybackup(2019-9-1).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="914" column="251" selection-start-line="914" selection-start-column="251" selection-end-line="914" selection-end-column="251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/show/controllers/show.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/show/controllers/show_core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/user/controllers/payment_core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="98" column="73" lean-forward="true" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="88" column="22" selection-start-line="88" selection-start-column="15" selection-end-line="88" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/user/controllers/user_core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="96" column="9" lean-forward="true" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/themes/views/default/choose_package_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/helpers/dbcbase_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="335" column="87" selection-start-line="335" selection-start-column="78" selection-end-line="335" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/default/template/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="104" column="28" lean-forward="true" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
         </state>
       </provider>
     </entry>

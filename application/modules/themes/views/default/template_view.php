@@ -42,7 +42,7 @@
     }
     ?>
 
-    <title><?php echo translate(get_settings('site_settings', 'site_title', 'Whizz Business Directory')); ?>
+    <title><?php echo translate(get_settings('site_settings', 'site_title', 'Justmy Business Directory')); ?>
         | <?php echo translate(lang_key($sub_title)); ?></title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
@@ -58,7 +58,7 @@
     {
         if(!isset($post) && !isset($blog_meta))
         {
-            $page_title = translate(get_settings('site_settings', 'site_title', 'Whizz Business Directory')).'|'.translate(lang_key($sub_title));
+            $page_title = translate(get_settings('site_settings', 'site_title', 'Justmy Business Directory')).'|'.translate(lang_key($sub_title));
             $fb_app_id = get_settings('business_settings','fb_app_id','none');
 
     ?>

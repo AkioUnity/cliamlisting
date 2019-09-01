@@ -1,8 +1,5 @@
 <?xml version="1.0"?>
 <config>
-
 	<is_installed>yes</is_installed>
-
-	<version>1.8.0</version>
-
+	<version>1.0.0</version>
 </config>
