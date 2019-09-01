@@ -26,7 +26,7 @@
                         </div>
                     </div>
                     <div class="clearfix"></div>
-                    <a href="" class="show-widget-positions"><?php echo lang_key('explain_widget_position');?></a>
+<!--                    <a href="" class="show-widget-positions">--><?php //echo lang_key('explain_widget_position');?><!--</a>-->
                 </form>
             </div>
         </div>

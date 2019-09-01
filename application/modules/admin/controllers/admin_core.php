@@ -134,6 +134,7 @@ class Admin_core extends CI_Controller {
 	#update profile 
 	public function updateprofile()
 	{
+	    return;
 
         $this->form_validation->set_rules('first_name',	'First Name', 		'required|xss_clean');
         $this->form_validation->set_rules('last_name',	'last Name', 		'required|xss_clean');

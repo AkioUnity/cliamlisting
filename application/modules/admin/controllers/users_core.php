@@ -293,6 +293,7 @@ class Users_core extends CI_Controller {
 
 	public function upload_profile_photo()
 	{
+	    return;
 		$date_dir = 'profile_photos/';
 		$config['upload_path'] = './uploads/profile_photos/';
 		$config['allowed_types'] = 'gif|jpg|JPG|png';
