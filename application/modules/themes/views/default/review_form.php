@@ -1,6 +1,7 @@
 
 <div class="review-panel">
-    <form id="review-form" method="post" action="<?php echo site_url('show/review/create_review');?>" role="form">
+    <form >
+<!--            id="review-form" method="post" action="--><?php //echo site_url('show/review/create_review');?><!--" role="form">-->
         <input type="hidden" value="<?php echo $post_id; ?>" name="post_id">
 
         <div class="form-group">
@@ -29,23 +30,23 @@
     </form>
 </div>
 
-<script type="text/javascript">
-    jQuery(document).ready(function(){
-        jQuery('.rating-input > li').hover(function(e){
-            e.preventDefault();
-            var curr_li = parseInt(jQuery(this).attr('star'));
-            jQuery('#rating').val(curr_li);
-
-            jQuery('.rating-input > li').each(function(){
-                if(parseInt(jQuery(this).attr('star'))<=curr_li)
-                {
-                    jQuery(this).addClass('active');
-                }
-                else
-                {
-                    jQuery(this).removeClass('active');
-                }
-            });
-        });
-    });
-</script>
+<!--<script type="text/javascript">-->
+<!--    jQuery(document).ready(function(){-->
+<!--        jQuery('.rating-input > li').hover(function(e){-->
+<!--            e.preventDefault();-->
+<!--            var curr_li = parseInt(jQuery(this).attr('star'));-->
+<!--            jQuery('#rating').val(curr_li);-->
+<!---->
+<!--            jQuery('.rating-input > li').each(function(){-->
+<!--                if(parseInt(jQuery(this).attr('star'))<=curr_li)-->
+<!--                {-->
+<!--                    jQuery(this).addClass('active');-->
+<!--                }-->
+<!--                else-->
+<!--                {-->
+<!--                    jQuery(this).removeClass('active');-->
+<!--                }-->
+<!--            });-->
+<!--        });-->
+<!--    });-->
+<!--</script>-->

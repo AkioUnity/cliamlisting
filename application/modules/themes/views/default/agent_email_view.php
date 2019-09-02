@@ -1,5 +1,6 @@
 <?php echo (isset($msg) && $msg!='')?$msg:'';//updated on version 1.8?>
-<form role="form" action="<?php echo site_url('show/sendemailtoagent/'.$post->created_by);?>" method="post" id="message-form">
+<form >
+<!--  role="form"   action="--><?php //echo site_url('show/sendemailtoagent/'.$post->created_by);?><!--" method="post" id="message-form"-->
     <input type="hidden" name="unique_id" value="<?php echo $post->unique_id;?>">
     <input type="hidden" name="title" value="<?php echo get_post_data_by_lang($post,'title'); ?>">
     <input type="hidden" name="url" value="<?php echo post_detail_url($post); ?>">

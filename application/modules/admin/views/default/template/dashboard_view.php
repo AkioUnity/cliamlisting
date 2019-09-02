@@ -143,105 +143,9 @@ $api_key_text = ($map_api_key!='')?"&key=$map_api_key":'';
         </div>
     </div>
 </div>
-
     <div class="row">
-
-      <div class="col-md-7">
-
+      <div class="col-md-3">
         <div class="row">
-
-          <div class="col-md-7">
-
-            <div class="row">
-
-              <div class="col-md-12">
-
-                <div class="tile">
-
-                  <p class="title">
-
-                    Justmy Business Directory - Listing your local businesses
-
-                  </p>
-
-                  <p>
-
-                    Display your business
-
-                  </p>
-
-                  <div class="img img-bottom">
-
-                    <i class="fa fa-desktop"></i>
-
-                  </div>
-
-                </div>
-
-              </div>
-
-            </div>
-
-            
-
-          </div>
-
-          <div class="col-md-5">
-
-            <div class="row">
-
-              <div class="col-md-12 tile-active">
-
-                <div class="tile tile-magenta">
-
-                  <div class="img img-center">
-
-                    <i class="fa fa-desktop"></i>
-
-                  </div>
-
-                  <p class="title text-center">
-
-                    Justmy Admin
-
-                  </p>
-
-                </div>
-
-                <div class="tile tile-blue">
-
-                  <p class="title">
-
-                    Justmy Business Directory Admin
-
-                  </p>
-
-                  <p>
-
-                      Justmy Business Directory is the most complete and easy manageable Business Directory script
-
-                  </p>
-
-                  <div class="img img-bottom">
-
-                    <i class="fa fa-desktop"></i>
-
-                  </div>
-
-                </div>
-
-              </div>
-
-            </div>
-
-            
-
-          </div>
-
-
-        </div>
-        <div class="row">
-            <div class="col-md-6">
                 <div class="tile tile-green">
                     <div class="img">
                         <i class="fa fa-newspaper-o"></i>
@@ -252,18 +156,13 @@ $api_key_text = ($map_api_key!='')?"&key=$map_api_key":'';
                         <p class="title"><?php echo lang_key('business_listed') ?></p>
                     </div>
                 </div>
-            </div>
+
         </div>
       </div>
-
       <div class="col-md-5">
-
         <div class="row">
-
           <div class="col-md-6">
-
             <div class="tile tile-orange">
-
               <div class="img">
 
                 <i class="fa fa-users"></i>
@@ -271,9 +170,7 @@ $api_key_text = ($map_api_key!='')?"&key=$map_api_key":'';
               </div>
 
               <div class="content">
-
                 <p class="big">
-
                   <?php
                   $CI = get_instance();
                   $CI->load->database();

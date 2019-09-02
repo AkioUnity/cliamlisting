@@ -17,8 +17,8 @@ $config['package_currency'] = '';
 
 
 #active languages 
-$config['active_languages'] = array('en'=>'English','es'=>'Spanish','ru'=>'Russian','ar'=>'Arabic','de'=>'German','fr'=>'French','it'=>'Italian','pt'=>'Portuguese','zh'=>'Chinese (Simplified)','tr'=>'Turkish','hi'=>'Hindi','bn'=>'Bangla');
-//$config['active_languages'] = array('en'=>'English');
+//$config['active_languages'] = array('en'=>'English','es'=>'Spanish','ru'=>'Russian','ar'=>'Arabic','de'=>'German','fr'=>'French','it'=>'Italian','pt'=>'Portuguese','zh'=>'Chinese (Simplified)','tr'=>'Turkish','hi'=>'Hindi','bn'=>'Bangla');
+$config['active_languages'] = array('en'=>'English');
 
 
 #use ssl

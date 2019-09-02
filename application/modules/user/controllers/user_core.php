@@ -509,12 +509,12 @@ class User_core extends CI_Controller {
 			{
 				$post_id = $id;
 				$this->post_model->update_post($data,$id);
-				add_post_meta($post_id,'facebook_profile',$_POST['facebook_profile']);
-				add_post_meta($post_id,'twitter_profile',$_POST['twitter_profile']);
-				add_post_meta($post_id,'linkedin_profile',$_POST['linkedin_profile']);
-				add_post_meta($post_id,'pinterest_profile',$_POST['pinterest_profile']);
-				add_post_meta($post_id,'googleplus_profile',$_POST['googleplus_profile']);
-				add_post_meta($post_id,'instagram_profile',$_POST['instagram_profile']);//added on version 1.8
+//				add_post_meta($post_id,'facebook_profile',$_POST['facebook_profile']);
+//				add_post_meta($post_id,'twitter_profile',$_POST['twitter_profile']);
+//				add_post_meta($post_id,'linkedin_profile',$_POST['linkedin_profile']);
+//				add_post_meta($post_id,'pinterest_profile',$_POST['pinterest_profile']);
+//				add_post_meta($post_id,'googleplus_profile',$_POST['googleplus_profile']);
+//				add_post_meta($post_id,'instagram_profile',$_POST['instagram_profile']);//added on version 1.8
 				add_post_meta($post_id,'business_logo',$this->input->post('business_logo'));
 				// added on version 1.6
 				add_post_meta($post_id,'hide_my_phone',$this->input->post('hide_my_phone'));
