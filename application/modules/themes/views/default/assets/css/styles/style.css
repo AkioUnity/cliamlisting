@@ -5,7 +5,7 @@ body {
     font-size: 13px;
     line-height: 28px;
     background: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     -webkit-font-smoothing: antialiased
 }
 
@@ -2274,6 +2274,13 @@ a.brown:focus, a.brown:hover {
 body.boxed {
     margin: 0 80px;
     background: url("../../img/body/pattern/1.png") #fff
+}
+
+p {
+    line-height: 1.9em;
+    color: #666666;
+    font-size: 18px;
+    font-family: "Roboto Slab";
 }
 
 @media (max-width: 1000px) {

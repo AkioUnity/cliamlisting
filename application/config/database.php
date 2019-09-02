@@ -47,6 +47,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
+//$db['default']['hostname'] = '70.40.220.120';
+//$db['default']['username'] = 'justmyna_just';
+//$db['default']['password'] = '=ZR;P0y^tau2';
+//$db['default']['database'] = 'justmyna_an';
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
 $db['default']['password'] = 'djwth10';
